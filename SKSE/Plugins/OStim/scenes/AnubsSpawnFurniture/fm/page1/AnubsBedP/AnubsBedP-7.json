@@ -1,0 +1,48 @@
+{
+    "name": "Anubs Bed Prostitution",
+    "modpack": "AnubsAnimations",
+    "length": 6,
+    "destination": "AnubsBedP-6",
+    "speeds": [
+        {
+            "animation": "AnubsBedP_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -2,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "facial",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

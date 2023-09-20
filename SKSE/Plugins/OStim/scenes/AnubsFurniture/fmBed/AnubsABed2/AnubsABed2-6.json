@@ -1,0 +1,68 @@
+{
+    "name": "Anubs Adult Bed 2(invisible)",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "AnubsABed2-7",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsABed2-5",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "AnubsFurnitureFmBedHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsABed2_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 6,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ],
+            "autoTransitions": {
+                "climax": "AnubsABed2-7"
+            }
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting"
+            ],
+            "autoTransitions": {
+                "climax": "AnubsABed2-7"
+            }
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingarm",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs"
+    ],
+    "furniture": "bed"
+}

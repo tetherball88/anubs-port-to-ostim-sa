@@ -1,0 +1,63 @@
+{
+    "name": "Anubs Adult Bed 2(invisible)",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "AnubsABed2-3",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsABed2-1",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "AnubsFurnitureFmBedHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsABed2_2"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "pattinghead",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs"
+    ],
+    "furniture": "bed"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Anubs Lesbian Foot Fetish",
+    "modpack": "AnubsAnimations",
+    "length": 5.6,
+    "destination": "AnubsLesbianFf-5",
+    "speeds": [
+        {
+            "animation": "AnubsLesbianFf_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "kissing",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "grindingthigh",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

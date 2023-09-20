@@ -1,0 +1,69 @@
+{
+    "name": "Anubs  FFM Mistress",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "AnubsHumanFfmHub",
+            "description": "Anubs  FFM Mistress",
+            "icon": "OStim/symbols/gender_mf"
+        },
+        {
+            "destination": "AnubsFfmMistress-2",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsHumanFfmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsFfmMistress_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -9,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingarm",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "holdingchin",
+            "actor": 1,
+            "target": 2
+        }
+    ],
+    "tags": [
+        "anubs"
+    ]
+}

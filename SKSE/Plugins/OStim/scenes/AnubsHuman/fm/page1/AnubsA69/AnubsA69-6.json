@@ -1,0 +1,50 @@
+{
+    "name": "Anubs Adult 69",
+    "modpack": "AnubsAnimations",
+    "length": 11.2,
+    "destination": "AnubsA69-5",
+    "speeds": [
+        {
+            "animation": "AnubsA69_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "facingaway",
+                "allfours",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "deepthroat",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "femalemasturbation",
+            "actor": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "sixtynine",
+        "69",
+        "transition"
+    ]
+}

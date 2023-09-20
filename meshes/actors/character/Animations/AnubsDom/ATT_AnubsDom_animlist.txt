@@ -1,0 +1,201 @@
+b -Tn AnubsAAmazon_1_1 ..\AnubsDom\fmPos\AnubsAAmazon\AnubsAAmazon_1_1.hkx  
+b -Tn AnubsAAmazon_2_1 ..\AnubsDom\fmPos\AnubsAAmazon\AnubsAAmazon_2_1.hkx  
+b -Tn AnubsAAmazon_3_1 ..\AnubsDom\fmPos\AnubsAAmazon\AnubsAAmazon_3_1.hkx  
+b -Tn AnubsAAmazon_4_1 ..\AnubsDom\fmPos\AnubsAAmazon\AnubsAAmazon_4_1.hkx  
+b -Tn AnubsAAmazon_5_1 ..\AnubsDom\fmPos\AnubsAAmazon\AnubsAAmazon_5_1.hkx  
+b -Tn AnubsAAmazon_6_1 ..\AnubsDom\fmPos\AnubsAAmazon\AnubsAAmazon_6_1.hkx  
+b -Tn AnubsAAmazon_1_0 ..\AnubsDom\fmPos\AnubsAAmazon\AnubsAAmazon_1_0.hkx  
+b -Tn AnubsAAmazon_2_0 ..\AnubsDom\fmPos\AnubsAAmazon\AnubsAAmazon_2_0.hkx  
+b -Tn AnubsAAmazon_3_0 ..\AnubsDom\fmPos\AnubsAAmazon\AnubsAAmazon_3_0.hkx  
+b -Tn AnubsAAmazon_4_0 ..\AnubsDom\fmPos\AnubsAAmazon\AnubsAAmazon_4_0.hkx  
+b -Tn AnubsAAmazon_5_0 ..\AnubsDom\fmPos\AnubsAAmazon\AnubsAAmazon_5_0.hkx  
+b -Tn AnubsAAmazon_6_0 ..\AnubsDom\fmPos\AnubsAAmazon\AnubsAAmazon_6_0.hkx  
+b -Tn AnubsAfc2_1_1 ..\AnubsDom\fmPos\AnubsAfc2\AnubsAfc2_1_1.hkx  
+b -Tn AnubsAfc2_2_1 ..\AnubsDom\fmPos\AnubsAfc2\AnubsAfc2_2_1.hkx  
+b -Tn AnubsAfc2_3_1 ..\AnubsDom\fmPos\AnubsAfc2\AnubsAfc2_3_1.hkx  
+b -Tn AnubsAfc2_4_1 ..\AnubsDom\fmPos\AnubsAfc2\AnubsAfc2_4_1.hkx  
+b -Tn AnubsAfc2_5_1 ..\AnubsDom\fmPos\AnubsAfc2\AnubsAfc2_5_1.hkx  
+b -Tn AnubsAfc2_6_1 ..\AnubsDom\fmPos\AnubsAfc2\AnubsAfc2_6_1.hkx  
+b -Tn AnubsAfc2_1_0 ..\AnubsDom\fmPos\AnubsAfc2\AnubsAfc2_1_0.hkx  
+b -Tn AnubsAfc2_2_0 ..\AnubsDom\fmPos\AnubsAfc2\AnubsAfc2_2_0.hkx  
+b -Tn AnubsAfc2_3_0 ..\AnubsDom\fmPos\AnubsAfc2\AnubsAfc2_3_0.hkx  
+b -Tn AnubsAfc2_4_0 ..\AnubsDom\fmPos\AnubsAfc2\AnubsAfc2_4_0.hkx  
+b -Tn AnubsAfc2_5_0 ..\AnubsDom\fmPos\AnubsAfc2\AnubsAfc2_5_0.hkx  
+b -Tn AnubsAfc2_6_0 ..\AnubsDom\fmPos\AnubsAfc2\AnubsAfc2_6_0.hkx  
+b -Tn AnubsAmazon_1_1 ..\AnubsDom\fmPos\AnubsAmazon\AnubsAmazon_1_1.hkx  
+b -Tn AnubsAmazon_2_1 ..\AnubsDom\fmPos\AnubsAmazon\AnubsAmazon_2_1.hkx  
+b -Tn AnubsAmazon_3_1 ..\AnubsDom\fmPos\AnubsAmazon\AnubsAmazon_3_1.hkx  
+b -Tn AnubsAmazon_4_1 ..\AnubsDom\fmPos\AnubsAmazon\AnubsAmazon_4_1.hkx  
+b -Tn AnubsAmazon_5_1 ..\AnubsDom\fmPos\AnubsAmazon\AnubsAmazon_5_1.hkx  
+b -Tn AnubsAmazon_1_0 ..\AnubsDom\fmPos\AnubsAmazon\AnubsAmazon_1_0.hkx  
+b -Tn AnubsAmazon_2_0 ..\AnubsDom\fmPos\AnubsAmazon\AnubsAmazon_2_0.hkx  
+b -Tn AnubsAmazon_3_0 ..\AnubsDom\fmPos\AnubsAmazon\AnubsAmazon_3_0.hkx  
+b -Tn AnubsAmazon_4_0 ..\AnubsDom\fmPos\AnubsAmazon\AnubsAmazon_4_0.hkx  
+b -Tn AnubsAmazon_5_0 ..\AnubsDom\fmPos\AnubsAmazon\AnubsAmazon_5_0.hkx  
+b -Tn AnubsAnubdomcow_1_1 ..\AnubsDom\fmPos\AnubsAnubdomcow\AnubsAnubdomcow_1_1.hkx  
+b -Tn AnubsAnubdomcow_2_1 ..\AnubsDom\fmPos\AnubsAnubdomcow\AnubsAnubdomcow_2_1.hkx  
+b -Tn AnubsAnubdomcow_3_1 ..\AnubsDom\fmPos\AnubsAnubdomcow\AnubsAnubdomcow_3_1.hkx  
+b -Tn AnubsAnubdomcow_4_1 ..\AnubsDom\fmPos\AnubsAnubdomcow\AnubsAnubdomcow_4_1.hkx  
+b -Tn AnubsAnubdomcow_5_1 ..\AnubsDom\fmPos\AnubsAnubdomcow\AnubsAnubdomcow_5_1.hkx  
+b -Tn AnubsAnubdomcow_1_0 ..\AnubsDom\fmPos\AnubsAnubdomcow\AnubsAnubdomcow_1_0.hkx  
+b -Tn AnubsAnubdomcow_2_0 ..\AnubsDom\fmPos\AnubsAnubdomcow\AnubsAnubdomcow_2_0.hkx  
+b -Tn AnubsAnubdomcow_3_0 ..\AnubsDom\fmPos\AnubsAnubdomcow\AnubsAnubdomcow_3_0.hkx  
+b -Tn AnubsAnubdomcow_4_0 ..\AnubsDom\fmPos\AnubsAnubdomcow\AnubsAnubdomcow_4_0.hkx  
+b -Tn AnubsAnubdomcow_5_0 ..\AnubsDom\fmPos\AnubsAnubdomcow\AnubsAnubdomcow_5_0.hkx  
+b -Tn AnubsAnubfemdom_1_1 ..\AnubsDom\fmPos\AnubsAnubfemdom\AnubsAnubfemdom_1_1.hkx  
+b -Tn AnubsAnubfemdom_2_1 ..\AnubsDom\fmPos\AnubsAnubfemdom\AnubsAnubfemdom_2_1.hkx  
+b -Tn AnubsAnubfemdom_3_1 ..\AnubsDom\fmPos\AnubsAnubfemdom\AnubsAnubfemdom_3_1.hkx  
+b -Tn AnubsAnubfemdom_4_1 ..\AnubsDom\fmPos\AnubsAnubfemdom\AnubsAnubfemdom_4_1.hkx  
+b -Tn AnubsAnubfemdom_5_1 ..\AnubsDom\fmPos\AnubsAnubfemdom\AnubsAnubfemdom_5_1.hkx  
+b -Tn AnubsAnubfemdom_1_0 ..\AnubsDom\fmPos\AnubsAnubfemdom\AnubsAnubfemdom_1_0.hkx  
+b -Tn AnubsAnubfemdom_2_0 ..\AnubsDom\fmPos\AnubsAnubfemdom\AnubsAnubfemdom_2_0.hkx  
+b -Tn AnubsAnubfemdom_3_0 ..\AnubsDom\fmPos\AnubsAnubfemdom\AnubsAnubfemdom_3_0.hkx  
+b -Tn AnubsAnubfemdom_4_0 ..\AnubsDom\fmPos\AnubsAnubfemdom\AnubsAnubfemdom_4_0.hkx  
+b -Tn AnubsAnubfemdom_5_0 ..\AnubsDom\fmPos\AnubsAnubfemdom\AnubsAnubfemdom_5_0.hkx  
+b -Tn AnubsFacesit_1_1 ..\AnubsDom\fmPos\AnubsFacesit\AnubsFacesit_1_1.hkx  
+b -Tn AnubsFacesit_2_1 ..\AnubsDom\fmPos\AnubsFacesit\AnubsFacesit_2_1.hkx  
+b -Tn AnubsFacesit_3_1 ..\AnubsDom\fmPos\AnubsFacesit\AnubsFacesit_3_1.hkx  
+b -Tn AnubsFacesit_4_1 ..\AnubsDom\fmPos\AnubsFacesit\AnubsFacesit_4_1.hkx  
+b -Tn AnubsFacesit_5_1 ..\AnubsDom\fmPos\AnubsFacesit\AnubsFacesit_5_1.hkx  
+b -Tn AnubsFacesit_1_0 ..\AnubsDom\fmPos\AnubsFacesit\AnubsFacesit_1_0.hkx  
+b -Tn AnubsFacesit_2_0 ..\AnubsDom\fmPos\AnubsFacesit\AnubsFacesit_2_0.hkx  
+b -Tn AnubsFacesit_3_0 ..\AnubsDom\fmPos\AnubsFacesit\AnubsFacesit_3_0.hkx  
+b -Tn AnubsFacesit_4_0 ..\AnubsDom\fmPos\AnubsFacesit\AnubsFacesit_4_0.hkx  
+b -Tn AnubsFacesit_5_0 ..\AnubsDom\fmPos\AnubsFacesit\AnubsFacesit_5_0.hkx  
+b -Tn AnubsFemfoot_1_1 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_1_1.hkx  
+b -Tn AnubsFemfoot_2_1 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_2_1.hkx  
+b -Tn AnubsFemfoot_3_1 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_3_1.hkx  
+b -Tn AnubsFemfoot_4_1 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_4_1.hkx  
+b -Tn AnubsFemfoot_5_1 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_5_1.hkx  
+b -Tn AnubsFemfoot_6_1 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_6_1.hkx  
+b -Tn AnubsFemfoot_1_0 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_1_0.hkx  
+b -Tn AnubsFemfoot_2_0 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_2_0.hkx  
+b -Tn AnubsFemfoot_3_0 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_3_0.hkx  
+b -Tn AnubsFemfoot_4_0 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_4_0.hkx  
+b -Tn AnubsFemfoot_5_0 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_5_0.hkx  
+b -Tn AnubsFemfoot_6_0 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_6_0.hkx  
+b -Tn AnubsFfmFemdom3_1_1 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_1_1.hkx  
+b -Tn AnubsFfmFemdom3_2_1 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_2_1.hkx  
+b -Tn AnubsFfmFemdom3_3_1 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_3_1.hkx  
+b -Tn AnubsFfmFemdom3_4_1 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_4_1.hkx  
+b -Tn AnubsFfmFemdom3_1_2 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_1_2.hkx  
+b -Tn AnubsFfmFemdom3_2_2 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_2_2.hkx  
+b -Tn AnubsFfmFemdom3_3_2 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_3_2.hkx  
+b -Tn AnubsFfmFemdom3_4_2 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_4_2.hkx  
+b -o AnubsFfmFemdom3_1_0 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_1_0.hkx AOcuffL2 AOcuffR2 AOchair4 
+b -o AnubsFfmFemdom3_2_0 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_2_0.hkx AOcuffL2 AOcuffR2 AOchair4 
+b -o AnubsFfmFemdom3_3_0 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_3_0.hkx AOcuffL2 AOcuffR2 AOchair4 
+b -o AnubsFfmFemdom3_4_0 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_4_0.hkx AOcuffL2 AOcuffR2 AOchair4 
+b -Tn AnubsFfmReversal_1_1 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_1_1.hkx  
+b -Tn AnubsFfmReversal_2_1 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_2_1.hkx  
+b -Tn AnubsFfmReversal_3_1 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_3_1.hkx  
+b -Tn AnubsFfmReversal_4_1 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_4_1.hkx  
+b -Tn AnubsFfmReversal_5_1 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_5_1.hkx  
+b -Tn AnubsFfmReversal_6_1 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_6_1.hkx  
+b -Tn AnubsFfmReversal_1_2 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_1_2.hkx  
+b -Tn AnubsFfmReversal_2_2 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_2_2.hkx  
+b -Tn AnubsFfmReversal_3_2 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_3_2.hkx  
+b -Tn AnubsFfmReversal_4_2 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_4_2.hkx  
+b -Tn AnubsFfmReversal_5_2 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_5_2.hkx  
+b -Tn AnubsFfmReversal_6_2 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_6_2.hkx  
+b -Tn AnubsFfmReversal_1_0 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_1_0.hkx  
+b -Tn AnubsFfmReversal_2_0 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_2_0.hkx  
+b -Tn AnubsFfmReversal_3_0 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_3_0.hkx  
+b -Tn AnubsFfmReversal_4_0 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_4_0.hkx  
+b -Tn AnubsFfmReversal_5_0 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_5_0.hkx  
+b -Tn AnubsFfmReversal_6_0 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_6_0.hkx  
+b -Tn AnubsFfmfemdom_1_1 ..\AnubsDom\ffmPos\AnubsFfmfemdom\AnubsFfmfemdom_1_1.hkx  
+b -Tn AnubsFfmfemdom_2_1 ..\AnubsDom\ffmPos\AnubsFfmfemdom\AnubsFfmfemdom_2_1.hkx  
+b -Tn AnubsFfmfemdom_3_1 ..\AnubsDom\ffmPos\AnubsFfmfemdom\AnubsFfmfemdom_3_1.hkx  
+b -Tn AnubsFfmfemdom_4_1 ..\AnubsDom\ffmPos\AnubsFfmfemdom\AnubsFfmfemdom_4_1.hkx  
+b -Tn AnubsFfmfemdom_1_2 ..\AnubsDom\ffmPos\AnubsFfmfemdom\AnubsFfmfemdom_1_2.hkx  
+b -Tn AnubsFfmfemdom_2_2 ..\AnubsDom\ffmPos\AnubsFfmfemdom\AnubsFfmfemdom_2_2.hkx  
+b -Tn AnubsFfmfemdom_3_2 ..\AnubsDom\ffmPos\AnubsFfmfemdom\AnubsFfmfemdom_3_2.hkx  
+b -Tn AnubsFfmfemdom_4_2 ..\AnubsDom\ffmPos\AnubsFfmfemdom\AnubsFfmfemdom_4_2.hkx  
+b -Tn AnubsFfmfemdom_1_0 ..\AnubsDom\ffmPos\AnubsFfmfemdom\AnubsFfmfemdom_1_0.hkx  
+b -Tn AnubsFfmfemdom_2_0 ..\AnubsDom\ffmPos\AnubsFfmfemdom\AnubsFfmfemdom_2_0.hkx  
+b -Tn AnubsFfmfemdom_3_0 ..\AnubsDom\ffmPos\AnubsFfmfemdom\AnubsFfmfemdom_3_0.hkx  
+b -Tn AnubsFfmfemdom_4_0 ..\AnubsDom\ffmPos\AnubsFfmfemdom\AnubsFfmfemdom_4_0.hkx  
+b -Tn AnubsFfmfemdom2_1_1 ..\AnubsDom\ffmPos\AnubsFfmfemdom2\AnubsFfmfemdom2_1_1.hkx  
+b -Tn AnubsFfmfemdom2_2_1 ..\AnubsDom\ffmPos\AnubsFfmfemdom2\AnubsFfmfemdom2_2_1.hkx  
+b -Tn AnubsFfmfemdom2_3_1 ..\AnubsDom\ffmPos\AnubsFfmfemdom2\AnubsFfmfemdom2_3_1.hkx  
+b -Tn AnubsFfmfemdom2_4_1 ..\AnubsDom\ffmPos\AnubsFfmfemdom2\AnubsFfmfemdom2_4_1.hkx  
+b -o AnubsFfmfemdom2_1_2 ..\AnubsDom\ffmPos\AnubsFfmfemdom2\AnubsFfmfemdom2_1_2.hkx AOdagger2 
+b -o AnubsFfmfemdom2_2_2 ..\AnubsDom\ffmPos\AnubsFfmfemdom2\AnubsFfmfemdom2_2_2.hkx AOdagger2 
+b -o AnubsFfmfemdom2_3_2 ..\AnubsDom\ffmPos\AnubsFfmfemdom2\AnubsFfmfemdom2_3_2.hkx AOdagger2 
+b -o AnubsFfmfemdom2_4_2 ..\AnubsDom\ffmPos\AnubsFfmfemdom2\AnubsFfmfemdom2_4_2.hkx AOdagger2 
+b -o AnubsFfmfemdom2_1_0 ..\AnubsDom\ffmPos\AnubsFfmfemdom2\AnubsFfmfemdom2_1_0.hkx AOcuffL AOcuffR 
+b -o AnubsFfmfemdom2_2_0 ..\AnubsDom\ffmPos\AnubsFfmfemdom2\AnubsFfmfemdom2_2_0.hkx AOcuffL AOcuffR 
+b -o AnubsFfmfemdom2_3_0 ..\AnubsDom\ffmPos\AnubsFfmfemdom2\AnubsFfmfemdom2_3_0.hkx AOcuffL AOcuffR 
+b -o AnubsFfmfemdom2_4_0 ..\AnubsDom\ffmPos\AnubsFfmfemdom2\AnubsFfmfemdom2_4_0.hkx AOcuffL AOcuffR 
+b -Tn AnubsHge_1_1 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_1_1.hkx  
+b -Tn AnubsHge_2_1 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_2_1.hkx  
+b -Tn AnubsHge_3_1 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_3_1.hkx  
+b -Tn AnubsHge_4_1 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_4_1.hkx  
+b -Tn AnubsHge_5_1 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_5_1.hkx  
+b -Tn AnubsHge_6_1 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_6_1.hkx  
+b -Tn AnubsHge_7_1 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_7_1.hkx  
+b -Tn AnubsHge_1_2 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_1_2.hkx  
+b -Tn AnubsHge_2_2 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_2_2.hkx  
+b -Tn AnubsHge_3_2 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_3_2.hkx  
+b -Tn AnubsHge_4_2 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_4_2.hkx  
+b -Tn AnubsHge_5_2 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_5_2.hkx  
+b -Tn AnubsHge_6_2 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_6_2.hkx  
+b -Tn AnubsHge_7_2 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_7_2.hkx  
+b -Tn AnubsHge_1_0 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_1_0.hkx  
+b -Tn AnubsHge_2_0 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_2_0.hkx  
+b -Tn AnubsHge_3_0 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_3_0.hkx  
+b -Tn AnubsHge_4_0 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_4_0.hkx  
+b -Tn AnubsHge_5_0 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_5_0.hkx  
+b -Tn AnubsHge_6_0 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_6_0.hkx  
+b -Tn AnubsHge_7_0 ..\AnubsDom\ffmPos\AnubsHge\AnubsHge_7_0.hkx  
+b -Tn AnubsHypno_1_1 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_1_1.hkx  
+b -Tn AnubsHypno_2_1 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_2_1.hkx  
+b -Tn AnubsHypno_3_1 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_3_1.hkx  
+b -Tn AnubsHypno_4_1 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_4_1.hkx  
+b -Tn AnubsHypno_5_1 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_5_1.hkx  
+b -Tn AnubsHypno_6_1 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_6_1.hkx  
+b -Tn AnubsHypno_7_1 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_7_1.hkx  
+b -Tn AnubsHypno_8_1 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_8_1.hkx  
+b -o AnubsHypno_1_0 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_1_0.hkx AnubAmulet 
+b -o AnubsHypno_2_0 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_2_0.hkx AnubAmulet 
+b -o AnubsHypno_3_0 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_3_0.hkx AnubAmulet 
+b -o AnubsHypno_4_0 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_4_0.hkx AnubAmulet 
+b -o AnubsHypno_5_0 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_5_0.hkx AnubAmulet 
+b -o AnubsHypno_6_0 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_6_0.hkx AnubAmulet 
+b -o AnubsHypno_7_0 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_7_0.hkx AnubAmulet 
+b -o AnubsHypno_8_0 ..\AnubsDom\fmPos\AnubsHypno\AnubsHypno_8_0.hkx AnubAmulet 
+b -o AnubsKnife_1_1 ..\AnubsDom\fmPos\AnubsKnife\AnubsKnife_1_1.hkx AOdagger 
+b -o AnubsKnife_2_1 ..\AnubsDom\fmPos\AnubsKnife\AnubsKnife_2_1.hkx AOdagger 
+b -o AnubsKnife_3_1 ..\AnubsDom\fmPos\AnubsKnife\AnubsKnife_3_1.hkx AOdagger 
+b -o AnubsKnife_4_1 ..\AnubsDom\fmPos\AnubsKnife\AnubsKnife_4_1.hkx AOdagger 
+b -o AnubsKnife_5_1 ..\AnubsDom\fmPos\AnubsKnife\AnubsKnife_5_1.hkx AOdagger 
+b -o AnubsKnife_6_1 ..\AnubsDom\fmPos\AnubsKnife\AnubsKnife_6_1.hkx AOdagger 
+b -Tn AnubsKnife_1_0 ..\AnubsDom\fmPos\AnubsKnife\AnubsKnife_1_0.hkx  
+b -Tn AnubsKnife_2_0 ..\AnubsDom\fmPos\AnubsKnife\AnubsKnife_2_0.hkx  
+b -Tn AnubsKnife_3_0 ..\AnubsDom\fmPos\AnubsKnife\AnubsKnife_3_0.hkx  
+b -Tn AnubsKnife_4_0 ..\AnubsDom\fmPos\AnubsKnife\AnubsKnife_4_0.hkx  
+b -Tn AnubsKnife_5_0 ..\AnubsDom\fmPos\AnubsKnife\AnubsKnife_5_0.hkx  
+b -Tn AnubsKnife_6_0 ..\AnubsDom\fmPos\AnubsKnife\AnubsKnife_6_0.hkx  
+b -o AnubsMbf_1_1 ..\AnubsDom\fmPos\AnubsMbf\AnubsMbf_1_1.hkx AOruneA AOruneB 
+b -o AnubsMbf_2_1 ..\AnubsDom\fmPos\AnubsMbf\AnubsMbf_2_1.hkx AOruneA AOruneB 
+b -o AnubsMbf_3_1 ..\AnubsDom\fmPos\AnubsMbf\AnubsMbf_3_1.hkx AOruneA AOruneB 
+b -o AnubsMbf_4_1 ..\AnubsDom\fmPos\AnubsMbf\AnubsMbf_4_1.hkx AOruneA AOruneB 
+b -o AnubsMbf_5_1 ..\AnubsDom\fmPos\AnubsMbf\AnubsMbf_5_1.hkx AOruneA AOruneB 
+b -o AnubsMbf_1_0 ..\AnubsDom\fmPos\AnubsMbf\AnubsMbf_1_0.hkx AOruneA AOruneB 
+b -o AnubsMbf_2_0 ..\AnubsDom\fmPos\AnubsMbf\AnubsMbf_2_0.hkx AOruneA AOruneB 
+b -o AnubsMbf_3_0 ..\AnubsDom\fmPos\AnubsMbf\AnubsMbf_3_0.hkx AOruneA AOruneB 
+b -o AnubsMbf_4_0 ..\AnubsDom\fmPos\AnubsMbf\AnubsMbf_4_0.hkx AOruneA AOruneB 
+b -o AnubsMbf_5_0 ..\AnubsDom\fmPos\AnubsMbf\AnubsMbf_5_0.hkx AOruneA AOruneB 
+b -o AnubsSwordCg_1_1 ..\AnubsDom\fmPos\AnubsSwordCg\AnubsSwordCg_1_1.hkx AOswordBIG 
+b -o AnubsSwordCg_2_1 ..\AnubsDom\fmPos\AnubsSwordCg\AnubsSwordCg_2_1.hkx AOswordBIG 
+b -o AnubsSwordCg_3_1 ..\AnubsDom\fmPos\AnubsSwordCg\AnubsSwordCg_3_1.hkx AOswordBIG 
+b -o AnubsSwordCg_4_1 ..\AnubsDom\fmPos\AnubsSwordCg\AnubsSwordCg_4_1.hkx AOswordBIG 
+b -o AnubsSwordCg_5_1 ..\AnubsDom\fmPos\AnubsSwordCg\AnubsSwordCg_5_1.hkx AOswordBIG 
+b -o AnubsSwordCg_6_1 ..\AnubsDom\fmPos\AnubsSwordCg\AnubsSwordCg_6_1.hkx AOswordBIG 
+b -Tn AnubsSwordCg_1_0 ..\AnubsDom\fmPos\AnubsSwordCg\AnubsSwordCg_1_0.hkx  
+b -Tn AnubsSwordCg_2_0 ..\AnubsDom\fmPos\AnubsSwordCg\AnubsSwordCg_2_0.hkx  
+b -Tn AnubsSwordCg_3_0 ..\AnubsDom\fmPos\AnubsSwordCg\AnubsSwordCg_3_0.hkx  
+b -Tn AnubsSwordCg_4_0 ..\AnubsDom\fmPos\AnubsSwordCg\AnubsSwordCg_4_0.hkx  
+b -Tn AnubsSwordCg_5_0 ..\AnubsDom\fmPos\AnubsSwordCg\AnubsSwordCg_5_0.hkx  
+b -Tn AnubsSwordCg_6_0 ..\AnubsDom\fmPos\AnubsSwordCg\AnubsSwordCg_6_0.hkx  

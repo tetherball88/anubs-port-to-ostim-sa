@@ -1,0 +1,33 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsFfmSleep-1",
+            "duration": 24
+        },
+        {
+            "id": "AnubsFfmSleep-2",
+            "duration": 12
+        },
+        {
+            "id": "AnubsFfmSleep-3",
+            "duration": 12
+        },
+        {
+            "id": "AnubsFfmSleep-4",
+            "duration": 12
+        },
+        {
+            "id": "AnubsFfmSleep-5",
+            "duration": 12
+        },
+        {
+            "id": "AnubsFfmSleep-6",
+            "duration": 10
+        },
+        {
+            "id": "AnubsFfmSleep-7",
+            "duration": 12
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,37 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsHypno-1",
+            "duration": 12
+        },
+        {
+            "id": "AnubsHypno-2",
+            "duration": 12
+        },
+        {
+            "id": "AnubsHypno-3",
+            "duration": 11
+        },
+        {
+            "id": "AnubsHypno-4",
+            "duration": 10
+        },
+        {
+            "id": "AnubsHypno-5",
+            "duration": 12
+        },
+        {
+            "id": "AnubsHypno-6",
+            "duration": 11.2
+        },
+        {
+            "id": "AnubsHypno-7",
+            "duration": 11
+        },
+        {
+            "id": "AnubsHypno-8",
+            "duration": 12
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Anubs  Adult Footjob",
+    "modpack": "AnubsAnimations",
+    "length": 11,
+    "destination": "AnubsAdultFootjob-5",
+    "speeds": [
+        {
+            "animation": "AnubsAdultFootjob_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "sitting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "footjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

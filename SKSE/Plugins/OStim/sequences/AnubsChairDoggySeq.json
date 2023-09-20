@@ -1,0 +1,29 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsChairDoggy-1",
+            "duration": 10
+        },
+        {
+            "id": "AnubsChairDoggy-2",
+            "duration": 6.666667
+        },
+        {
+            "id": "AnubsChairDoggy-3",
+            "duration": 8.8
+        },
+        {
+            "id": "AnubsChairDoggy-4",
+            "duration": 8.666667
+        },
+        {
+            "id": "AnubsChairDoggy-5",
+            "duration": 5.666667
+        },
+        {
+            "id": "AnubsChairDoggy-6",
+            "duration": 8.666667
+        }
+    ],
+    "tags": []
+}

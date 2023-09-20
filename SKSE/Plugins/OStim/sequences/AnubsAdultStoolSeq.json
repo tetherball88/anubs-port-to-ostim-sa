@@ -1,0 +1,29 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsAdultStool-1",
+            "duration": 9.333333
+        },
+        {
+            "id": "AnubsAdultStool-2",
+            "duration": 10.2
+        },
+        {
+            "id": "AnubsAdultStool-3",
+            "duration": 10
+        },
+        {
+            "id": "AnubsAdultStool-4",
+            "duration": 10
+        },
+        {
+            "id": "AnubsAdultStool-5",
+            "duration": 10.2
+        },
+        {
+            "id": "AnubsAdultStool-6",
+            "duration": 9.333333
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,70 @@
+{
+    "name": "Anubs  Femdom",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "AnubsAnubfemdom-3",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsAnubfemdom-1",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "AnubsDomFmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsAnubfemdom_2"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -4,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "cunnilingus",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "deepthroat",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "holdingthigh",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "facesitting",
+        "femdom",
+        "sixtynine",
+        "69"
+    ]
+}

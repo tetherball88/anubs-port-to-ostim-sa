@@ -1,0 +1,41 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsRune-1",
+            "duration": 8
+        },
+        {
+            "id": "AnubsRune-2",
+            "duration": 6
+        },
+        {
+            "id": "AnubsRune-3",
+            "duration": 5.666667
+        },
+        {
+            "id": "AnubsRune-4",
+            "duration": 6.6
+        },
+        {
+            "id": "AnubsRune-5",
+            "duration": 6.333333
+        },
+        {
+            "id": "AnubsRune-6",
+            "duration": 6
+        },
+        {
+            "id": "AnubsRune-7",
+            "duration": 6.233333
+        },
+        {
+            "id": "AnubsRune-8",
+            "duration": 6
+        },
+        {
+            "id": "AnubsRune-9",
+            "duration": 5
+        }
+    ],
+    "tags": []
+}

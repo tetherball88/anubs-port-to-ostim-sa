@@ -1,0 +1,21 @@
+b -o AnubsBarrelMast_1_0 ..\AnubsSolo\fPos\AnubsBarrelMast\AnubsBarrelMast_1_0.hkx AnubBarrel 
+b -o AnubsBarrelMast_2_0 ..\AnubsSolo\fPos\AnubsBarrelMast\AnubsBarrelMast_2_0.hkx AnubBarrel 
+b -o AnubsBarrelMast_3_0 ..\AnubsSolo\fPos\AnubsBarrelMast\AnubsBarrelMast_3_0.hkx AnubBarrel 
+b -o AnubsBarrelMast_4_0 ..\AnubsSolo\fPos\AnubsBarrelMast\AnubsBarrelMast_4_0.hkx AnubBarrel 
+b -o AnubsBarrelMast_5_0 ..\AnubsSolo\fPos\AnubsBarrelMast\AnubsBarrelMast_5_0.hkx AnubBarrel anubsquirt 
+b -o AnubsDildo_1_0 ..\AnubsSolo\fPos\AnubsDildo\AnubsDildo_1_0.hkx AOmagickdildo1 AOmagickdildo2 
+b -o AnubsDildo_2_0 ..\AnubsSolo\fPos\AnubsDildo\AnubsDildo_2_0.hkx AOmagickdildo1 AOmagickdildo2 
+b -o AnubsDildo_3_0 ..\AnubsSolo\fPos\AnubsDildo\AnubsDildo_3_0.hkx AOmagickdildo1 AOmagickdildo2 
+b -o AnubsDildo_4_0 ..\AnubsSolo\fPos\AnubsDildo\AnubsDildo_4_0.hkx AOmagickdildo1 AOmagickdildo2 
+b -o AnubsDildo_5_0 ..\AnubsSolo\fPos\AnubsDildo\AnubsDildo_5_0.hkx AOmagickdildo1 AOmagickdildo2b 
+b -o AnubsDildo_6_0 ..\AnubsSolo\fPos\AnubsDildo\AnubsDildo_6_0.hkx AOmagickdildo1b AOmagickdildo2b 
+b -Tn AnubsFMast1_1_0 ..\AnubsSolo\fPos\AnubsFMast1\AnubsFMast1_1_0.hkx  
+b -Tn AnubsFMast1_2_0 ..\AnubsSolo\fPos\AnubsFMast1\AnubsFMast1_2_0.hkx  
+b -Tn AnubsFMast1_3_0 ..\AnubsSolo\fPos\AnubsFMast1\AnubsFMast1_3_0.hkx  
+b -Tn AnubsFMast1_4_0 ..\AnubsSolo\fPos\AnubsFMast1\AnubsFMast1_4_0.hkx  
+b -o AnubsFMast1_5_0 ..\AnubsSolo\fPos\AnubsFMast1\AnubsFMast1_5_0.hkx Anubsquirt 
+b -o AnubsFMast2_1_0 ..\AnubsSolo\fPos\AnubsFMast2\AnubsFMast2_1_0.hkx AnubHorseDildo1 
+b -o AnubsFMast2_2_0 ..\AnubsSolo\fPos\AnubsFMast2\AnubsFMast2_2_0.hkx AnubHorseDildo2 
+b -o AnubsFMast2_3_0 ..\AnubsSolo\fPos\AnubsFMast2\AnubsFMast2_3_0.hkx AnubHorseDildo3 
+b -o AnubsFMast2_4_0 ..\AnubsSolo\fPos\AnubsFMast2\AnubsFMast2_4_0.hkx AnubHorseDildo4 
+b -o AnubsFMast2_5_0 ..\AnubsSolo\fPos\AnubsFMast2\AnubsFMast2_5_0.hkx AnubHorseDildo5 

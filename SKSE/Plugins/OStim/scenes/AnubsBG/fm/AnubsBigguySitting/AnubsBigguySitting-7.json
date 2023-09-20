@@ -1,0 +1,60 @@
+{
+    "name": "Anubs BigGuy Sitting(Basescale 1.15)",
+    "modpack": "AnubsAnimations",
+    "length": 9.333333,
+    "destination": "AnubsBigguySitting-6",
+    "speeds": [
+        {
+            "animation": "AnubsBigguySitting_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 5,
+            "scale": 1.15,
+            "feetOnGround": true,
+            "tags": [
+                "sitting",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "sitting",
+                "ontop"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "kissing",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "bigguy",
+        "transition"
+    ]
+}

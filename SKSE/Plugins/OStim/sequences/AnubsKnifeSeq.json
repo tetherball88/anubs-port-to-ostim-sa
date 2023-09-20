@@ -1,0 +1,29 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsKnife-1",
+            "duration": 6.666667
+        },
+        {
+            "id": "AnubsKnife-2",
+            "duration": 8.333333
+        },
+        {
+            "id": "AnubsKnife-3",
+            "duration": 6
+        },
+        {
+            "id": "AnubsKnife-4",
+            "duration": 5
+        },
+        {
+            "id": "AnubsKnife-5",
+            "duration": 12
+        },
+        {
+            "id": "AnubsKnife-6",
+            "duration": 6.666667
+        }
+    ],
+    "tags": []
+}

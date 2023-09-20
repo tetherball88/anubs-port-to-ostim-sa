@@ -1,0 +1,58 @@
+{
+    "name": "Anubs Adult Tease 2",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "AnubsAdultTease2-5",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsAdultTease2-3",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "AnubsHumanPage1",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsAdultTease2_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "facingaway",
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "buttjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "reversecowgirl"
+    ]
+}

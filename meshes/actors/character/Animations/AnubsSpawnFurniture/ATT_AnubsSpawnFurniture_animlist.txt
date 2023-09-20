@@ -1,0 +1,235 @@
+b -o AnubsABedsleep_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsABedsleep\AnubsABedsleep_1_1.hkx AnubBedA AnubPillow 
+b -o AnubsABedsleep_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsABedsleep\AnubsABedsleep_2_1.hkx AnubBedA AnubPillow 
+b -o AnubsABedsleep_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsABedsleep\AnubsABedsleep_3_1.hkx AnubBedA AnubPillow 
+b -o AnubsABedsleep_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsABedsleep\AnubsABedsleep_4_1.hkx AnubBedA AnubPillow 
+b -o AnubsABedsleep_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsABedsleep\AnubsABedsleep_5_1.hkx AnubBedA AnubPillow 
+b -o AnubsABedsleep_6_1 ..\AnubsSpawnFurniture\fmPos\AnubsABedsleep\AnubsABedsleep_6_1.hkx AnubBedA AnubPillow 
+b -Tn AnubsABedsleep_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsABedsleep\AnubsABedsleep_1_0.hkx  
+b -Tn AnubsABedsleep_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsABedsleep\AnubsABedsleep_2_0.hkx  
+b -Tn AnubsABedsleep_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsABedsleep\AnubsABedsleep_3_0.hkx  
+b -Tn AnubsABedsleep_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsABedsleep\AnubsABedsleep_4_0.hkx  
+b -Tn AnubsABedsleep_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsABedsleep\AnubsABedsleep_5_0.hkx  
+b -Tn AnubsABedsleep_6_0 ..\AnubsSpawnFurniture\fmPos\AnubsABedsleep\AnubsABedsleep_6_0.hkx  
+b -o AnubsAChairCg_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsAChairCg\AnubsAChairCg_1_1.hkx Anubbuttchair 
+b -o AnubsAChairCg_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsAChairCg\AnubsAChairCg_2_1.hkx Anubbuttchair 
+b -o AnubsAChairCg_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsAChairCg\AnubsAChairCg_3_1.hkx Anubbuttchair 
+b -o AnubsAChairCg_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsAChairCg\AnubsAChairCg_4_1.hkx Anubbuttchair 
+b -o AnubsAChairCg_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsAChairCg\AnubsAChairCg_5_1.hkx Anubbuttchair 
+b -o AnubsAChairCg_6_1 ..\AnubsSpawnFurniture\fmPos\AnubsAChairCg\AnubsAChairCg_6_1.hkx Anubbuttchair 
+b -Tn AnubsAChairCg_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsAChairCg\AnubsAChairCg_1_0.hkx  
+b -Tn AnubsAChairCg_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsAChairCg\AnubsAChairCg_2_0.hkx  
+b -Tn AnubsAChairCg_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsAChairCg\AnubsAChairCg_3_0.hkx  
+b -Tn AnubsAChairCg_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsAChairCg\AnubsAChairCg_4_0.hkx  
+b -Tn AnubsAChairCg_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsAChairCg\AnubsAChairCg_5_0.hkx  
+b -Tn AnubsAChairCg_6_0 ..\AnubsSpawnFurniture\fmPos\AnubsAChairCg\AnubsAChairCg_6_0.hkx  
+b -o AnubsASide_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_1_1.hkx AnubbuttchairB 
+b -o AnubsASide_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_2_1.hkx AnubbuttchairB 
+b -o AnubsASide_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_3_1.hkx AnubbuttchairB 
+b -o AnubsASide_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_4_1.hkx AnubbuttchairB 
+b -o AnubsASide_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_5_1.hkx AnubbuttchairB 
+b -o AnubsASide_6_1 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_6_1.hkx AnubbuttchairB 
+b -o AnubsASide_7_1 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_7_1.hkx AnubbuttchairB 
+b -Tn AnubsASide_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_1_0.hkx  
+b -Tn AnubsASide_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_2_0.hkx  
+b -Tn AnubsASide_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_3_0.hkx  
+b -Tn AnubsASide_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_4_0.hkx  
+b -Tn AnubsASide_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_5_0.hkx  
+b -Tn AnubsASide_6_0 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_6_0.hkx  
+b -Tn AnubsASide_7_0 ..\AnubsSpawnFurniture\fmPos\AnubsASide\AnubsASide_7_0.hkx  
+b -Tn AnubsASofa_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_1_1.hkx  
+b -Tn AnubsASofa_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_2_1.hkx  
+b -Tn AnubsASofa_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_3_1.hkx  
+b -Tn AnubsASofa_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_4_1.hkx  
+b -Tn AnubsASofa_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_5_1.hkx  
+b -Tn AnubsASofa_6_1 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_6_1.hkx  
+b -Tn AnubsASofa_7_1 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_7_1.hkx  
+b -Tn AnubsASofa_8_1 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_8_1.hkx  
+b -o AnubsASofa_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_1_0.hkx Anubsofa 
+b -o AnubsASofa_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_2_0.hkx Anubsofa 
+b -o AnubsASofa_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_3_0.hkx Anubsofa 
+b -o AnubsASofa_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_4_0.hkx Anubsofa 
+b -o AnubsASofa_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_5_0.hkx Anubsofa 
+b -o AnubsASofa_6_0 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_6_0.hkx Anubsofa 
+b -o AnubsASofa_7_0 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_7_0.hkx Anubsofa 
+b -o AnubsASofa_8_0 ..\AnubsSpawnFurniture\fmPos\AnubsASofa\AnubsASofa_8_0.hkx Anubsofa 
+b -o AnubsAdultBarTable_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBarTable\AnubsAdultBarTable_1_1.hkx AOtableround 
+b -o AnubsAdultBarTable_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBarTable\AnubsAdultBarTable_2_1.hkx AOtableround 
+b -o AnubsAdultBarTable_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBarTable\AnubsAdultBarTable_3_1.hkx AOtableround 
+b -o AnubsAdultBarTable_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBarTable\AnubsAdultBarTable_4_1.hkx AOtableround 
+b -o AnubsAdultBarTable_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBarTable\AnubsAdultBarTable_5_1.hkx AOtableround 
+b -Tn AnubsAdultBarTable_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBarTable\AnubsAdultBarTable_1_0.hkx  
+b -Tn AnubsAdultBarTable_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBarTable\AnubsAdultBarTable_2_0.hkx  
+b -Tn AnubsAdultBarTable_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBarTable\AnubsAdultBarTable_3_0.hkx  
+b -Tn AnubsAdultBarTable_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBarTable\AnubsAdultBarTable_4_0.hkx  
+b -Tn AnubsAdultBarTable_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBarTable\AnubsAdultBarTable_5_0.hkx  
+b -o AnubsAdultBath_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBath\AnubsAdultBath_1_1.hkx AOsmallstool AObucket AOrag 
+b -o AnubsAdultBath_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBath\AnubsAdultBath_2_1.hkx AOsmallstool AObucket AOrag 
+b -o AnubsAdultBath_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBath\AnubsAdultBath_3_1.hkx AOsmallstool AObucket AOrag 
+b -o AnubsAdultBath_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBath\AnubsAdultBath_4_1.hkx AOsmallstool AObucket AOrag 
+b -o AnubsAdultBath_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBath\AnubsAdultBath_5_1.hkx AOsmallstool AObucket AOrag 
+b -Tn AnubsAdultBath_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBath\AnubsAdultBath_1_0.hkx  
+b -Tn AnubsAdultBath_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBath\AnubsAdultBath_2_0.hkx  
+b -Tn AnubsAdultBath_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBath\AnubsAdultBath_3_0.hkx  
+b -Tn AnubsAdultBath_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBath\AnubsAdultBath_4_0.hkx  
+b -Tn AnubsAdultBath_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBath\AnubsAdultBath_5_0.hkx  
+b -o AnubsAdultBench_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBench\AnubsAdultBench_1_1.hkx AnubBench 
+b -o AnubsAdultBench_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBench\AnubsAdultBench_2_1.hkx AnubBench 
+b -o AnubsAdultBench_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBench\AnubsAdultBench_3_1.hkx AnubBench 
+b -o AnubsAdultBench_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBench\AnubsAdultBench_4_1.hkx AnubBench 
+b -o AnubsAdultBench_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBench\AnubsAdultBench_5_1.hkx AnubBench 
+b -Tn AnubsAdultBench_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBench\AnubsAdultBench_1_0.hkx  
+b -Tn AnubsAdultBench_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBench\AnubsAdultBench_2_0.hkx  
+b -Tn AnubsAdultBench_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBench\AnubsAdultBench_3_0.hkx  
+b -Tn AnubsAdultBench_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBench\AnubsAdultBench_4_0.hkx  
+b -Tn AnubsAdultBench_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultBench\AnubsAdultBench_5_0.hkx  
+b -o AnubsAdultRbed2_1_1 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_1_1.hkx MMBED2 
+b -o AnubsAdultRbed2_2_1 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_2_1.hkx MMBED2 
+b -o AnubsAdultRbed2_3_1 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_3_1.hkx MMBED2 
+b -o AnubsAdultRbed2_4_1 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_4_1.hkx MMBED2 
+b -o AnubsAdultRbed2_5_1 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_5_1.hkx MMBED2 
+b -Tn AnubsAdultRbed2_1_2 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_1_2.hkx  
+b -Tn AnubsAdultRbed2_2_2 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_2_2.hkx  
+b -Tn AnubsAdultRbed2_3_2 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_3_2.hkx  
+b -Tn AnubsAdultRbed2_4_2 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_4_2.hkx  
+b -Tn AnubsAdultRbed2_5_2 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_5_2.hkx  
+b -Tn AnubsAdultRbed2_1_0 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_1_0.hkx  
+b -Tn AnubsAdultRbed2_2_0 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_2_0.hkx  
+b -Tn AnubsAdultRbed2_3_0 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_3_0.hkx  
+b -Tn AnubsAdultRbed2_4_0 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_4_0.hkx  
+b -Tn AnubsAdultRbed2_5_0 ..\AnubsSpawnFurniture\ffmPos\AnubsAdultRbed2\AnubsAdultRbed2_5_0.hkx  
+b -o AnubsAdultStool_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultStool\AnubsAdultStool_1_1.hkx AnubBarStoolA3 
+b -o AnubsAdultStool_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultStool\AnubsAdultStool_2_1.hkx AnubBarStoolA3 
+b -o AnubsAdultStool_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultStool\AnubsAdultStool_3_1.hkx AnubBarStoolA3 
+b -o AnubsAdultStool_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultStool\AnubsAdultStool_4_1.hkx AnubBarStoolA3 
+b -o AnubsAdultStool_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultStool\AnubsAdultStool_5_1.hkx AnubBarStoolA3 
+b -o AnubsAdultStool_6_1 ..\AnubsSpawnFurniture\fmPos\AnubsAdultStool\AnubsAdultStool_6_1.hkx AnubBarStoolA3 
+b -Tn AnubsAdultStool_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultStool\AnubsAdultStool_1_0.hkx  
+b -Tn AnubsAdultStool_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultStool\AnubsAdultStool_2_0.hkx  
+b -Tn AnubsAdultStool_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultStool\AnubsAdultStool_3_0.hkx  
+b -Tn AnubsAdultStool_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultStool\AnubsAdultStool_4_0.hkx  
+b -Tn AnubsAdultStool_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultStool\AnubsAdultStool_5_0.hkx  
+b -Tn AnubsAdultStool_6_0 ..\AnubsSpawnFurniture\fmPos\AnubsAdultStool\AnubsAdultStool_6_0.hkx  
+b -o AnubsBedP_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_1_1.hkx MMBED 
+b -o AnubsBedP_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_2_1.hkx MMBED 
+b -o AnubsBedP_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_3_1.hkx MMBED 
+b -o AnubsBedP_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_4_1.hkx MMBED 
+b -o AnubsBedP_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_5_1.hkx MMBED 
+b -o AnubsBedP_6_1 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_6_1.hkx MMBED 
+b -o AnubsBedP_7_1 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_7_1.hkx MMBED 
+b -o AnubsBedP_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_1_0.hkx AOcoinpurse 
+b -Tn AnubsBedP_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_2_0.hkx  
+b -Tn AnubsBedP_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_3_0.hkx  
+b -Tn AnubsBedP_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_4_0.hkx  
+b -Tn AnubsBedP_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_5_0.hkx  
+b -Tn AnubsBedP_6_0 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_6_0.hkx  
+b -Tn AnubsBedP_7_0 ..\AnubsSpawnFurniture\fmPos\AnubsBedP\AnubsBedP_7_0.hkx  
+b -Tn AnubsCaged_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_1_1.hkx  
+b -o AnubsCaged_10_1 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_10_1.hkx AnubKey2 BillyyLeak 
+b -Tn AnubsCaged_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_2_1.hkx  
+b -Tn AnubsCaged_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_3_1.hkx  
+b -Tn AnubsCaged_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_4_1.hkx  
+b -Tn AnubsCaged_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_5_1.hkx  
+b -Tn AnubsCaged_6_1 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_6_1.hkx  
+b -Tn AnubsCaged_7_1 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_7_1.hkx  
+b -Tn AnubsCaged_8_1 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_8_1.hkx  
+b -Tn AnubsCaged_9_1 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_9_1.hkx  
+b -o AnubsCaged_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_1_0.hkx AnubKenel AnubKenelDoor1 AnubPadlock 
+b -o AnubsCaged_10_0 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_10_0.hkx AnubKenel AnubKenelDoor1 AnubPadlock 
+b -o AnubsCaged_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_2_0.hkx AnubKenel AnubKenelDoor1 AnubPadlock 
+b -o AnubsCaged_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_3_0.hkx AnubKenel AnubKenelDoor1 AnubPadlock 
+b -o AnubsCaged_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_4_0.hkx AnubKenel AnubKenelDoor1 AnubPadlock 
+b -o AnubsCaged_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_5_0.hkx AnubKenel AnubKenelDoor1 AnubPadlock 
+b -o AnubsCaged_6_0 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_6_0.hkx AnubKenel AnubKenelDoor1 AnubPadlockH AnubKey1 
+b -o AnubsCaged_7_0 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_7_0.hkx AnubKenel AnubKenelDoor2 
+b -o AnubsCaged_8_0 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_8_0.hkx AnubKenel AnubKenelDoor2 
+b -o AnubsCaged_9_0 ..\AnubsSpawnFurniture\fmPos\AnubsCaged\AnubsCaged_9_0.hkx AnubKenel AnubKenelDoor2 
+b -o AnubsChairDoggy_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsChairDoggy\AnubsChairDoggy_1_1.hkx Anubchairstatic 
+b -o AnubsChairDoggy_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsChairDoggy\AnubsChairDoggy_2_1.hkx Anubchairstatic 
+b -o AnubsChairDoggy_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsChairDoggy\AnubsChairDoggy_3_1.hkx Anubchairstatic 
+b -o AnubsChairDoggy_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsChairDoggy\AnubsChairDoggy_4_1.hkx Anubchairstatic 
+b -o AnubsChairDoggy_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsChairDoggy\AnubsChairDoggy_5_1.hkx Anubchairstatic 
+b -o AnubsChairDoggy_6_1 ..\AnubsSpawnFurniture\fmPos\AnubsChairDoggy\AnubsChairDoggy_6_1.hkx Anubchairstatic 
+b -Tn AnubsChairDoggy_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsChairDoggy\AnubsChairDoggy_1_0.hkx  
+b -Tn AnubsChairDoggy_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsChairDoggy\AnubsChairDoggy_2_0.hkx  
+b -Tn AnubsChairDoggy_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsChairDoggy\AnubsChairDoggy_3_0.hkx  
+b -Tn AnubsChairDoggy_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsChairDoggy\AnubsChairDoggy_4_0.hkx  
+b -Tn AnubsChairDoggy_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsChairDoggy\AnubsChairDoggy_5_0.hkx  
+b -Tn AnubsChairDoggy_6_0 ..\AnubsSpawnFurniture\fmPos\AnubsChairDoggy\AnubsChairDoggy_6_0.hkx  
+b -Tn AnubsChairfemdom_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_1_1.hkx  
+b -Tn AnubsChairfemdom_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_2_1.hkx  
+b -Tn AnubsChairfemdom_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_3_1.hkx  
+b -Tn AnubsChairfemdom_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_4_1.hkx  
+b -Tn AnubsChairfemdom_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_5_1.hkx  
+b -Tn AnubsChairfemdom_6_1 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_6_1.hkx  
+b -Tn AnubsChairfemdom_7_1 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_7_1.hkx  
+b -o AnubsChairfemdom_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_1_0.hkx Anubchair AOcuffR2 AOcuffL2 
+b -o AnubsChairfemdom_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_2_0.hkx Anubchair AOcuffR2 AOcuffL2 
+b -o AnubsChairfemdom_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_3_0.hkx Anubchair AOcuffR2 AOcuffL2 
+b -o AnubsChairfemdom_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_4_0.hkx Anubchair AOcuffR2 AOcuffL2 
+b -o AnubsChairfemdom_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_5_0.hkx Anubchair AOcuffR2 AOcuffL2 
+b -o AnubsChairfemdom_6_0 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_6_0.hkx Anubchair AOcuffR2 AOcuffL2 
+b -o AnubsChairfemdom_7_0 ..\AnubsSpawnFurniture\fmPos\AnubsChairfemdom\AnubsChairfemdom_7_0.hkx Anubchair AOcuffR2 AOcuffL2 
+b -o AnubsDrunk_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_1_1.hkx AnubTankardFullB AnubBarStoolA 
+b -o AnubsDrunk_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_2_1.hkx AnubTankardFullB AnubBarStoolA 
+b -o AnubsDrunk_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_3_1.hkx AnubTankardEmptyB AnubBarStoolA 
+b -o AnubsDrunk_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_4_1.hkx AnubTankardEmptyB AnubBarStoolA 
+b -o AnubsDrunk_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_5_1.hkx AnubTankardEmptyB AnubBarStoolA 
+b -o AnubsDrunk_6_1 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_6_1.hkx AnubTankardEmptyB AnubBarStoolA 
+b -o AnubsDrunk_7_1 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_7_1.hkx AnubTankardEmptyB AnubBarStoolA 
+b -o AnubsDrunk_8_1 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_8_1.hkx AnubBarStoolA 
+b -o AnubsDrunk_9_1 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_9_1.hkx AnubBarStoolA 
+b -o AnubsDrunk_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_1_0.hkx AnubMeadB 
+b -o AnubsDrunk_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_2_0.hkx AnubMeadB 
+b -o AnubsDrunk_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_3_0.hkx AnubMeadB 
+b -o AnubsDrunk_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_4_0.hkx AnubMeadB 
+b -o AnubsDrunk_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_5_0.hkx AnubMeadB 
+b -o AnubsDrunk_6_0 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_6_0.hkx AnubMeadB 
+b -o AnubsDrunk_7_0 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_7_0.hkx AnubMeadB 
+b -o AnubsDrunk_8_0 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_8_0.hkx AnubTankardEmptyA AnubMeadB 
+b -o AnubsDrunk_9_0 ..\AnubsSpawnFurniture\fmPos\AnubsDrunk\AnubsDrunk_9_0.hkx AnubTankardEmptyA AnubMeadB 
+b -o AnubsFfmBed_1_1 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_1_1.hkx MMBED 
+b -o AnubsFfmBed_2_1 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_2_1.hkx MMBED 
+b -o AnubsFfmBed_3_1 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_3_1.hkx MMBED 
+b -o AnubsFfmBed_4_1 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_4_1.hkx MMBED 
+b -o AnubsFfmBed_5_1 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_5_1.hkx MMBED 
+b -o AnubsFfmBed_6_1 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_6_1.hkx MMBED 
+b -Tn AnubsFfmBed_1_2 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_1_2.hkx  
+b -Tn AnubsFfmBed_2_2 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_2_2.hkx  
+b -Tn AnubsFfmBed_3_2 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_3_2.hkx  
+b -Tn AnubsFfmBed_4_2 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_4_2.hkx  
+b -Tn AnubsFfmBed_5_2 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_5_2.hkx  
+b -Tn AnubsFfmBed_6_2 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_6_2.hkx  
+b -Tn AnubsFfmBed_1_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_1_0.hkx  
+b -Tn AnubsFfmBed_2_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_2_0.hkx  
+b -Tn AnubsFfmBed_3_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_3_0.hkx  
+b -Tn AnubsFfmBed_4_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_4_0.hkx  
+b -Tn AnubsFfmBed_5_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_5_0.hkx  
+b -Tn AnubsFfmBed_6_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_6_0.hkx  
+b -o AnubsThroneFemdom_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsThroneFemdom\AnubsThroneFemdom_1_1.hkx AOThroneR 
+b -o AnubsThroneFemdom_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsThroneFemdom\AnubsThroneFemdom_2_1.hkx AOThroneR 
+b -o AnubsThroneFemdom_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsThroneFemdom\AnubsThroneFemdom_3_1.hkx AOThroneR 
+b -o AnubsThroneFemdom_4_1 ..\AnubsSpawnFurniture\fmPos\AnubsThroneFemdom\AnubsThroneFemdom_4_1.hkx AOThroneR 
+b -o AnubsThroneFemdom_5_1 ..\AnubsSpawnFurniture\fmPos\AnubsThroneFemdom\AnubsThroneFemdom_5_1.hkx AOThroneR 
+b -o AnubsThroneFemdom_1_0 ..\AnubsSpawnFurniture\fmPos\AnubsThroneFemdom\AnubsThroneFemdom_1_0.hkx AOWristropeA AOWristropeB 
+b -o AnubsThroneFemdom_2_0 ..\AnubsSpawnFurniture\fmPos\AnubsThroneFemdom\AnubsThroneFemdom_2_0.hkx AOWristropeA AOWristropeB 
+b -o AnubsThroneFemdom_3_0 ..\AnubsSpawnFurniture\fmPos\AnubsThroneFemdom\AnubsThroneFemdom_3_0.hkx AOWristropeA AOWristropeB 
+b -o AnubsThroneFemdom_4_0 ..\AnubsSpawnFurniture\fmPos\AnubsThroneFemdom\AnubsThroneFemdom_4_0.hkx AOWristropeA AOWristropeB 
+b -o AnubsThroneFemdom_5_0 ..\AnubsSpawnFurniture\fmPos\AnubsThroneFemdom\AnubsThroneFemdom_5_0.hkx AOWristropeA AOWristropeB 
+b -o AnubsTw_1_1 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_1_1.hkx AOThroneR 
+b -o AnubsTw_2_1 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_2_1.hkx AOThroneR 
+b -o AnubsTw_3_1 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_3_1.hkx AOThroneR 
+b -o AnubsTw_4_1 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_4_1.hkx AOThroneR 
+b -o AnubsTw_5_1 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_5_1.hkx AOThroneR 
+b -o AnubsTw_6_1 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_6_1.hkx AOThroneR 
+b -Tn AnubsTw_1_2 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_1_2.hkx  
+b -Tn AnubsTw_2_2 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_2_2.hkx  
+b -Tn AnubsTw_3_2 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_3_2.hkx  
+b -Tn AnubsTw_4_2 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_4_2.hkx  
+b -Tn AnubsTw_5_2 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_5_2.hkx  
+b -Tn AnubsTw_6_2 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_6_2.hkx  
+b -Tn AnubsTw_1_0 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_1_0.hkx  
+b -Tn AnubsTw_2_0 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_2_0.hkx  
+b -Tn AnubsTw_3_0 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_3_0.hkx  
+b -Tn AnubsTw_4_0 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_4_0.hkx  
+b -Tn AnubsTw_5_0 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_5_0.hkx  
+b -Tn AnubsTw_6_0 ..\AnubsSpawnFurniture\ffmPos\AnubsTw\AnubsTw_6_0.hkx  

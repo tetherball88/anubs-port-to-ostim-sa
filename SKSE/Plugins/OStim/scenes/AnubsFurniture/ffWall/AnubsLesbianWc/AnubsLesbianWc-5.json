@@ -1,0 +1,56 @@
+{
+    "name": "Anubs Wall Lesbian Cunnilingus",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "AnubsLesbianWc-3",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "AnubsFurnitureFfWallHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsLesbianWc_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs"
+    ],
+    "furniture": "wall"
+}

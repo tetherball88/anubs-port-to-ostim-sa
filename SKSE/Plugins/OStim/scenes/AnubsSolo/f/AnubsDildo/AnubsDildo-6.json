@@ -1,0 +1,36 @@
+{
+    "name": "Anubs  Magick Dildos",
+    "modpack": "AnubsAnimations",
+    "length": 5,
+    "destination": "AnubsDildo-5",
+    "speeds": [
+        {
+            "animation": "AnubsDildo_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginaltoying",
+            "actor": 0
+        },
+        {
+            "type": "analtoying",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

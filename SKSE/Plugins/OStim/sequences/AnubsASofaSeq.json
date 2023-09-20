@@ -1,0 +1,37 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsASofa-1",
+            "duration": 10
+        },
+        {
+            "id": "AnubsASofa-2",
+            "duration": 12
+        },
+        {
+            "id": "AnubsASofa-3",
+            "duration": 11.2
+        },
+        {
+            "id": "AnubsASofa-4",
+            "duration": 10
+        },
+        {
+            "id": "AnubsASofa-5",
+            "duration": 11.2
+        },
+        {
+            "id": "AnubsASofa-6",
+            "duration": 11.2
+        },
+        {
+            "id": "AnubsASofa-7",
+            "duration": 11
+        },
+        {
+            "id": "AnubsASofa-8",
+            "duration": 11.2
+        }
+    ],
+    "tags": []
+}

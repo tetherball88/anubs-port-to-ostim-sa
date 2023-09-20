@@ -1,0 +1,29 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsBgWall-1",
+            "duration": 10.2
+        },
+        {
+            "id": "AnubsBgWall-2",
+            "duration": 10
+        },
+        {
+            "id": "AnubsBgWall-3",
+            "duration": 11.2
+        },
+        {
+            "id": "AnubsBgWall-4",
+            "duration": 10
+        },
+        {
+            "id": "AnubsBgWall-5",
+            "duration": 10
+        },
+        {
+            "id": "AnubsBgWall-6",
+            "duration": 10
+        }
+    ],
+    "tags": []
+}

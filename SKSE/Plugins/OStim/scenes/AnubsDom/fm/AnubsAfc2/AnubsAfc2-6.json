@@ -1,0 +1,59 @@
+{
+    "name": "Anubs  Adult Femdom Cowgirl 2",
+    "modpack": "AnubsAnimations",
+    "length": 6,
+    "destination": "AnubsAfc2-5",
+    "speeds": [
+        {
+            "animation": "AnubsAfc2_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "allfours"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "kissing",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "holdinghead",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "holdingarm",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "cowgirl",
+        "femdom",
+        "transition"
+    ]
+}

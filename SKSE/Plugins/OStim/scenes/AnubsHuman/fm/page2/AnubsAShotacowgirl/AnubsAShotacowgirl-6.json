@@ -1,0 +1,54 @@
+{
+    "name": "Anubs Adult S Cowgirl (remake)",
+    "modpack": "AnubsAnimations",
+    "length": 10,
+    "destination": "AnubsAShotacowgirl-5",
+    "speeds": [
+        {
+            "animation": "AnubsAShotacowgirl_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 5,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "kissing",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "cowgirl",
+        "transition"
+    ]
+}

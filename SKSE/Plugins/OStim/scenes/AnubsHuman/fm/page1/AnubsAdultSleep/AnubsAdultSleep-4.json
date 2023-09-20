@@ -1,0 +1,63 @@
+{
+    "name": "Anubs Adult Sleeping ",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "AnubsAdultSleep-5",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsAdultSleep-3",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "AnubsHumanPage1",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsAdultSleep_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "kneeling"
+            ],
+            "autoTransitions": {
+                "climax": "AnubsAdultSleep-5"
+            }
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingside"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "sleeping",
+            "actor": 1
+        }
+    ],
+    "tags": [
+        "anubs"
+    ]
+}

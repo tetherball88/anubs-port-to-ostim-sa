@@ -1,0 +1,60 @@
+{
+    "name": "Anubs  Adult Amazon 2",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "AnubsDomFmHub",
+            "description": "Anubs  Adult Amazon 2",
+            "icon": "OStim/symbols/gender_mf"
+        },
+        {
+            "destination": "AnubsAAmazon-2",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsDomFmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsAAmazon_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 8,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "facingaway",
+                "kneeling"
+            ],
+            "expressionOverride": "ahego-6"
+        }
+    ],
+    "actions": [
+        {
+            "type": "rimjob",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "femdom",
+        "facesitting"
+    ]
+}

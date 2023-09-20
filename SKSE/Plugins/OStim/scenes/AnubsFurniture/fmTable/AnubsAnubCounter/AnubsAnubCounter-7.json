@@ -1,0 +1,45 @@
+{
+    "name": "Anubs Counter Sex (Invisible)",
+    "modpack": "AnubsAnimations",
+    "length": 10.2,
+    "destination": "AnubsAnubCounter-6",
+    "speeds": [
+        {
+            "animation": "AnubsAnubCounter_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "missionary",
+        "transition"
+    ],
+    "furniture": "table"
+}

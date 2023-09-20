@@ -1,0 +1,33 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsATable-1",
+            "duration": 10.4
+        },
+        {
+            "id": "AnubsATable-2",
+            "duration": 10
+        },
+        {
+            "id": "AnubsATable-3",
+            "duration": 10
+        },
+        {
+            "id": "AnubsATable-4",
+            "duration": 10.4
+        },
+        {
+            "id": "AnubsATable-5",
+            "duration": 11
+        },
+        {
+            "id": "AnubsATable-6",
+            "duration": 10.2
+        },
+        {
+            "id": "AnubsATable-7",
+            "duration": 12
+        }
+    ],
+    "tags": []
+}

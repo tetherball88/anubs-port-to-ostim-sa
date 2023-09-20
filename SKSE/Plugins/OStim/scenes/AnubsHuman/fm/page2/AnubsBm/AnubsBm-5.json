@@ -1,0 +1,49 @@
+{
+    "name": "Anubs  Breeding Missionary",
+    "modpack": "AnubsAnimations",
+    "length": 6.666667,
+    "destination": "AnubsBm-4",
+    "speeds": [
+        {
+            "animation": "AnubsBm_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "allfours"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "spreadlegs",
+                "lyingback"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "analfingering",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "missionary",
+        "transition"
+    ]
+}

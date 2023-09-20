@@ -1,0 +1,67 @@
+{
+    "name": "Anubs  Training",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "AnubsTraining-6",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsTraining-4",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "AnubsHumanPage4",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsTraining_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 9,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "autoTransitions": {
+                "climax": "AnubsTraining-6"
+            }
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended"
+            ],
+            "autoTransitions": {
+                "climax": "AnubsTraining-6"
+            }
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Anubs Female Vampire Feeding",
+    "modpack": "AnubsAnimations",
+    "length": 10.4,
+    "destination": "AnubsVampfemale-5",
+    "speeds": [
+        {
+            "animation": "AnubsVampfemale_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ],
+            "expressionOverride": "ahego-5"
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "cowgirl",
+        "transition"
+    ]
+}

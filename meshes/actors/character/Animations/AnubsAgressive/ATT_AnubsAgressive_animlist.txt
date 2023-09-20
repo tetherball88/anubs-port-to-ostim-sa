@@ -1,0 +1,324 @@
+b -Tn AnubsAnubagra_1_1 ..\AnubsAgressive\fmPos\AnubsAnubagra\AnubsAnubagra_1_1.hkx  
+b -Tn AnubsAnubagra_2_1 ..\AnubsAgressive\fmPos\AnubsAnubagra\AnubsAnubagra_2_1.hkx  
+b -Tn AnubsAnubagra_3_1 ..\AnubsAgressive\fmPos\AnubsAnubagra\AnubsAnubagra_3_1.hkx  
+b -Tn AnubsAnubagra_4_1 ..\AnubsAgressive\fmPos\AnubsAnubagra\AnubsAnubagra_4_1.hkx  
+b -Tn AnubsAnubagra_1_0 ..\AnubsAgressive\fmPos\AnubsAnubagra\AnubsAnubagra_1_0.hkx  
+b -Tn AnubsAnubagra_2_0 ..\AnubsAgressive\fmPos\AnubsAnubagra\AnubsAnubagra_2_0.hkx  
+b -Tn AnubsAnubagra_3_0 ..\AnubsAgressive\fmPos\AnubsAnubagra\AnubsAnubagra_3_0.hkx  
+b -Tn AnubsAnubagra_4_0 ..\AnubsAgressive\fmPos\AnubsAnubagra\AnubsAnubagra_4_0.hkx  
+b -o AnubsBound_1_1 ..\AnubsAgressive\fmPos\AnubsBound\AnubsBound_1_1.hkx AOcuffs 
+b -o AnubsBound_2_1 ..\AnubsAgressive\fmPos\AnubsBound\AnubsBound_2_1.hkx AOcuffs 
+b -o AnubsBound_3_1 ..\AnubsAgressive\fmPos\AnubsBound\AnubsBound_3_1.hkx AOcuffs 
+b -o AnubsBound_4_1 ..\AnubsAgressive\fmPos\AnubsBound\AnubsBound_4_1.hkx AOcuffs 
+b -Tn AnubsBound_1_0 ..\AnubsAgressive\fmPos\AnubsBound\AnubsBound_1_0.hkx  
+b -Tn AnubsBound_2_0 ..\AnubsAgressive\fmPos\AnubsBound\AnubsBound_2_0.hkx  
+b -Tn AnubsBound_3_0 ..\AnubsAgressive\fmPos\AnubsBound\AnubsBound_3_0.hkx  
+b -Tn AnubsBound_4_0 ..\AnubsAgressive\fmPos\AnubsBound\AnubsBound_4_0.hkx  
+b -o AnubsBoundtable_1_1 ..\AnubsAgressive\fmPos\AnubsBoundtable\AnubsBoundtable_1_1.hkx AOIronA AOIronB 
+b -o AnubsBoundtable_2_1 ..\AnubsAgressive\fmPos\AnubsBoundtable\AnubsBoundtable_2_1.hkx AOIronA AOIronB 
+b -o AnubsBoundtable_3_1 ..\AnubsAgressive\fmPos\AnubsBoundtable\AnubsBoundtable_3_1.hkx AOIronA AOIronB 
+b -o AnubsBoundtable_4_1 ..\AnubsAgressive\fmPos\AnubsBoundtable\AnubsBoundtable_4_1.hkx AOIronA AOIronB 
+b -o AnubsBoundtable_1_0 ..\AnubsAgressive\fmPos\AnubsBoundtable\AnubsBoundtable_1_0.hkx AOtable 
+b -o AnubsBoundtable_2_0 ..\AnubsAgressive\fmPos\AnubsBoundtable\AnubsBoundtable_2_0.hkx AOtable 
+b -o AnubsBoundtable_3_0 ..\AnubsAgressive\fmPos\AnubsBoundtable\AnubsBoundtable_3_0.hkx AOtable 
+b -o AnubsBoundtable_4_0 ..\AnubsAgressive\fmPos\AnubsBoundtable\AnubsBoundtable_4_0.hkx AOtable 
+b -o AnubsBoundtable2_1_2 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_1_2.hkx AnubBoundTableA AnubTableCuffA AnubTableCuffB 
+b -o AnubsBoundtable2_2_2 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_2_2.hkx AnubBoundTableA AnubTableCuffA AnubTableCuffB 
+b -o AnubsBoundtable2_3_2 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_3_2.hkx AnubBoundTableA AnubTableCuffA AnubTableCuffB 
+b -o AnubsBoundtable2_4_2 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_4_2.hkx AnubBoundTableA AnubTableCuffA AnubTableCuffB 
+b -o AnubsBoundtable2_5_2 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_5_2.hkx AnubBoundTableA AnubTableCuffA AnubTableCuffB 
+b -o AnubsBoundtable2_6_2 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_6_2.hkx AnubBoundTableA AnubTableCuffA AnubTableCuffB 
+b -Tn AnubsBoundtable2_1_0 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_1_0.hkx  
+b -Tn AnubsBoundtable2_2_0 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_2_0.hkx  
+b -Tn AnubsBoundtable2_3_0 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_3_0.hkx  
+b -Tn AnubsBoundtable2_4_0 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_4_0.hkx  
+b -Tn AnubsBoundtable2_5_0 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_5_0.hkx  
+b -Tn AnubsBoundtable2_6_0 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_6_0.hkx  
+b -Tn AnubsBoundtable2_1_1 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_1_1.hkx  
+b -Tn AnubsBoundtable2_2_1 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_2_1.hkx  
+b -Tn AnubsBoundtable2_3_1 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_3_1.hkx  
+b -Tn AnubsBoundtable2_4_1 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_4_1.hkx  
+b -Tn AnubsBoundtable2_5_1 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_5_1.hkx  
+b -Tn AnubsBoundtable2_6_1 ..\AnubsAgressive\fmmPos\AnubsBoundtable2\AnubsBoundtable2_6_1.hkx  
+b -o AnubsChained_1_1 ..\AnubsAgressive\fmPos\AnubsChained\AnubsChained_1_1.hkx anubcollar 
+b -o AnubsChained_2_1 ..\AnubsAgressive\fmPos\AnubsChained\AnubsChained_2_1.hkx anubcollar 
+b -o AnubsChained_3_1 ..\AnubsAgressive\fmPos\AnubsChained\AnubsChained_3_1.hkx anubcollar 
+b -o AnubsChained_4_1 ..\AnubsAgressive\fmPos\AnubsChained\AnubsChained_4_1.hkx anubcollar 
+b -o AnubsChained_5_1 ..\AnubsAgressive\fmPos\AnubsChained\AnubsChained_5_1.hkx anubcollar 
+b -o AnubsChained_6_1 ..\AnubsAgressive\fmPos\AnubsChained\AnubsChained_6_1.hkx anubcollar 
+b -o AnubsChained_1_0 ..\AnubsAgressive\fmPos\AnubsChained\AnubsChained_1_0.hkx anubchain2 anubchain3 
+b -o AnubsChained_2_0 ..\AnubsAgressive\fmPos\AnubsChained\AnubsChained_2_0.hkx anubchain2 anubchain3 
+b -o AnubsChained_3_0 ..\AnubsAgressive\fmPos\AnubsChained\AnubsChained_3_0.hkx anubchain2 anubchain3 
+b -o AnubsChained_4_0 ..\AnubsAgressive\fmPos\AnubsChained\AnubsChained_4_0.hkx anubchain2 anubchain3 
+b -o AnubsChained_5_0 ..\AnubsAgressive\fmPos\AnubsChained\AnubsChained_5_0.hkx anubchain2 anubchain3 
+b -o AnubsChained_6_0 ..\AnubsAgressive\fmPos\AnubsChained\AnubsChained_6_0.hkx anubchain2 anubchain3 
+b -o AnubsChainedCelling_1_1 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_1_1.hkx AnubChainCuffL AnubChainCuffR AnubChainLongA AnubChainLongB 
+b -o AnubsChainedCelling_2_1 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_2_1.hkx AnubChainCuffL AnubChainCuffR AnubChainLongA AnubChainLongB 
+b -o AnubsChainedCelling_3_1 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_3_1.hkx AnubChainCuffL AnubChainCuffR AnubChainLongA AnubChainLongB 
+b -o AnubsChainedCelling_4_1 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_4_1.hkx AnubChainCuffL AnubChainCuffR AnubChainLongA AnubChainLongB 
+b -o AnubsChainedCelling_5_1 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_5_1.hkx AnubChainCuffL AnubChainCuffR AnubChainLongA AnubChainLongB 
+b -o AnubsChainedCelling_6_1 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_6_1.hkx AnubChainCuffL AnubChainCuffR AnubChainLongA AnubChainLongB 
+b -o AnubsChainedCelling_7_1 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_7_1.hkx AnubChainCuffL AnubChainCuffR AnubChainLongA AnubChainLongB 
+b -Tn AnubsChainedCelling_1_0 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_1_0.hkx  
+b -o AnubsChainedCelling_2_0 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_2_0.hkx Anubdildosword 
+b -o AnubsChainedCelling_3_0 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_3_0.hkx Anubdildosword 
+b -Tn AnubsChainedCelling_4_0 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_4_0.hkx  
+b -Tn AnubsChainedCelling_5_0 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_5_0.hkx  
+b -Tn AnubsChainedCelling_6_0 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_6_0.hkx  
+b -Tn AnubsChainedCelling_7_0 ..\AnubsAgressive\fmPos\AnubsChainedCelling\AnubsChainedCelling_7_0.hkx  
+b -o AnubsChaingallow_1_1 ..\AnubsAgressive\fmPos\AnubsChaingallow\AnubsChaingallow_1_1.hkx AnubGallow AnubChain AnubIronCuffR AnubIronCuffL 
+b -o AnubsChaingallow_2_1 ..\AnubsAgressive\fmPos\AnubsChaingallow\AnubsChaingallow_2_1.hkx AnubGallow AnubChain AnubIronCuffR AnubIronCuffL 
+b -o AnubsChaingallow_3_1 ..\AnubsAgressive\fmPos\AnubsChaingallow\AnubsChaingallow_3_1.hkx AnubGallow AnubChain AnubIronCuffR AnubIronCuffL 
+b -o AnubsChaingallow_4_1 ..\AnubsAgressive\fmPos\AnubsChaingallow\AnubsChaingallow_4_1.hkx AnubGallow AnubChain AnubIronCuffR AnubIronCuffL 
+b -o AnubsChaingallow_5_1 ..\AnubsAgressive\fmPos\AnubsChaingallow\AnubsChaingallow_5_1.hkx AnubGallow AnubChain AnubIronCuffR AnubIronCuffL 
+b -o AnubsChaingallow_6_1 ..\AnubsAgressive\fmPos\AnubsChaingallow\AnubsChaingallow_6_1.hkx AnubGallow AnubChain AnubIronCuffR AnubIronCuffL 
+b -Tn AnubsChaingallow_1_0 ..\AnubsAgressive\fmPos\AnubsChaingallow\AnubsChaingallow_1_0.hkx  
+b -Tn AnubsChaingallow_2_0 ..\AnubsAgressive\fmPos\AnubsChaingallow\AnubsChaingallow_2_0.hkx  
+b -Tn AnubsChaingallow_3_0 ..\AnubsAgressive\fmPos\AnubsChaingallow\AnubsChaingallow_3_0.hkx  
+b -Tn AnubsChaingallow_4_0 ..\AnubsAgressive\fmPos\AnubsChaingallow\AnubsChaingallow_4_0.hkx  
+b -Tn AnubsChaingallow_5_0 ..\AnubsAgressive\fmPos\AnubsChaingallow\AnubsChaingallow_5_0.hkx  
+b -Tn AnubsChaingallow_6_0 ..\AnubsAgressive\fmPos\AnubsChaingallow\AnubsChaingallow_6_0.hkx  
+b -o AnubsChest_1_2 ..\AnubsAgressive\fmmPos\AnubsChest\AnubsChest_1_2.hkx AOChest 
+b -o AnubsChest_2_2 ..\AnubsAgressive\fmmPos\AnubsChest\AnubsChest_2_2.hkx AOChest 
+b -o AnubsChest_3_2 ..\AnubsAgressive\fmmPos\AnubsChest\AnubsChest_3_2.hkx AOChest 
+b -o AnubsChest_4_2 ..\AnubsAgressive\fmmPos\AnubsChest\AnubsChest_4_2.hkx AOChest 
+b -Tn AnubsChest_1_0 ..\AnubsAgressive\fmmPos\AnubsChest\AnubsChest_1_0.hkx  
+b -Tn AnubsChest_2_0 ..\AnubsAgressive\fmmPos\AnubsChest\AnubsChest_2_0.hkx  
+b -Tn AnubsChest_3_0 ..\AnubsAgressive\fmmPos\AnubsChest\AnubsChest_3_0.hkx  
+b -Tn AnubsChest_4_0 ..\AnubsAgressive\fmmPos\AnubsChest\AnubsChest_4_0.hkx  
+b -Tn AnubsChest_1_1 ..\AnubsAgressive\fmmPos\AnubsChest\AnubsChest_1_1.hkx  
+b -Tn AnubsChest_2_1 ..\AnubsAgressive\fmmPos\AnubsChest\AnubsChest_2_1.hkx  
+b -Tn AnubsChest_3_1 ..\AnubsAgressive\fmmPos\AnubsChest\AnubsChest_3_1.hkx  
+b -Tn AnubsChest_4_1 ..\AnubsAgressive\fmmPos\AnubsChest\AnubsChest_4_1.hkx  
+b -Tn AnubsChoke_1_1 ..\AnubsAgressive\fmPos\AnubsChoke\AnubsChoke_1_1.hkx  
+b -Tn AnubsChoke_2_1 ..\AnubsAgressive\fmPos\AnubsChoke\AnubsChoke_2_1.hkx  
+b -Tn AnubsChoke_3_1 ..\AnubsAgressive\fmPos\AnubsChoke\AnubsChoke_3_1.hkx  
+b -Tn AnubsChoke_4_1 ..\AnubsAgressive\fmPos\AnubsChoke\AnubsChoke_4_1.hkx  
+b -Tn AnubsChoke_5_1 ..\AnubsAgressive\fmPos\AnubsChoke\AnubsChoke_5_1.hkx  
+b -Tn AnubsChoke_6_1 ..\AnubsAgressive\fmPos\AnubsChoke\AnubsChoke_6_1.hkx  
+b -Tn AnubsChoke_1_0 ..\AnubsAgressive\fmPos\AnubsChoke\AnubsChoke_1_0.hkx  
+b -Tn AnubsChoke_2_0 ..\AnubsAgressive\fmPos\AnubsChoke\AnubsChoke_2_0.hkx  
+b -Tn AnubsChoke_3_0 ..\AnubsAgressive\fmPos\AnubsChoke\AnubsChoke_3_0.hkx  
+b -Tn AnubsChoke_4_0 ..\AnubsAgressive\fmPos\AnubsChoke\AnubsChoke_4_0.hkx  
+b -Tn AnubsChoke_5_0 ..\AnubsAgressive\fmPos\AnubsChoke\AnubsChoke_5_0.hkx  
+b -Tn AnubsChoke_6_0 ..\AnubsAgressive\fmPos\AnubsChoke\AnubsChoke_6_0.hkx  
+b -Tn AnubsFcowgirl_1_2 ..\AnubsAgressive\fmmPos\AnubsFcowgirl\AnubsFcowgirl_1_2.hkx  
+b -Tn AnubsFcowgirl_2_2 ..\AnubsAgressive\fmmPos\AnubsFcowgirl\AnubsFcowgirl_2_2.hkx  
+b -Tn AnubsFcowgirl_3_2 ..\AnubsAgressive\fmmPos\AnubsFcowgirl\AnubsFcowgirl_3_2.hkx  
+b -Tn AnubsFcowgirl_4_2 ..\AnubsAgressive\fmmPos\AnubsFcowgirl\AnubsFcowgirl_4_2.hkx  
+b -Tn AnubsFcowgirl_1_0 ..\AnubsAgressive\fmmPos\AnubsFcowgirl\AnubsFcowgirl_1_0.hkx  
+b -Tn AnubsFcowgirl_2_0 ..\AnubsAgressive\fmmPos\AnubsFcowgirl\AnubsFcowgirl_2_0.hkx  
+b -Tn AnubsFcowgirl_3_0 ..\AnubsAgressive\fmmPos\AnubsFcowgirl\AnubsFcowgirl_3_0.hkx  
+b -Tn AnubsFcowgirl_4_0 ..\AnubsAgressive\fmmPos\AnubsFcowgirl\AnubsFcowgirl_4_0.hkx  
+b -Tn AnubsFcowgirl_1_1 ..\AnubsAgressive\fmmPos\AnubsFcowgirl\AnubsFcowgirl_1_1.hkx  
+b -Tn AnubsFcowgirl_2_1 ..\AnubsAgressive\fmmPos\AnubsFcowgirl\AnubsFcowgirl_2_1.hkx  
+b -Tn AnubsFcowgirl_3_1 ..\AnubsAgressive\fmmPos\AnubsFcowgirl\AnubsFcowgirl_3_1.hkx  
+b -Tn AnubsFcowgirl_4_1 ..\AnubsAgressive\fmmPos\AnubsFcowgirl\AnubsFcowgirl_4_1.hkx  
+b -Tn AnubsFf_1_1 ..\AnubsAgressive\fmPos\AnubsFf\AnubsFf_1_1.hkx  
+b -Tn AnubsFf_2_1 ..\AnubsAgressive\fmPos\AnubsFf\AnubsFf_2_1.hkx  
+b -Tn AnubsFf_3_1 ..\AnubsAgressive\fmPos\AnubsFf\AnubsFf_3_1.hkx  
+b -Tn AnubsFf_4_1 ..\AnubsAgressive\fmPos\AnubsFf\AnubsFf_4_1.hkx  
+b -Tn AnubsFf_5_1 ..\AnubsAgressive\fmPos\AnubsFf\AnubsFf_5_1.hkx  
+b -Tn AnubsFf_6_1 ..\AnubsAgressive\fmPos\AnubsFf\AnubsFf_6_1.hkx  
+b -Tn AnubsFf_1_0 ..\AnubsAgressive\fmPos\AnubsFf\AnubsFf_1_0.hkx  
+b -Tn AnubsFf_2_0 ..\AnubsAgressive\fmPos\AnubsFf\AnubsFf_2_0.hkx  
+b -Tn AnubsFf_3_0 ..\AnubsAgressive\fmPos\AnubsFf\AnubsFf_3_0.hkx  
+b -Tn AnubsFf_4_0 ..\AnubsAgressive\fmPos\AnubsFf\AnubsFf_4_0.hkx  
+b -Tn AnubsFf_5_0 ..\AnubsAgressive\fmPos\AnubsFf\AnubsFf_5_0.hkx  
+b -Tn AnubsFf_6_0 ..\AnubsAgressive\fmPos\AnubsFf\AnubsFf_6_0.hkx  
+b -o AnubsHogtie3some_1_2 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_1_2.hkx AnubBicepsRroperLefttF AnubBicepsRroperRghtF AnubWristropeLeftF AnubWristroperightF AnubsHogtie 
+b -o AnubsHogtie3some_2_2 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_2_2.hkx AnubBicepsRroperLefttF AnubBicepsRroperRghtF AnubWristropeLeftF AnubWristroperightF AnubsHogtie 
+b -o AnubsHogtie3some_3_2 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_3_2.hkx AnubBicepsRroperLefttF AnubBicepsRroperRghtF AnubWristropeLeftF AnubWristroperightF AnubsHogtie 
+b -o AnubsHogtie3some_4_2 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_4_2.hkx AnubBicepsRroperLefttF AnubBicepsRroperRghtF AnubWristropeLeftF AnubWristroperightF AnubsHogtie 
+b -o AnubsHogtie3some_5_2 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_5_2.hkx AnubBicepsRroperLefttF AnubBicepsRroperRghtF AnubWristropeLeftF AnubWristroperightF AnubsHogtie 
+b -o AnubsHogtie3some_6_2 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_6_2.hkx AnubBicepsRroperLefttF AnubBicepsRroperRghtF AnubWristropeLeftF AnubWristroperightF AnubsHogtie 
+b -Tn AnubsHogtie3some_1_0 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_1_0.hkx  
+b -Tn AnubsHogtie3some_2_0 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_2_0.hkx  
+b -Tn AnubsHogtie3some_3_0 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_3_0.hkx  
+b -Tn AnubsHogtie3some_4_0 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_4_0.hkx  
+b -Tn AnubsHogtie3some_5_0 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_5_0.hkx  
+b -Tn AnubsHogtie3some_6_0 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_6_0.hkx  
+b -Tn AnubsHogtie3some_1_1 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_1_1.hkx  
+b -Tn AnubsHogtie3some_2_1 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_2_1.hkx  
+b -Tn AnubsHogtie3some_3_1 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_3_1.hkx  
+b -Tn AnubsHogtie3some_4_1 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_4_1.hkx  
+b -Tn AnubsHogtie3some_5_1 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_5_1.hkx  
+b -Tn AnubsHogtie3some_6_1 ..\AnubsAgressive\fmmPos\AnubsHogtie3some\AnubsHogtie3some_6_1.hkx  
+b -Tn AnubsHumandoggy_1_1 ..\AnubsAgressive\fmPos\AnubsHumandoggy\AnubsHumandoggy_1_1.hkx  
+b -Tn AnubsHumandoggy_2_1 ..\AnubsAgressive\fmPos\AnubsHumandoggy\AnubsHumandoggy_2_1.hkx  
+b -Tn AnubsHumandoggy_3_1 ..\AnubsAgressive\fmPos\AnubsHumandoggy\AnubsHumandoggy_3_1.hkx  
+b -Tn AnubsHumandoggy_4_1 ..\AnubsAgressive\fmPos\AnubsHumandoggy\AnubsHumandoggy_4_1.hkx  
+b -Tn AnubsHumandoggy_5_1 ..\AnubsAgressive\fmPos\AnubsHumandoggy\AnubsHumandoggy_5_1.hkx  
+b -Tn AnubsHumandoggy_1_0 ..\AnubsAgressive\fmPos\AnubsHumandoggy\AnubsHumandoggy_1_0.hkx  
+b -Tn AnubsHumandoggy_2_0 ..\AnubsAgressive\fmPos\AnubsHumandoggy\AnubsHumandoggy_2_0.hkx  
+b -Tn AnubsHumandoggy_3_0 ..\AnubsAgressive\fmPos\AnubsHumandoggy\AnubsHumandoggy_3_0.hkx  
+b -Tn AnubsHumandoggy_4_0 ..\AnubsAgressive\fmPos\AnubsHumandoggy\AnubsHumandoggy_4_0.hkx  
+b -Tn AnubsHumandoggy_5_0 ..\AnubsAgressive\fmPos\AnubsHumandoggy\AnubsHumandoggy_5_0.hkx  
+b -o AnubsMagick_1_1 ..\AnubsAgressive\fmPos\AnubsMagick\AnubsMagick_1_1.hkx AObeam 
+b -o AnubsMagick_2_1 ..\AnubsAgressive\fmPos\AnubsMagick\AnubsMagick_2_1.hkx AObeam 
+b -o AnubsMagick_3_1 ..\AnubsAgressive\fmPos\AnubsMagick\AnubsMagick_3_1.hkx AObeam 
+b -o AnubsMagick_4_1 ..\AnubsAgressive\fmPos\AnubsMagick\AnubsMagick_4_1.hkx AObeam 
+b -o AnubsMagick_5_1 ..\AnubsAgressive\fmPos\AnubsMagick\AnubsMagick_5_1.hkx AObeam 
+b -o AnubsMagick_6_1 ..\AnubsAgressive\fmPos\AnubsMagick\AnubsMagick_6_1.hkx AObeam 
+b -o AnubsMagick_1_0 ..\AnubsAgressive\fmPos\AnubsMagick\AnubsMagick_1_0.hkx AOhand AOstaff 
+b -o AnubsMagick_2_0 ..\AnubsAgressive\fmPos\AnubsMagick\AnubsMagick_2_0.hkx AOhand AOstaff 
+b -o AnubsMagick_3_0 ..\AnubsAgressive\fmPos\AnubsMagick\AnubsMagick_3_0.hkx AOhand AOstaff 
+b -o AnubsMagick_4_0 ..\AnubsAgressive\fmPos\AnubsMagick\AnubsMagick_4_0.hkx AOhand AOstaff 
+b -o AnubsMagick_5_0 ..\AnubsAgressive\fmPos\AnubsMagick\AnubsMagick_5_0.hkx AOhand AOstaff 
+b -o AnubsMagick_6_0 ..\AnubsAgressive\fmPos\AnubsMagick\AnubsMagick_6_0.hkx AOstaff 
+b -Tn AnubsMindControl_1_1 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_1_1.hkx  
+b -o AnubsMindControl_2_1 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_2_1.hkx AOhead 
+b -o AnubsMindControl_3_1 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_3_1.hkx AOhead 
+b -o AnubsMindControl_4_1 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_4_1.hkx AOhead 
+b -o AnubsMindControl_5_1 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_5_1.hkx AOhead 
+b -o AnubsMindControl_6_1 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_6_1.hkx AOhead 
+b -o AnubsMindControl_7_1 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_7_1.hkx AOhead 
+b -o AnubsMindControl_8_1 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_8_1.hkx AOhead 
+b -Tn AnubsMindControl_1_0 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_1_0.hkx  
+b -o AnubsMindControl_2_0 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_2_0.hkx AOhand 
+b -Tn AnubsMindControl_3_0 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_3_0.hkx  
+b -Tn AnubsMindControl_4_0 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_4_0.hkx  
+b -Tn AnubsMindControl_5_0 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_5_0.hkx  
+b -Tn AnubsMindControl_6_0 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_6_0.hkx  
+b -Tn AnubsMindControl_7_0 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_7_0.hkx  
+b -Tn AnubsMindControl_8_0 ..\AnubsAgressive\fmPos\AnubsMindControl\AnubsMindControl_8_0.hkx  
+b -Tn AnubsMissionaryR_1_1 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_1_1.hkx  
+b -Tn AnubsMissionaryR_2_1 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_2_1.hkx  
+b -Tn AnubsMissionaryR_3_1 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_3_1.hkx  
+b -Tn AnubsMissionaryR_4_1 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_4_1.hkx  
+b -Tn AnubsMissionaryR_5_1 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_5_1.hkx  
+b -Tn AnubsMissionaryR_6_1 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_6_1.hkx  
+b -Tn AnubsMissionaryR_7_1 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_7_1.hkx  
+b -Tn AnubsMissionaryR_1_0 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_1_0.hkx  
+b -Tn AnubsMissionaryR_2_0 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_2_0.hkx  
+b -Tn AnubsMissionaryR_3_0 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_3_0.hkx  
+b -Tn AnubsMissionaryR_4_0 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_4_0.hkx  
+b -Tn AnubsMissionaryR_5_0 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_5_0.hkx  
+b -Tn AnubsMissionaryR_6_0 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_6_0.hkx  
+b -Tn AnubsMissionaryR_7_0 ..\AnubsAgressive\fmPos\AnubsMissionaryR\AnubsMissionaryR_7_0.hkx  
+b -Tn AnubsParalysis_1_1 ..\AnubsAgressive\fmPos\AnubsParalysis\AnubsParalysis_1_1.hkx  
+b -Tn AnubsParalysis_2_1 ..\AnubsAgressive\fmPos\AnubsParalysis\AnubsParalysis_2_1.hkx  
+b -Tn AnubsParalysis_3_1 ..\AnubsAgressive\fmPos\AnubsParalysis\AnubsParalysis_3_1.hkx  
+b -Tn AnubsParalysis_4_1 ..\AnubsAgressive\fmPos\AnubsParalysis\AnubsParalysis_4_1.hkx  
+b -Tn AnubsParalysis_5_1 ..\AnubsAgressive\fmPos\AnubsParalysis\AnubsParalysis_5_1.hkx  
+b -Tn AnubsParalysis_6_1 ..\AnubsAgressive\fmPos\AnubsParalysis\AnubsParalysis_6_1.hkx  
+b -o AnubsParalysis_1_0 ..\AnubsAgressive\fmPos\AnubsParalysis\AnubsParalysis_1_0.hkx AOvial 
+b -Tn AnubsParalysis_2_0 ..\AnubsAgressive\fmPos\AnubsParalysis\AnubsParalysis_2_0.hkx  
+b -Tn AnubsParalysis_3_0 ..\AnubsAgressive\fmPos\AnubsParalysis\AnubsParalysis_3_0.hkx  
+b -Tn AnubsParalysis_4_0 ..\AnubsAgressive\fmPos\AnubsParalysis\AnubsParalysis_4_0.hkx  
+b -Tn AnubsParalysis_5_0 ..\AnubsAgressive\fmPos\AnubsParalysis\AnubsParalysis_5_0.hkx  
+b -Tn AnubsParalysis_6_0 ..\AnubsAgressive\fmPos\AnubsParalysis\AnubsParalysis_6_0.hkx  
+b -o AnubsPole_1_1 ..\AnubsAgressive\fmPos\AnubsPole\AnubsPole_1_1.hkx Anub_polenew Anub_tiedHand 
+b -o AnubsPole_2_1 ..\AnubsAgressive\fmPos\AnubsPole\AnubsPole_2_1.hkx Anub_polenew Anub_tiedHand 
+b -o AnubsPole_3_1 ..\AnubsAgressive\fmPos\AnubsPole\AnubsPole_3_1.hkx Anub_polenew Anub_tiedHand 
+b -o AnubsPole_4_1 ..\AnubsAgressive\fmPos\AnubsPole\AnubsPole_4_1.hkx Anub_polenew Anub_tiedHand 
+b -o AnubsPole_5_1 ..\AnubsAgressive\fmPos\AnubsPole\AnubsPole_5_1.hkx Anub_polenew Anub_tiedHand 
+b -o AnubsPole_6_1 ..\AnubsAgressive\fmPos\AnubsPole\AnubsPole_6_1.hkx Anub_polenew Anub_tiedHand 
+b -Tn AnubsPole_1_0 ..\AnubsAgressive\fmPos\AnubsPole\AnubsPole_1_0.hkx  
+b -Tn AnubsPole_2_0 ..\AnubsAgressive\fmPos\AnubsPole\AnubsPole_2_0.hkx  
+b -Tn AnubsPole_3_0 ..\AnubsAgressive\fmPos\AnubsPole\AnubsPole_3_0.hkx  
+b -Tn AnubsPole_4_0 ..\AnubsAgressive\fmPos\AnubsPole\AnubsPole_4_0.hkx  
+b -Tn AnubsPole_5_0 ..\AnubsAgressive\fmPos\AnubsPole\AnubsPole_5_0.hkx  
+b -Tn AnubsPole_6_0 ..\AnubsAgressive\fmPos\AnubsPole\AnubsPole_6_0.hkx  
+b -Tn AnubsRape_1_1 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_1_1.hkx  
+b -Tn AnubsRape_2_1 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_2_1.hkx  
+b -Tn AnubsRape_3_1 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_3_1.hkx  
+b -Tn AnubsRape_4_1 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_4_1.hkx  
+b -Tn AnubsRape_5_1 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_5_1.hkx  
+b -Tn AnubsRape_6_1 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_6_1.hkx  
+b -Tn AnubsRape_7_1 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_7_1.hkx  
+b -Tn AnubsRape_8_1 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_8_1.hkx  
+b -Tn AnubsRape_9_1 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_9_1.hkx  
+b -Tn AnubsRape_1_0 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_1_0.hkx  
+b -Tn AnubsRape_2_0 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_2_0.hkx  
+b -Tn AnubsRape_3_0 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_3_0.hkx  
+b -Tn AnubsRape_4_0 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_4_0.hkx  
+b -Tn AnubsRape_5_0 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_5_0.hkx  
+b -Tn AnubsRape_6_0 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_6_0.hkx  
+b -Tn AnubsRape_7_0 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_7_0.hkx  
+b -Tn AnubsRape_8_0 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_8_0.hkx  
+b -Tn AnubsRape_9_0 ..\AnubsAgressive\fmPos\AnubsRape\AnubsRape_9_0.hkx  
+b -Tn AnubsRejection_1_1 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_1_1.hkx  
+b -Tn AnubsRejection_2_1 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_2_1.hkx  
+b -Tn AnubsRejection_3_1 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_3_1.hkx  
+b -Tn AnubsRejection_4_1 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_4_1.hkx  
+b -Tn AnubsRejection_5_1 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_5_1.hkx  
+b -Tn AnubsRejection_6_1 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_6_1.hkx  
+b -Tn AnubsRejection_7_1 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_7_1.hkx  
+b -Tn AnubsRejection_8_1 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_8_1.hkx  
+b -o AnubsRejection_1_0 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_1_0.hkx AnubFlower 
+b -o AnubsRejection_2_0 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_2_0.hkx AnubFlower 
+b -o AnubsRejection_3_0 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_3_0.hkx AnubFlower 
+b -Tn AnubsRejection_4_0 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_4_0.hkx  
+b -Tn AnubsRejection_5_0 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_5_0.hkx  
+b -Tn AnubsRejection_6_0 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_6_0.hkx  
+b -Tn AnubsRejection_7_0 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_7_0.hkx  
+b -Tn AnubsRejection_8_0 ..\AnubsAgressive\fmPos\AnubsRejection\AnubsRejection_8_0.hkx  
+b -Tn AnubsSDefeat_1_1 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_1_1.hkx  
+b -Tn AnubsSDefeat_2_1 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_2_1.hkx  
+b -Tn AnubsSDefeat_3_1 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_3_1.hkx  
+b -Tn AnubsSDefeat_4_1 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_4_1.hkx  
+b -Tn AnubsSDefeat_5_1 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_5_1.hkx  
+b -Tn AnubsSDefeat_6_1 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_6_1.hkx  
+b -Tn AnubsSDefeat_7_1 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_7_1.hkx  
+b -Tn AnubsSDefeat_1_0 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_1_0.hkx  
+b -Tn AnubsSDefeat_2_0 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_2_0.hkx  
+b -Tn AnubsSDefeat_3_0 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_3_0.hkx  
+b -Tn AnubsSDefeat_4_0 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_4_0.hkx  
+b -Tn AnubsSDefeat_5_0 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_5_0.hkx  
+b -Tn AnubsSDefeat_6_0 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_6_0.hkx  
+b -Tn AnubsSDefeat_7_0 ..\AnubsAgressive\fmPos\AnubsSDefeat\AnubsSDefeat_7_0.hkx  
+b -o AnubsThronechain_1_1 ..\AnubsAgressive\fmPos\AnubsThronechain\AnubsThronechain_1_1.hkx Anubcollar 
+b -o AnubsThronechain_2_1 ..\AnubsAgressive\fmPos\AnubsThronechain\AnubsThronechain_2_1.hkx Anubcollar 
+b -o AnubsThronechain_3_1 ..\AnubsAgressive\fmPos\AnubsThronechain\AnubsThronechain_3_1.hkx Anubcollar 
+b -o AnubsThronechain_4_1 ..\AnubsAgressive\fmPos\AnubsThronechain\AnubsThronechain_4_1.hkx Anubcollar 
+b -o AnubsThronechain_5_1 ..\AnubsAgressive\fmPos\AnubsThronechain\AnubsThronechain_5_1.hkx Anubcollar 
+b -o AnubsThronechain_6_1 ..\AnubsAgressive\fmPos\AnubsThronechain\AnubsThronechain_6_1.hkx Anubcollar 
+b -o AnubsThronechain_1_0 ..\AnubsAgressive\fmPos\AnubsThronechain\AnubsThronechain_1_0.hkx AnubThrone Anubchain3 Anubchain4 
+b -o AnubsThronechain_2_0 ..\AnubsAgressive\fmPos\AnubsThronechain\AnubsThronechain_2_0.hkx AnubThrone Anubchain3 Anubchain4 
+b -o AnubsThronechain_3_0 ..\AnubsAgressive\fmPos\AnubsThronechain\AnubsThronechain_3_0.hkx AnubThrone Anubchain3 Anubchain4 
+b -o AnubsThronechain_4_0 ..\AnubsAgressive\fmPos\AnubsThronechain\AnubsThronechain_4_0.hkx AnubThrone Anubchain3 Anubchain4 
+b -o AnubsThronechain_5_0 ..\AnubsAgressive\fmPos\AnubsThronechain\AnubsThronechain_5_0.hkx AnubThrone Anubchain3 Anubchain4 
+b -o AnubsThronechain_6_0 ..\AnubsAgressive\fmPos\AnubsThronechain\AnubsThronechain_6_0.hkx AnubThrone Anubchain3 Anubchain4 
+b -Tn AnubsUnc_1_1 ..\AnubsAgressive\fmPos\AnubsUnc\AnubsUnc_1_1.hkx  
+b -Tn AnubsUnc_2_1 ..\AnubsAgressive\fmPos\AnubsUnc\AnubsUnc_2_1.hkx  
+b -Tn AnubsUnc_3_1 ..\AnubsAgressive\fmPos\AnubsUnc\AnubsUnc_3_1.hkx  
+b -Tn AnubsUnc_4_1 ..\AnubsAgressive\fmPos\AnubsUnc\AnubsUnc_4_1.hkx  
+b -Tn AnubsUnc_5_1 ..\AnubsAgressive\fmPos\AnubsUnc\AnubsUnc_5_1.hkx  
+b -Tn AnubsUnc_1_0 ..\AnubsAgressive\fmPos\AnubsUnc\AnubsUnc_1_0.hkx  
+b -Tn AnubsUnc_2_0 ..\AnubsAgressive\fmPos\AnubsUnc\AnubsUnc_2_0.hkx  
+b -Tn AnubsUnc_3_0 ..\AnubsAgressive\fmPos\AnubsUnc\AnubsUnc_3_0.hkx  
+b -Tn AnubsUnc_4_0 ..\AnubsAgressive\fmPos\AnubsUnc\AnubsUnc_4_0.hkx  
+b -Tn AnubsUnc_5_0 ..\AnubsAgressive\fmPos\AnubsUnc\AnubsUnc_5_0.hkx  
+b -o AnubsUnc2_1_1 ..\AnubsAgressive\fmPos\AnubsUnc2\AnubsUnc2_1_1.hkx AOWristropeAf AOWristropeBf 
+b -o AnubsUnc2_2_1 ..\AnubsAgressive\fmPos\AnubsUnc2\AnubsUnc2_2_1.hkx AOWristropeAf AOWristropeBf 
+b -o AnubsUnc2_3_1 ..\AnubsAgressive\fmPos\AnubsUnc2\AnubsUnc2_3_1.hkx AOWristropeAf AOWristropeBf 
+b -o AnubsUnc2_4_1 ..\AnubsAgressive\fmPos\AnubsUnc2\AnubsUnc2_4_1.hkx AOWristropeAf AOWristropeBf 
+b -o AnubsUnc2_5_1 ..\AnubsAgressive\fmPos\AnubsUnc2\AnubsUnc2_5_1.hkx AOWristropeAf AOWristropeBf 
+b -Tn AnubsUnc2_1_0 ..\AnubsAgressive\fmPos\AnubsUnc2\AnubsUnc2_1_0.hkx  
+b -Tn AnubsUnc2_2_0 ..\AnubsAgressive\fmPos\AnubsUnc2\AnubsUnc2_2_0.hkx  
+b -Tn AnubsUnc2_3_0 ..\AnubsAgressive\fmPos\AnubsUnc2\AnubsUnc2_3_0.hkx  
+b -Tn AnubsUnc2_4_0 ..\AnubsAgressive\fmPos\AnubsUnc2\AnubsUnc2_4_0.hkx  
+b -Tn AnubsUnc2_5_0 ..\AnubsAgressive\fmPos\AnubsUnc2\AnubsUnc2_5_0.hkx  
+b -o AnubsVs_1_1 ..\AnubsAgressive\fmPos\AnubsVs\AnubsVs_1_1.hkx AOVS 
+b -o AnubsVs_2_1 ..\AnubsAgressive\fmPos\AnubsVs\AnubsVs_2_1.hkx AOVS 
+b -o AnubsVs_3_1 ..\AnubsAgressive\fmPos\AnubsVs\AnubsVs_3_1.hkx AOVS 
+b -o AnubsVs_4_1 ..\AnubsAgressive\fmPos\AnubsVs\AnubsVs_4_1.hkx AOVS 
+b -o AnubsVs_5_1 ..\AnubsAgressive\fmPos\AnubsVs\AnubsVs_5_1.hkx AOVS 
+b -o AnubsVs_1_0 ..\AnubsAgressive\fmPos\AnubsVs\AnubsVs_1_0.hkx AOVSP 
+b -o AnubsVs_2_0 ..\AnubsAgressive\fmPos\AnubsVs\AnubsVs_2_0.hkx AOVSP 
+b -o AnubsVs_3_0 ..\AnubsAgressive\fmPos\AnubsVs\AnubsVs_3_0.hkx AOVSP 
+b -o AnubsVs_4_0 ..\AnubsAgressive\fmPos\AnubsVs\AnubsVs_4_0.hkx AOVSP 
+b -o AnubsVs_5_0 ..\AnubsAgressive\fmPos\AnubsVs\AnubsVs_5_0.hkx AOVSP 
+b -o AnubsX_1_1 ..\AnubsAgressive\fmPos\AnubsX\AnubsX_1_1.hkx AOx 
+b -o AnubsX_2_1 ..\AnubsAgressive\fmPos\AnubsX\AnubsX_2_1.hkx AOx 
+b -o AnubsX_3_1 ..\AnubsAgressive\fmPos\AnubsX\AnubsX_3_1.hkx AOx 
+b -o AnubsX_4_1 ..\AnubsAgressive\fmPos\AnubsX\AnubsX_4_1.hkx AOx 
+b -o AnubsX_5_1 ..\AnubsAgressive\fmPos\AnubsX\AnubsX_5_1.hkx AOx 
+b -o AnubsX_6_1 ..\AnubsAgressive\fmPos\AnubsX\AnubsX_6_1.hkx AOx 
+b -o AnubsX_1_0 ..\AnubsAgressive\fmPos\AnubsX\AnubsX_1_0.hkx AOdildo 
+b -o AnubsX_2_0 ..\AnubsAgressive\fmPos\AnubsX\AnubsX_2_0.hkx AOdildo 
+b -o AnubsX_3_0 ..\AnubsAgressive\fmPos\AnubsX\AnubsX_3_0.hkx AOdildo 
+b -o AnubsX_4_0 ..\AnubsAgressive\fmPos\AnubsX\AnubsX_4_0.hkx AOdildo 
+b -o AnubsX_5_0 ..\AnubsAgressive\fmPos\AnubsX\AnubsX_5_0.hkx AOdildo 
+b -o AnubsX_6_0 ..\AnubsAgressive\fmPos\AnubsX\AnubsX_6_0.hkx AOdildo 

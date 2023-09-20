@@ -1,0 +1,57 @@
+{
+    "name": "Anubs  Femdom Cowgirl",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "AnubsDomFmHub",
+            "description": "Anubs  Femdom Cowgirl",
+            "icon": "OStim/symbols/gender_mf"
+        },
+        {
+            "destination": "AnubsAnubdomcow-2",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsDomFmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsAnubdomcow_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 9,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "footjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "femdom"
+    ]
+}

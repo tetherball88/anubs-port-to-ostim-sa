@@ -1,0 +1,46 @@
+{
+    "name": "Anubs BigGuy Doggystyle(Basescale 1.15)",
+    "modpack": "AnubsAnimations",
+    "length": 9.333333,
+    "destination": "AnubsBigguyDoggy-5",
+    "speeds": [
+        {
+            "animation": "AnubsBigguyDoggy_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1.15,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront",
+                "facingaway"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "bigguy",
+        "doggystyle",
+        "transition"
+    ]
+}

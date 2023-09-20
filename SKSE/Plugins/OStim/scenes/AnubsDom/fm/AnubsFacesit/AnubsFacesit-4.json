@@ -1,0 +1,68 @@
+{
+    "name": "Anubs Femdom Facesitting",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "AnubsFacesit-5",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsFacesit-3",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "AnubsDomFmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsFacesit_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "facingaway",
+                "squatting"
+            ],
+            "autoTransitions": {
+                "climax": "AnubsFacesit-5"
+            }
+        }
+    ],
+    "actions": [
+        {
+            "type": "cunnilingus",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        },
+        {
+            "type": "holdinghead",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "facesitting",
+        "femdom"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Anubs  Wall Side",
+    "modpack": "AnubsAnimations",
+    "length": 2.666667,
+    "destination": "AnubsWallside-4",
+    "speeds": [
+        {
+            "animation": "AnubsWallside_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "spreadlegs",
+                "bendover",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ],
+    "furniture": "wall"
+}

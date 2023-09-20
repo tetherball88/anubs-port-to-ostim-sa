@@ -1,0 +1,51 @@
+{
+    "name": "Anubs Femdom Facesitting",
+    "modpack": "AnubsAnimations",
+    "length": 10.666667,
+    "destination": "AnubsFacesit-4",
+    "speeds": [
+        {
+            "animation": "AnubsFacesit_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "facingaway",
+                "squatting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "cunnilingus",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        },
+        {
+            "type": "pullinghair",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "facesitting",
+        "femdom",
+        "transition"
+    ]
+}

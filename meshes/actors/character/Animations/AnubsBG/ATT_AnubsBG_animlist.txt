@@ -1,0 +1,64 @@
+b -Tn AnubsBgGentle_1_1 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_1_1.hkx  
+b -Tn AnubsBgGentle_2_1 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_2_1.hkx  
+b -Tn AnubsBgGentle_3_1 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_3_1.hkx  
+b -Tn AnubsBgGentle_4_1 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_4_1.hkx  
+b -Tn AnubsBgGentle_5_1 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_5_1.hkx  
+b -Tn AnubsBgGentle_6_1 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_6_1.hkx  
+b -Tn AnubsBgGentle_7_1 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_7_1.hkx  
+b -Tn AnubsBgGentle_1_0 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_1_0.hkx  
+b -Tn AnubsBgGentle_2_0 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_2_0.hkx  
+b -Tn AnubsBgGentle_3_0 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_3_0.hkx  
+b -Tn AnubsBgGentle_4_0 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_4_0.hkx  
+b -Tn AnubsBgGentle_5_0 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_5_0.hkx  
+b -Tn AnubsBgGentle_6_0 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_6_0.hkx  
+b -Tn AnubsBgGentle_7_0 ..\AnubsBG\fmPos\AnubsBgGentle\AnubsBgGentle_7_0.hkx  
+b -Tn AnubsBgNelson_1_1 ..\AnubsBG\fmPos\AnubsBgNelson\AnubsBgNelson_1_1.hkx  
+b -Tn AnubsBgNelson_2_1 ..\AnubsBG\fmPos\AnubsBgNelson\AnubsBgNelson_2_1.hkx  
+b -Tn AnubsBgNelson_3_1 ..\AnubsBG\fmPos\AnubsBgNelson\AnubsBgNelson_3_1.hkx  
+b -Tn AnubsBgNelson_4_1 ..\AnubsBG\fmPos\AnubsBgNelson\AnubsBgNelson_4_1.hkx  
+b -Tn AnubsBgNelson_5_1 ..\AnubsBG\fmPos\AnubsBgNelson\AnubsBgNelson_5_1.hkx  
+b -Tn AnubsBgNelson_6_1 ..\AnubsBG\fmPos\AnubsBgNelson\AnubsBgNelson_6_1.hkx  
+b -Tn AnubsBgNelson_1_0 ..\AnubsBG\fmPos\AnubsBgNelson\AnubsBgNelson_1_0.hkx  
+b -Tn AnubsBgNelson_2_0 ..\AnubsBG\fmPos\AnubsBgNelson\AnubsBgNelson_2_0.hkx  
+b -Tn AnubsBgNelson_3_0 ..\AnubsBG\fmPos\AnubsBgNelson\AnubsBgNelson_3_0.hkx  
+b -Tn AnubsBgNelson_4_0 ..\AnubsBG\fmPos\AnubsBgNelson\AnubsBgNelson_4_0.hkx  
+b -Tn AnubsBgNelson_5_0 ..\AnubsBG\fmPos\AnubsBgNelson\AnubsBgNelson_5_0.hkx  
+b -Tn AnubsBgNelson_6_0 ..\AnubsBG\fmPos\AnubsBgNelson\AnubsBgNelson_6_0.hkx  
+b -Tn AnubsBgWall_1_1 ..\AnubsBG\fmPos\AnubsBgWall\AnubsBgWall_1_1.hkx  
+b -Tn AnubsBgWall_2_1 ..\AnubsBG\fmPos\AnubsBgWall\AnubsBgWall_2_1.hkx  
+b -Tn AnubsBgWall_3_1 ..\AnubsBG\fmPos\AnubsBgWall\AnubsBgWall_3_1.hkx  
+b -Tn AnubsBgWall_4_1 ..\AnubsBG\fmPos\AnubsBgWall\AnubsBgWall_4_1.hkx  
+b -Tn AnubsBgWall_5_1 ..\AnubsBG\fmPos\AnubsBgWall\AnubsBgWall_5_1.hkx  
+b -Tn AnubsBgWall_6_1 ..\AnubsBG\fmPos\AnubsBgWall\AnubsBgWall_6_1.hkx  
+b -Tn AnubsBgWall_1_0 ..\AnubsBG\fmPos\AnubsBgWall\AnubsBgWall_1_0.hkx  
+b -Tn AnubsBgWall_2_0 ..\AnubsBG\fmPos\AnubsBgWall\AnubsBgWall_2_0.hkx  
+b -Tn AnubsBgWall_3_0 ..\AnubsBG\fmPos\AnubsBgWall\AnubsBgWall_3_0.hkx  
+b -Tn AnubsBgWall_4_0 ..\AnubsBG\fmPos\AnubsBgWall\AnubsBgWall_4_0.hkx  
+b -Tn AnubsBgWall_5_0 ..\AnubsBG\fmPos\AnubsBgWall\AnubsBgWall_5_0.hkx  
+b -Tn AnubsBgWall_6_0 ..\AnubsBG\fmPos\AnubsBgWall\AnubsBgWall_6_0.hkx  
+b -Tn AnubsBigguyDoggy_1_1 ..\AnubsBG\fmPos\AnubsBigguyDoggy\AnubsBigguyDoggy_1_1.hkx  
+b -Tn AnubsBigguyDoggy_2_1 ..\AnubsBG\fmPos\AnubsBigguyDoggy\AnubsBigguyDoggy_2_1.hkx  
+b -Tn AnubsBigguyDoggy_3_1 ..\AnubsBG\fmPos\AnubsBigguyDoggy\AnubsBigguyDoggy_3_1.hkx  
+b -Tn AnubsBigguyDoggy_4_1 ..\AnubsBG\fmPos\AnubsBigguyDoggy\AnubsBigguyDoggy_4_1.hkx  
+b -Tn AnubsBigguyDoggy_5_1 ..\AnubsBG\fmPos\AnubsBigguyDoggy\AnubsBigguyDoggy_5_1.hkx  
+b -Tn AnubsBigguyDoggy_6_1 ..\AnubsBG\fmPos\AnubsBigguyDoggy\AnubsBigguyDoggy_6_1.hkx  
+b -Tn AnubsBigguyDoggy_1_0 ..\AnubsBG\fmPos\AnubsBigguyDoggy\AnubsBigguyDoggy_1_0.hkx  
+b -Tn AnubsBigguyDoggy_2_0 ..\AnubsBG\fmPos\AnubsBigguyDoggy\AnubsBigguyDoggy_2_0.hkx  
+b -Tn AnubsBigguyDoggy_3_0 ..\AnubsBG\fmPos\AnubsBigguyDoggy\AnubsBigguyDoggy_3_0.hkx  
+b -Tn AnubsBigguyDoggy_4_0 ..\AnubsBG\fmPos\AnubsBigguyDoggy\AnubsBigguyDoggy_4_0.hkx  
+b -Tn AnubsBigguyDoggy_5_0 ..\AnubsBG\fmPos\AnubsBigguyDoggy\AnubsBigguyDoggy_5_0.hkx  
+b -Tn AnubsBigguyDoggy_6_0 ..\AnubsBG\fmPos\AnubsBigguyDoggy\AnubsBigguyDoggy_6_0.hkx  
+b -o AnubsBigguySitting_1_1 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_1_1.hkx Anubnoblebench 
+b -o AnubsBigguySitting_2_1 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_2_1.hkx Anubnoblebench 
+b -o AnubsBigguySitting_3_1 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_3_1.hkx Anubnoblebench 
+b -o AnubsBigguySitting_4_1 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_4_1.hkx Anubnoblebench 
+b -o AnubsBigguySitting_5_1 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_5_1.hkx Anubnoblebench 
+b -o AnubsBigguySitting_6_1 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_6_1.hkx Anubnoblebench 
+b -o AnubsBigguySitting_7_1 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_7_1.hkx Anubnoblebench 
+b -Tn AnubsBigguySitting_1_0 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_1_0.hkx  
+b -Tn AnubsBigguySitting_2_0 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_2_0.hkx  
+b -Tn AnubsBigguySitting_3_0 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_3_0.hkx  
+b -Tn AnubsBigguySitting_4_0 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_4_0.hkx  
+b -Tn AnubsBigguySitting_5_0 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_5_0.hkx  
+b -Tn AnubsBigguySitting_6_0 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_6_0.hkx  
+b -Tn AnubsBigguySitting_7_0 ..\AnubsBG\fmPos\AnubsBigguySitting\AnubsBigguySitting_7_0.hkx  

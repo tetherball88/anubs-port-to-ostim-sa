@@ -1,0 +1,45 @@
+{
+    "name": "Anubs Adult Reversecowgirl 2",
+    "modpack": "AnubsAnimations",
+    "length": 11,
+    "destination": "AnubsAdultRcg2-6",
+    "speeds": [
+        {
+            "animation": "AnubsAdultRcg2_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "facingaway",
+                "squatting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "reversecowgirl",
+        "transition"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "AnubsFurnitureFmWallHub",
+    "modpack": "AnubsFurniture",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStimWall2PStandingLeaningMF"
+        }
+    ],
+    "furniture": "wall",
+    "navigations": [
+        {
+            "origin": "OStimWall2PStandingLeaningMF",
+            "description": "AnubsFurnitureFmWallHub"
+        },
+        {
+            "destination": "OStimWall2PStandingLeaningMF",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "scale": 1,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}

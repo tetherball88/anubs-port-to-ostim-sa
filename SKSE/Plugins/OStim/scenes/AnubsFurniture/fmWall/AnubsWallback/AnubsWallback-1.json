@@ -1,0 +1,58 @@
+{
+    "name": "Anubs  Wall Back",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "AnubsFurnitureFmWallHub",
+            "description": "Anubs  Wall Back",
+            "icon": "OStim/symbols/gender_mf"
+        },
+        {
+            "destination": "AnubsWallback-2",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsFurnitureFmWallHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsWallback_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 5,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "facingaway"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "buttjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs"
+    ],
+    "furniture": "wall"
+}

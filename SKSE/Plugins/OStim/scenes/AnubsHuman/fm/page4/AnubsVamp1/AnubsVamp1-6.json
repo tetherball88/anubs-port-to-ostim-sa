@@ -1,0 +1,53 @@
+{
+    "name": "Anubs  Male Vampire Feeding (remake)",
+    "modpack": "AnubsAnimations",
+    "length": 9.333333,
+    "destination": "AnubsVamp1-5",
+    "speeds": [
+        {
+            "animation": "AnubsVamp1_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "facingaway",
+                "standing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vampirebite",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghead",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

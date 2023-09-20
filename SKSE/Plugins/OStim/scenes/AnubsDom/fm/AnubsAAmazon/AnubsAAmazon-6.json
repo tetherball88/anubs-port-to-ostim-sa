@@ -1,0 +1,49 @@
+{
+    "name": "Anubs  Adult Amazon 2",
+    "modpack": "AnubsAnimations",
+    "length": 12,
+    "destination": "AnubsAAmazon-5",
+    "speeds": [
+        {
+            "animation": "AnubsAAmazon_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -3,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingfoot",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "cowgirl",
+        "femdom",
+        "transition"
+    ]
+}

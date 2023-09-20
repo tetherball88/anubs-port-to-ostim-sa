@@ -1,0 +1,45 @@
+{
+    "name": "Anubs Adult Wall Corner",
+    "modpack": "AnubsAnimations",
+    "length": 11,
+    "destination": "AnubsAWallc-6",
+    "speeds": [
+        {
+            "animation": "AnubsAWallc_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "facingaway"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "doggystyle",
+        "transition"
+    ],
+    "furniture": "wall"
+}

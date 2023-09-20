@@ -1,0 +1,41 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsCaged-1",
+            "duration": 12
+        },
+        {
+            "id": "AnubsCaged-2",
+            "duration": 10.666667
+        },
+        {
+            "id": "AnubsCaged-3",
+            "duration": 10.2
+        },
+        {
+            "id": "AnubsCaged-4",
+            "duration": 10
+        },
+        {
+            "id": "AnubsCaged-5",
+            "duration": 10.2
+        },
+        {
+            "id": "AnubsCaged-6",
+            "duration": 12
+        },
+        {
+            "id": "AnubsCaged-7",
+            "duration": 10
+        },
+        {
+            "id": "AnubsCaged-8",
+            "duration": 10
+        },
+        {
+            "id": "AnubsCaged-9",
+            "duration": 9.333333
+        }
+    ],
+    "tags": []
+}

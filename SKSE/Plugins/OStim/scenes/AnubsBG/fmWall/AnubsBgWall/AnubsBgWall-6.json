@@ -1,0 +1,45 @@
+{
+    "name": "Anubs BigGuy Wall(Basescale 1.15)",
+    "modpack": "AnubsAnimations",
+    "length": 10,
+    "destination": "AnubsBgWall-5",
+    "speeds": [
+        {
+            "animation": "AnubsBgWall_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1.15,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended",
+                "facingaway"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "bigguy",
+        "transition"
+    ],
+    "furniture": "wall"
+}

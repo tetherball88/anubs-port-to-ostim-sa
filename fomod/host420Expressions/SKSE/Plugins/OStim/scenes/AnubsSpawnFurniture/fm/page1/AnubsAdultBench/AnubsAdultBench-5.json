@@ -1,0 +1,47 @@
+{
+    "name": "Anubs  Adult Bench",
+    "modpack": "AnubsAnimations",
+    "length": 11.2,
+    "destination": "AnubsAdultBench-4",
+    "speeds": [
+        {
+            "animation": "AnubsAdultBench_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "sitting"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "facingaway",
+                "standing"
+            ],
+            "expressionOverride": "ahego-10"
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "reversecowgirl",
+        "transition"
+    ]
+}

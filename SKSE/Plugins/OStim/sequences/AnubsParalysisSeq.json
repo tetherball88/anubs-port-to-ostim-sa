@@ -1,0 +1,29 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsParalysis-1",
+            "duration": 3.333333
+        },
+        {
+            "id": "AnubsParalysis-2",
+            "duration": 6.666667
+        },
+        {
+            "id": "AnubsParalysis-3",
+            "duration": 5.3
+        },
+        {
+            "id": "AnubsParalysis-4",
+            "duration": 6
+        },
+        {
+            "id": "AnubsParalysis-5",
+            "duration": 8
+        },
+        {
+            "id": "AnubsParalysis-6",
+            "duration": 3
+        }
+    ],
+    "tags": []
+}

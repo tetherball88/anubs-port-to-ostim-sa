@@ -1,0 +1,50 @@
+{
+    "name": "Anubs Levitation Rune",
+    "modpack": "AnubsAnimations",
+    "length": 5,
+    "destination": "AnubsRune-8",
+    "speeds": [
+        {
+            "animation": "AnubsRune_9"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "suspended"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        },
+        {
+            "type": "holdinghead",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "magic",
+        "transition"
+    ]
+}

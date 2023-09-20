@@ -1,0 +1,77 @@
+{
+    "name": "Anubs FFM Magick Threesome",
+    "modpack": "AnubsAnimations",
+    "length": 6.933333,
+    "destination": "AnubsMagickFfm-5",
+    "speeds": [
+        {
+            "animation": "AnubsMagickFfm_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "suspended"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended",
+                "lyingback",
+                "ontop"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended",
+                "lyingback",
+                "onbottom"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "cumonchest",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "cumonchest",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "vaginaltoying",
+            "actor": 1
+        },
+        {
+            "type": "analtoying",
+            "actor": 1
+        },
+        {
+            "type": "analtoying",
+            "actor": 2
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "magic",
+        "transition"
+    ]
+}

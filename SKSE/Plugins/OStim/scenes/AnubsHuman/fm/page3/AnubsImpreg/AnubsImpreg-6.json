@@ -1,0 +1,50 @@
+{
+    "name": "Anubs Impregnation Missionary",
+    "modpack": "AnubsAnimations",
+    "length": 9.066667,
+    "destination": "AnubsImpreg-5",
+    "speeds": [
+        {
+            "animation": "AnubsImpreg_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingfront",
+                "ontop"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "spreadlegs",
+                "lyingback",
+                "onbottom"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "gropingbutt",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "missionary",
+        "transition"
+    ]
+}

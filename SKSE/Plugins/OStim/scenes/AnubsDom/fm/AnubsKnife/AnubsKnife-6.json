@@ -1,0 +1,50 @@
+{
+    "name": "Anubs  Knife Femdom",
+    "modpack": "AnubsAnimations",
+    "length": 6.666667,
+    "destination": "AnubsKnife-5",
+    "speeds": [
+        {
+            "animation": "AnubsKnife_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "cowgirl",
+        "femdom",
+        "transition"
+    ]
+}

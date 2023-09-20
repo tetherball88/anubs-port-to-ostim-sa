@@ -1,0 +1,42 @@
+{
+    "name": "Anubs Lesbian",
+    "modpack": "AnubsAnimations",
+    "length": 12,
+    "destination": "AnubsLesbian-5",
+    "speeds": [
+        {
+            "animation": "AnubsLesbian_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingside",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "tribbing",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

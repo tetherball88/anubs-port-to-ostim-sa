@@ -1,0 +1,56 @@
+b -o AnubsFffmistress_1_0 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_1_0.hkx AOGoblet AOANUBnoblechair 
+b -o AnubsFffmistress_2_0 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_2_0.hkx AOGoblet AOANUBnoblechair 
+b -o AnubsFffmistress_3_0 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_3_0.hkx AOGoblet AOANUBnoblechair 
+b -o AnubsFffmistress_4_0 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_4_0.hkx AOGoblet AOANUBnoblechair 
+b -o AnubsFffmistress_5_0 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_5_0.hkx AOGoblet AOANUBnoblechair 
+b -o AnubsFffmistress_6_0 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_6_0.hkx AOGoblet AOANUBnoblechair 
+b -Tn AnubsFffmistress_1_1 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_1_1.hkx  
+b -Tn AnubsFffmistress_2_1 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_2_1.hkx  
+b -Tn AnubsFffmistress_3_1 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_3_1.hkx  
+b -Tn AnubsFffmistress_4_1 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_4_1.hkx  
+b -Tn AnubsFffmistress_5_1 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_5_1.hkx  
+b -Tn AnubsFffmistress_6_1 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_6_1.hkx  
+b -Tn AnubsFffmistress_1_2 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_1_2.hkx  
+b -Tn AnubsFffmistress_2_2 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_2_2.hkx  
+b -Tn AnubsFffmistress_3_2 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_3_2.hkx  
+b -Tn AnubsFffmistress_4_2 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_4_2.hkx  
+b -Tn AnubsFffmistress_5_2 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_5_2.hkx  
+b -Tn AnubsFffmistress_6_2 ..\AnubsLesbian\fffPos\AnubsFffmistress\AnubsFffmistress_6_2.hkx  
+b -Tn AnubsLesbian_1_0 ..\AnubsLesbian\ffPos\AnubsLesbian\AnubsLesbian_1_0.hkx  
+b -Tn AnubsLesbian_2_0 ..\AnubsLesbian\ffPos\AnubsLesbian\AnubsLesbian_2_0.hkx  
+b -Tn AnubsLesbian_3_0 ..\AnubsLesbian\ffPos\AnubsLesbian\AnubsLesbian_3_0.hkx  
+b -Tn AnubsLesbian_4_0 ..\AnubsLesbian\ffPos\AnubsLesbian\AnubsLesbian_4_0.hkx  
+b -Tn AnubsLesbian_5_0 ..\AnubsLesbian\ffPos\AnubsLesbian\AnubsLesbian_5_0.hkx  
+b -Tn AnubsLesbian_6_0 ..\AnubsLesbian\ffPos\AnubsLesbian\AnubsLesbian_6_0.hkx  
+b -Tn AnubsLesbian_1_1 ..\AnubsLesbian\ffPos\AnubsLesbian\AnubsLesbian_1_1.hkx  
+b -Tn AnubsLesbian_2_1 ..\AnubsLesbian\ffPos\AnubsLesbian\AnubsLesbian_2_1.hkx  
+b -Tn AnubsLesbian_3_1 ..\AnubsLesbian\ffPos\AnubsLesbian\AnubsLesbian_3_1.hkx  
+b -Tn AnubsLesbian_4_1 ..\AnubsLesbian\ffPos\AnubsLesbian\AnubsLesbian_4_1.hkx  
+b -Tn AnubsLesbian_5_1 ..\AnubsLesbian\ffPos\AnubsLesbian\AnubsLesbian_5_1.hkx  
+b -Tn AnubsLesbian_6_1 ..\AnubsLesbian\ffPos\AnubsLesbian\AnubsLesbian_6_1.hkx  
+b -Tn AnubsLesbianFf_1_0 ..\AnubsLesbian\ffPos\AnubsLesbianFf\AnubsLesbianFf_1_0.hkx  
+b -Tn AnubsLesbianFf_2_0 ..\AnubsLesbian\ffPos\AnubsLesbianFf\AnubsLesbianFf_2_0.hkx  
+b -Tn AnubsLesbianFf_3_0 ..\AnubsLesbian\ffPos\AnubsLesbianFf\AnubsLesbianFf_3_0.hkx  
+b -Tn AnubsLesbianFf_4_0 ..\AnubsLesbian\ffPos\AnubsLesbianFf\AnubsLesbianFf_4_0.hkx  
+b -Tn AnubsLesbianFf_5_0 ..\AnubsLesbian\ffPos\AnubsLesbianFf\AnubsLesbianFf_5_0.hkx  
+b -Tn AnubsLesbianFf_6_0 ..\AnubsLesbian\ffPos\AnubsLesbianFf\AnubsLesbianFf_6_0.hkx  
+b -Tn AnubsLesbianFf_1_1 ..\AnubsLesbian\ffPos\AnubsLesbianFf\AnubsLesbianFf_1_1.hkx  
+b -Tn AnubsLesbianFf_2_1 ..\AnubsLesbian\ffPos\AnubsLesbianFf\AnubsLesbianFf_2_1.hkx  
+b -Tn AnubsLesbianFf_3_1 ..\AnubsLesbian\ffPos\AnubsLesbianFf\AnubsLesbianFf_3_1.hkx  
+b -Tn AnubsLesbianFf_4_1 ..\AnubsLesbian\ffPos\AnubsLesbianFf\AnubsLesbianFf_4_1.hkx  
+b -Tn AnubsLesbianFf_5_1 ..\AnubsLesbian\ffPos\AnubsLesbianFf\AnubsLesbianFf_5_1.hkx  
+b -Tn AnubsLesbianFf_6_1 ..\AnubsLesbian\ffPos\AnubsLesbianFf\AnubsLesbianFf_6_1.hkx  
+b -Tn AnubsLesbiandomination_1_0 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_1_0.hkx  
+b -Tn AnubsLesbiandomination_2_0 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_2_0.hkx  
+b -Tn AnubsLesbiandomination_3_0 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_3_0.hkx  
+b -Tn AnubsLesbiandomination_4_0 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_4_0.hkx  
+b -Tn AnubsLesbiandomination_5_0 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_5_0.hkx  
+b -Tn AnubsLesbiandomination_6_0 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_6_0.hkx  
+b -Tn AnubsLesbiandomination_7_0 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_7_0.hkx  
+b -Tn AnubsLesbiandomination_1_1 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_1_1.hkx  
+b -Tn AnubsLesbiandomination_2_1 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_2_1.hkx  
+b -Tn AnubsLesbiandomination_3_1 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_3_1.hkx  
+b -Tn AnubsLesbiandomination_4_1 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_4_1.hkx  
+b -Tn AnubsLesbiandomination_5_1 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_5_1.hkx  
+b -Tn AnubsLesbiandomination_6_1 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_6_1.hkx  
+b -Tn AnubsLesbiandomination_7_1 ..\AnubsLesbian\ffPos\AnubsLesbiandomination\AnubsLesbiandomination_7_1.hkx  

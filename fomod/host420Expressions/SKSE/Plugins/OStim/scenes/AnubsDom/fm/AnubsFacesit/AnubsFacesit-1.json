@@ -1,0 +1,58 @@
+{
+    "name": "Anubs Femdom Facesitting",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "AnubsDomFmHub",
+            "description": "Anubs Femdom Facesitting",
+            "icon": "OStim/symbols/gender_mf"
+        },
+        {
+            "destination": "AnubsFacesit-2",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsDomFmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsFacesit_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "expressionOverride": "angry-5"
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingneck",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "femdom"
+    ]
+}

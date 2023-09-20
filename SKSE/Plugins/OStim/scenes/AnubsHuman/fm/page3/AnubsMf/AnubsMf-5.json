@@ -1,0 +1,45 @@
+{
+    "name": "Anubs  Magick Fuck",
+    "modpack": "AnubsAnimations",
+    "length": 6.5,
+    "destination": "AnubsMf-4",
+    "speeds": [
+        {
+            "animation": "AnubsMf_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended",
+                "spreadlegs"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "magic",
+        "transition"
+    ]
+}

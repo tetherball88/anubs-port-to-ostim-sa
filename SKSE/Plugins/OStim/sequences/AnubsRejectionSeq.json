@@ -1,0 +1,37 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsRejection-1",
+            "duration": 12
+        },
+        {
+            "id": "AnubsRejection-2",
+            "duration": 12
+        },
+        {
+            "id": "AnubsRejection-3",
+            "duration": 12
+        },
+        {
+            "id": "AnubsRejection-4",
+            "duration": 12
+        },
+        {
+            "id": "AnubsRejection-5",
+            "duration": 12
+        },
+        {
+            "id": "AnubsRejection-6",
+            "duration": 5.666667
+        },
+        {
+            "id": "AnubsRejection-7",
+            "duration": 11
+        },
+        {
+            "id": "AnubsRejection-8",
+            "duration": 18.833334
+        }
+    ],
+    "tags": []
+}

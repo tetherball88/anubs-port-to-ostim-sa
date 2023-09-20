@@ -1,0 +1,43 @@
+{
+    "name": "Anubs Adult Matingpress",
+    "modpack": "AnubsAnimations",
+    "length": 10,
+    "destination": "AnubsAdultMatingpress-4",
+    "speeds": [
+        {
+            "animation": "AnubsAdultMatingpress_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "squatting"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "missionary",
+        "transition"
+    ]
+}

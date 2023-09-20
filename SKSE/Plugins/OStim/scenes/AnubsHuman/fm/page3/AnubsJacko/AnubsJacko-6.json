@@ -1,0 +1,45 @@
+{
+    "name": "Anubs Split Pose Sex",
+    "modpack": "AnubsAnimations",
+    "length": 9.333333,
+    "destination": "AnubsJacko-5",
+    "speeds": [
+        {
+            "animation": "AnubsJacko_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "allfours"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "spreadlegs",
+                "facingaway",
+                "allfours"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "doggystyle",
+        "transition"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsABed2-1",
+            "duration": 10
+        },
+        {
+            "id": "AnubsABed2-2",
+            "duration": 10
+        },
+        {
+            "id": "AnubsABed2-3",
+            "duration": 10
+        },
+        {
+            "id": "AnubsABed2-4",
+            "duration": 10.2
+        },
+        {
+            "id": "AnubsABed2-5",
+            "duration": 10.4
+        },
+        {
+            "id": "AnubsABed2-6",
+            "duration": 10
+        },
+        {
+            "id": "AnubsABed2-7",
+            "duration": 11
+        }
+    ],
+    "tags": []
+}

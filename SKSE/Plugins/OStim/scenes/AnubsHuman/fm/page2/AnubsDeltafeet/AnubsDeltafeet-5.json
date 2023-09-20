@@ -1,0 +1,41 @@
+{
+    "name": "Anubs Delta Feet Worship",
+    "modpack": "AnubsAnimations",
+    "length": 6.233333,
+    "destination": "AnubsDeltafeet-4",
+    "speeds": [
+        {
+            "animation": "AnubsDeltafeet_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -7,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "allfours"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "name": "Anubs FFM Wakeup Handjob",
+    "modpack": "AnubsAnimations",
+    "length": 12,
+    "destination": "AnubsFfmSleep-6",
+    "speeds": [
+        {
+            "animation": "AnubsFfmSleep_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingside"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingside"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "handjob",
+            "actor": 2,
+            "target": 0
+        },
+        {
+            "type": "cumonchest",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "cumonchest",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "facial",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "facial",
+            "actor": 0,
+            "target": 2
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

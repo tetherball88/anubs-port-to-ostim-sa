@@ -1,0 +1,66 @@
+{
+    "name": "Anubs  FFM Housecarl Gets Even",
+    "modpack": "AnubsAnimations",
+    "length": 12,
+    "destination": "AnubsHge-6",
+    "speeds": [
+        {
+            "animation": "AnubsHge_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "kneeling"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        },
+        {
+            "type": "holdinghead",
+            "actor": 2,
+            "target": 1
+        },
+        {
+            "type": "facial",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "cumonchest",
+            "actor": 0,
+            "target": 2
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsHold-1",
+            "duration": 6
+        },
+        {
+            "id": "AnubsHold-2",
+            "duration": 8
+        },
+        {
+            "id": "AnubsHold-3",
+            "duration": 8
+        },
+        {
+            "id": "AnubsHold-4",
+            "duration": 7.5
+        },
+        {
+            "id": "AnubsHold-5",
+            "duration": 7.333333
+        },
+        {
+            "id": "AnubsHold-6",
+            "duration": 4
+        },
+        {
+            "id": "AnubsHold-7",
+            "duration": 8
+        }
+    ],
+    "tags": []
+}

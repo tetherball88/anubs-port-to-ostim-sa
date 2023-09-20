@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsBarrelMast-1",
+            "duration": 11
+        },
+        {
+            "id": "AnubsBarrelMast-2",
+            "duration": 10
+        },
+        {
+            "id": "AnubsBarrelMast-3",
+            "duration": 10
+        },
+        {
+            "id": "AnubsBarrelMast-4",
+            "duration": 10.4
+        },
+        {
+            "id": "AnubsBarrelMast-5",
+            "duration": 10.2
+        }
+    ],
+    "tags": []
+}

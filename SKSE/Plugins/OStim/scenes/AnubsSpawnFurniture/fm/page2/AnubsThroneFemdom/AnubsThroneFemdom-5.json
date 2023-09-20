@@ -1,0 +1,51 @@
+{
+    "name": "Anubs Throne Femdom",
+    "modpack": "AnubsAnimations",
+    "length": 5.6,
+    "destination": "AnubsThroneFemdom-4",
+    "speeds": [
+        {
+            "animation": "AnubsThroneFemdom_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "facingaway",
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "gropingtesticles",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "cowgirl",
+        "femdom",
+        "transition"
+    ]
+}

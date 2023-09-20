@@ -1,0 +1,33 @@
+{
+    "name": "Anubs  Female Masturbation 2",
+    "modpack": "AnubsAnimations",
+    "length": 11,
+    "destination": "AnubsFMast2-4",
+    "speeds": [
+        {
+            "animation": "AnubsFMast2_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginaltoying",
+            "actor": 0,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

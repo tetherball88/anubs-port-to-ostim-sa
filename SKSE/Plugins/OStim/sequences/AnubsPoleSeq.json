@@ -1,0 +1,29 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsPole-1",
+            "duration": 10.4
+        },
+        {
+            "id": "AnubsPole-2",
+            "duration": 10
+        },
+        {
+            "id": "AnubsPole-3",
+            "duration": 10
+        },
+        {
+            "id": "AnubsPole-4",
+            "duration": 10.4
+        },
+        {
+            "id": "AnubsPole-5",
+            "duration": 11
+        },
+        {
+            "id": "AnubsPole-6",
+            "duration": 10
+        }
+    ],
+    "tags": []
+}

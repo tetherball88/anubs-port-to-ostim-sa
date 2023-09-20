@@ -1,0 +1,29 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsTraining-1",
+            "duration": 6.666667
+        },
+        {
+            "id": "AnubsTraining-2",
+            "duration": 10.266666
+        },
+        {
+            "id": "AnubsTraining-3",
+            "duration": 6.666667
+        },
+        {
+            "id": "AnubsTraining-4",
+            "duration": 8
+        },
+        {
+            "id": "AnubsTraining-5",
+            "duration": 6
+        },
+        {
+            "id": "AnubsTraining-6",
+            "duration": 6.666667
+        }
+    ],
+    "tags": []
+}

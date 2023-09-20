@@ -1,0 +1,48 @@
+{
+    "name": "Anubs  Training",
+    "modpack": "AnubsAnimations",
+    "length": 6.666667,
+    "destination": "AnubsTraining-5",
+    "speeds": [
+        {
+            "animation": "AnubsTraining_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 9,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended"
+            ],
+            "expressionOverride": "ahego-15"
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

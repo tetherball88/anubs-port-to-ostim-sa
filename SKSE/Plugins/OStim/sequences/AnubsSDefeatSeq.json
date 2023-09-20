@@ -1,0 +1,33 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsSDefeat-1",
+            "duration": 10
+        },
+        {
+            "id": "AnubsSDefeat-2",
+            "duration": 10
+        },
+        {
+            "id": "AnubsSDefeat-3",
+            "duration": 11.2
+        },
+        {
+            "id": "AnubsSDefeat-4",
+            "duration": 10
+        },
+        {
+            "id": "AnubsSDefeat-5",
+            "duration": 10.4
+        },
+        {
+            "id": "AnubsSDefeat-6",
+            "duration": 11
+        },
+        {
+            "id": "AnubsSDefeat-7",
+            "duration": 11
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Anubs  Anal Nelson",
+    "modpack": "AnubsAnimations",
+    "length": 10,
+    "destination": "AnubsNelson-4",
+    "speeds": [
+        {
+            "animation": "AnubsNelson_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 5,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "facingaway",
+                "sitting",
+                "ontop"
+            ],
+            "expressionOverride": "ahego-13"
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "gropingbreast",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "reversecowgirl",
+        "transition"
+    ]
+}

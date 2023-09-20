@@ -1,0 +1,56 @@
+{
+    "name": "Anubs  Reverse Cowgirl",
+    "modpack": "AnubsAnimations",
+    "length": 5.5,
+    "destination": "AnubsRcowgirl-5",
+    "speeds": [
+        {
+            "animation": "AnubsRcowgirl_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 9,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "facingaway",
+                "lyingback",
+                "ontop"
+            ],
+            "expressionOverride": "ahego-14"
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "rubbingclitoris",
+            "actor": 1,
+            "target": 1
+        },
+        {
+            "type": "holdinghand",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "reversecowgirl",
+        "transition"
+    ]
+}

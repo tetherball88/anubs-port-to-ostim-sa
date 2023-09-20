@@ -1,0 +1,33 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsBedP-1",
+            "duration": 12
+        },
+        {
+            "id": "AnubsBedP-2",
+            "duration": 11.2
+        },
+        {
+            "id": "AnubsBedP-3",
+            "duration": 10.2
+        },
+        {
+            "id": "AnubsBedP-4",
+            "duration": 10.666667
+        },
+        {
+            "id": "AnubsBedP-5",
+            "duration": 10.266666
+        },
+        {
+            "id": "AnubsBedP-6",
+            "duration": 10.4
+        },
+        {
+            "id": "AnubsBedP-7",
+            "duration": 6
+        }
+    ],
+    "tags": []
+}

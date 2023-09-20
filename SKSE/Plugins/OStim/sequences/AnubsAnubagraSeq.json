@@ -1,0 +1,21 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsAnubagra-1",
+            "duration": 3.333333
+        },
+        {
+            "id": "AnubsAnubagra-2",
+            "duration": 6.666667
+        },
+        {
+            "id": "AnubsAnubagra-3",
+            "duration": 4
+        },
+        {
+            "id": "AnubsAnubagra-4",
+            "duration": 8.333333
+        }
+    ],
+    "tags": []
+}

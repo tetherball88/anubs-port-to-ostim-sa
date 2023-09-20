@@ -1,0 +1,44 @@
+{
+    "name": "Anubs  Adult Doggystyle 2",
+    "modpack": "AnubsAnimations",
+    "length": 9.333333,
+    "destination": "AnubsAdultDoggy2-5",
+    "speeds": [
+        {
+            "animation": "AnubsAdultDoggy2_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "squatting"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "facingaway",
+                "lyingfront"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "prone",
+        "transition"
+    ]
+}

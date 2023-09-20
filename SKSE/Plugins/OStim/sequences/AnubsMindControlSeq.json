@@ -1,0 +1,37 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsMindControl-1",
+            "duration": 5.333333
+        },
+        {
+            "id": "AnubsMindControl-2",
+            "duration": 10
+        },
+        {
+            "id": "AnubsMindControl-3",
+            "duration": 4.333333
+        },
+        {
+            "id": "AnubsMindControl-4",
+            "duration": 6.666667
+        },
+        {
+            "id": "AnubsMindControl-5",
+            "duration": 6.066667
+        },
+        {
+            "id": "AnubsMindControl-6",
+            "duration": 6.066667
+        },
+        {
+            "id": "AnubsMindControl-7",
+            "duration": 6
+        },
+        {
+            "id": "AnubsMindControl-8",
+            "duration": 6.666667
+        }
+    ],
+    "tags": []
+}

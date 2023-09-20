@@ -1,0 +1,45 @@
+{
+    "name": "Anubs  MMO'S Reverse Cowgirl Anal",
+    "modpack": "AnubsAnimations",
+    "length": 15,
+    "destination": "AnubsMmocg-4",
+    "speeds": [
+        {
+            "animation": "AnubsMmocg_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -6,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "allfours"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "facingaway",
+                "allfours"
+            ],
+            "expressionOverride": "ahego-8"
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "reversecowgirl",
+        "transition"
+    ]
+}

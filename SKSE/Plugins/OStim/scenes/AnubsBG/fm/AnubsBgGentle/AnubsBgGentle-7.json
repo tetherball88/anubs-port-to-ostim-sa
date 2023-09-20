@@ -1,0 +1,54 @@
+{
+    "name": "Anubs Big Guy Gentle(Basescale 1.15)",
+    "modpack": "AnubsAnimations",
+    "length": 10,
+    "destination": "AnubsBgGentle-6",
+    "speeds": [
+        {
+            "animation": "AnubsBgGentle_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 8,
+            "scale": 1.15,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "bigguy",
+        "transition"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Anubs Wall Back 2(HTB)",
+    "modpack": "AnubsAnimations",
+    "length": 10.666667,
+    "destination": "AnubsAWall4-4",
+    "speeds": [
+        {
+            "animation": "AnubsAWall4_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "bendover",
+                "standing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "doggystyle",
+        "transition"
+    ],
+    "furniture": "wall"
+}

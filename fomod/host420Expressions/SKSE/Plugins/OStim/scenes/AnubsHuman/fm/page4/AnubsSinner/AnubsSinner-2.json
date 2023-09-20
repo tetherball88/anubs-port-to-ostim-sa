@@ -1,0 +1,73 @@
+{
+    "name": "Anubs Kissing Standing",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "AnubsSinner-3",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsSinner-1",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "AnubsHumanPage4",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsSinner_2"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "facingaway",
+                "standing"
+            ],
+            "expressionOverride": "ahego-5"
+        }
+    ],
+    "actions": [
+        {
+            "type": "rubbingclitoris",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "grindingpenis",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "pattinghead",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "holdingneck",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs"
+    ]
+}

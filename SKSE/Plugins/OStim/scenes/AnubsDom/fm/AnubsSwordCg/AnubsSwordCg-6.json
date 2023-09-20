@@ -1,0 +1,46 @@
+{
+    "name": "Anubs  Sword Cowgirl",
+    "modpack": "AnubsAnimations",
+    "length": 6.166667,
+    "destination": "AnubsSwordCg-5",
+    "speeds": [
+        {
+            "animation": "AnubsSwordCg_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -2,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "kneeling",
+                "facingaway"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "reversecowgirl",
+        "femdom",
+        "transition"
+    ]
+}

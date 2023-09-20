@@ -1,0 +1,48 @@
+{
+    "name": "Anubs Foreplay",
+    "modpack": "AnubsAnimations",
+    "length": 12,
+    "destination": "AnubsForeplay-5",
+    "speeds": [
+        {
+            "animation": "AnubsForeplay_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "handstanding"
+            ],
+            "expressionOverride": "ahego-15"
+        }
+    ],
+    "actions": [
+        {
+            "type": "cunnilingus",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "rubbingclitoris",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

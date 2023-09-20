@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsFacesit-1",
+            "duration": 6.333333
+        },
+        {
+            "id": "AnubsFacesit-2",
+            "duration": 5.6
+        },
+        {
+            "id": "AnubsFacesit-3",
+            "duration": 11.2
+        },
+        {
+            "id": "AnubsFacesit-4",
+            "duration": 5.333333
+        },
+        {
+            "id": "AnubsFacesit-5",
+            "duration": 10.666667
+        }
+    ],
+    "tags": []
+}

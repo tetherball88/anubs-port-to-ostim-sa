@@ -1,0 +1,43 @@
+{
+    "name": "Anubs  D6 Breeding (HTB)",
+    "modpack": "AnubsAnimations",
+    "length": 7,
+    "destination": "AnubsD6b-4",
+    "speeds": [
+        {
+            "animation": "AnubsD6b_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "kneeling"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "missionary",
+        "transition"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsNelson-1",
+            "duration": 2.666667
+        },
+        {
+            "id": "AnubsNelson-2",
+            "duration": 0.633333
+        },
+        {
+            "id": "AnubsNelson-3",
+            "duration": 7.333333
+        },
+        {
+            "id": "AnubsNelson-4",
+            "duration": 3
+        },
+        {
+            "id": "AnubsNelson-5",
+            "duration": 10
+        }
+    ],
+    "tags": []
+}

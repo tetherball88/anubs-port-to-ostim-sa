@@ -1,0 +1,50 @@
+{
+    "name": "Anubs Adult Missionary 2",
+    "modpack": "AnubsAnimations",
+    "length": 6.666667,
+    "destination": "AnubsAm2-4",
+    "speeds": [
+        {
+            "animation": "AnubsAm2_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "allfours"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "spreadlegs",
+                "lyingback"
+            ],
+            "expressionOverride": "ahego-10"
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "missionary",
+        "transition"
+    ]
+}

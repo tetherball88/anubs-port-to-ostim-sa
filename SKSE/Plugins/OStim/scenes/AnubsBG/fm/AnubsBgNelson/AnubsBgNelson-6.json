@@ -1,0 +1,58 @@
+{
+    "name": "Anubs Big Guy Nelson (Basescale 1.15)",
+    "modpack": "AnubsAnimations",
+    "length": 11,
+    "destination": "AnubsBgNelson-5",
+    "speeds": [
+        {
+            "animation": "AnubsBgNelson_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 9,
+            "scale": 1.15,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "onbottom",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "ontop",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "rubbingclitoris",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingneck",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "bigguy",
+        "transition"
+    ]
+}

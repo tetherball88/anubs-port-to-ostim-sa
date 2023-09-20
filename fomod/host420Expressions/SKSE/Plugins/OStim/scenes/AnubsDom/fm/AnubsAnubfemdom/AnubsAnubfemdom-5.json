@@ -1,0 +1,51 @@
+{
+    "name": "Anubs  Femdom",
+    "modpack": "AnubsAnimations",
+    "length": 1.666667,
+    "destination": "AnubsAnubfemdom-4",
+    "speeds": [
+        {
+            "animation": "AnubsAnubfemdom_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -2,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting"
+            ],
+            "expressionOverride": "ahego-12"
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "femdom",
+        "cowgirl",
+        "transition"
+    ]
+}

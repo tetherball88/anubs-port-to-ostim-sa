@@ -1,0 +1,33 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsMissionaryR-1",
+            "duration": 12
+        },
+        {
+            "id": "AnubsMissionaryR-2",
+            "duration": 12
+        },
+        {
+            "id": "AnubsMissionaryR-3",
+            "duration": 11
+        },
+        {
+            "id": "AnubsMissionaryR-4",
+            "duration": 10.8
+        },
+        {
+            "id": "AnubsMissionaryR-5",
+            "duration": 10.666667
+        },
+        {
+            "id": "AnubsMissionaryR-6",
+            "duration": 10.666667
+        },
+        {
+            "id": "AnubsMissionaryR-7",
+            "duration": 10.666667
+        }
+    ],
+    "tags": []
+}

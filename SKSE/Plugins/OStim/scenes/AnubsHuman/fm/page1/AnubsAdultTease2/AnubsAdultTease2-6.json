@@ -1,0 +1,42 @@
+{
+    "name": "Anubs Adult Tease 2",
+    "modpack": "AnubsAnimations",
+    "length": 12,
+    "destination": "AnubsAdultTease2-5",
+    "speeds": [
+        {
+            "animation": "AnubsAdultTease2_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 9,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "grindingpenis",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

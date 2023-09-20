@@ -1,0 +1,46 @@
+{
+    "name": "Anubs  Chair Anal Doggy",
+    "modpack": "AnubsAnimations",
+    "length": 8.666667,
+    "destination": "AnubsChairDoggy-5",
+    "speeds": [
+        {
+            "animation": "AnubsChairDoggy_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "squatting"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "facingaway",
+                "bendover",
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "doggystyle",
+        "transition"
+    ]
+}

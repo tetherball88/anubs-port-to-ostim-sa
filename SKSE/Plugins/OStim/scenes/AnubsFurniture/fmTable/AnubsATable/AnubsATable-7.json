@@ -1,0 +1,49 @@
+{
+    "name": "Anubs Adult Table (Invisible)",
+    "modpack": "AnubsAnimations",
+    "length": 12,
+    "destination": "AnubsATable-6",
+    "speeds": [
+        {
+            "animation": "AnubsATable_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "missionary",
+        "transition"
+    ],
+    "furniture": "table"
+}

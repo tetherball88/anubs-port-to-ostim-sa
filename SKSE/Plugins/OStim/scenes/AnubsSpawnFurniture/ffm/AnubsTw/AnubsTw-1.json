@@ -1,0 +1,69 @@
+{
+    "name": "Anubs  FFM Throne Worship",
+    "modpack": "AnubsAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "AnubsSpawnFurnitureFfmHub",
+            "description": "Anubs  FFM Throne Worship",
+            "icon": "OStim/symbols/gender_mf"
+        },
+        {
+            "destination": "AnubsTw-2",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "AnubsSpawnFurnitureFfmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "AnubsTw_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "holdinghip",
+            "actor": 2,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs"
+    ]
+}

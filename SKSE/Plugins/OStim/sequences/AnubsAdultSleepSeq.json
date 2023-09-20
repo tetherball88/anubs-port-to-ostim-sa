@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsAdultSleep-1",
+            "duration": 10.666667
+        },
+        {
+            "id": "AnubsAdultSleep-2",
+            "duration": 7
+        },
+        {
+            "id": "AnubsAdultSleep-3",
+            "duration": 6.333333
+        },
+        {
+            "id": "AnubsAdultSleep-4",
+            "duration": 6
+        },
+        {
+            "id": "AnubsAdultSleep-5",
+            "duration": 6.666667
+        }
+    ],
+    "tags": []
+}
