@@ -1,0 +1,29 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsAfABedsleep-1",
+            "duration": 12
+        },
+        {
+            "id": "AnubsAfABedsleep-2",
+            "duration": 12
+        },
+        {
+            "id": "AnubsAfABedsleep-3",
+            "duration": 12
+        },
+        {
+            "id": "AnubsAfABedsleep-4",
+            "duration": 10
+        },
+        {
+            "id": "AnubsAfABedsleep-5",
+            "duration": 10
+        },
+        {
+            "id": "AnubsAfABedsleep-6",
+            "duration": 12
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Anubs  Drunk",
+    "modpack": "AnubsAnimations",
+    "length": 10,
+    "destination": "AnubsDrunk-9",
+    "speeds": [
+        {
+            "animation": "AnubsDrunk_8"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        },
+        {
+            "type": "holdingarm",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "transition"
+    ],
+    "furniture": "bench"
+}

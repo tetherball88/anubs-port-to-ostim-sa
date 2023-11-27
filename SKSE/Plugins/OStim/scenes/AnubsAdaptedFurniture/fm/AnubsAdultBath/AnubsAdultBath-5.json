@@ -1,0 +1,43 @@
+{
+    "name": "Anubs Adult Bath",
+    "modpack": "AnubsAnimations",
+    "length": 5.333333,
+    "destination": "AnubsAdultBath-4",
+    "speeds": [
+        {
+            "animation": "AnubsAdultBath_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

@@ -1,16 +1,8 @@
 
 Nemesis_Engine/
 meta.ini
-AnubsDom.zip
-AnubsHuman.zip
-AnubsLesbian.zip
-AnubsSolo.zip
-AnubsSpawnFurniture.zip
-AnubsBG.zip
-AnubsFurniture.zip
-AnubsSequences.zip
 fomod/*
 !fomod/fomod
 !fomod/host420Expressions
-Anub's animations for Ostim Standalone.zip
+*.zip
 old

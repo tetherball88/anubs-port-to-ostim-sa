@@ -1,0 +1,47 @@
+{
+    "name": "Anubs Caged",
+    "modpack": "AnubsAnimations",
+    "length": 9.333333,
+    "destination": "AnubsAfCaged-10",
+    "speeds": [
+        {
+            "animation": "AnubsAfCaged_9"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "facingaway",
+                "climaxing"
+            ],
+            "expressionOverride": "ahego-13"
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "reversecowgirl",
+        "transition"
+    ]
+}

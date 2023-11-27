@@ -1,0 +1,52 @@
+{
+    "name": "Anubs  Adult Chair Cowgirl",
+    "modpack": "AnubsAnimations",
+    "length": 12,
+    "destination": "AnubsAfAChairCg-5",
+    "speeds": [
+        {
+            "animation": "AnubsAfAChairCg_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting",
+                "onbottom",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "sitting",
+                "ontop",
+                "facingaway"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "rubbingclitoris",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "reversecowgirl",
+        "transition"
+    ],
+    "furniture": "chair"
+}

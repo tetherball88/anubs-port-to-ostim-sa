@@ -205,6 +205,18 @@ b -Tn AnubsFfmBed_3_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_3_0.
 b -Tn AnubsFfmBed_4_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_4_0.hkx  
 b -Tn AnubsFfmBed_5_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_5_0.hkx  
 b -Tn AnubsFfmBed_6_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmBed\AnubsFfmBed_6_0.hkx  
+b -Tn AnubsFfmFemdom3_1_1 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_1_1.hkx  
+b -Tn AnubsFfmFemdom3_2_1 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_2_1.hkx  
+b -Tn AnubsFfmFemdom3_3_1 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_3_1.hkx  
+b -Tn AnubsFfmFemdom3_4_1 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_4_1.hkx  
+b -Tn AnubsFfmFemdom3_1_2 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_1_2.hkx  
+b -Tn AnubsFfmFemdom3_2_2 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_2_2.hkx  
+b -Tn AnubsFfmFemdom3_3_2 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_3_2.hkx  
+b -Tn AnubsFfmFemdom3_4_2 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_4_2.hkx  
+b -o AnubsFfmFemdom3_1_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_1_0.hkx AOcuffL2 AOcuffR2 AOchair4 
+b -o AnubsFfmFemdom3_2_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_2_0.hkx AOcuffL2 AOcuffR2 AOchair4 
+b -o AnubsFfmFemdom3_3_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_3_0.hkx AOcuffL2 AOcuffR2 AOchair4 
+b -o AnubsFfmFemdom3_4_0 ..\AnubsSpawnFurniture\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_4_0.hkx AOcuffL2 AOcuffR2 AOchair4 
 b -o AnubsThroneFemdom_1_1 ..\AnubsSpawnFurniture\fmPos\AnubsThroneFemdom\AnubsThroneFemdom_1_1.hkx AOThroneR 
 b -o AnubsThroneFemdom_2_1 ..\AnubsSpawnFurniture\fmPos\AnubsThroneFemdom\AnubsThroneFemdom_2_1.hkx AOThroneR 
 b -o AnubsThroneFemdom_3_1 ..\AnubsSpawnFurniture\fmPos\AnubsThroneFemdom\AnubsThroneFemdom_3_1.hkx AOThroneR 

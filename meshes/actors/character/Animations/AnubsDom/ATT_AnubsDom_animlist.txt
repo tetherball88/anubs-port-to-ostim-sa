@@ -74,18 +74,6 @@ b -Tn AnubsFemfoot_3_0 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_3_0.hkx
 b -Tn AnubsFemfoot_4_0 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_4_0.hkx  
 b -Tn AnubsFemfoot_5_0 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_5_0.hkx  
 b -Tn AnubsFemfoot_6_0 ..\AnubsDom\fmPos\AnubsFemfoot\AnubsFemfoot_6_0.hkx  
-b -Tn AnubsFfmFemdom3_1_1 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_1_1.hkx  
-b -Tn AnubsFfmFemdom3_2_1 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_2_1.hkx  
-b -Tn AnubsFfmFemdom3_3_1 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_3_1.hkx  
-b -Tn AnubsFfmFemdom3_4_1 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_4_1.hkx  
-b -Tn AnubsFfmFemdom3_1_2 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_1_2.hkx  
-b -Tn AnubsFfmFemdom3_2_2 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_2_2.hkx  
-b -Tn AnubsFfmFemdom3_3_2 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_3_2.hkx  
-b -Tn AnubsFfmFemdom3_4_2 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_4_2.hkx  
-b -o AnubsFfmFemdom3_1_0 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_1_0.hkx AOcuffL2 AOcuffR2 AOchair4 
-b -o AnubsFfmFemdom3_2_0 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_2_0.hkx AOcuffL2 AOcuffR2 AOchair4 
-b -o AnubsFfmFemdom3_3_0 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_3_0.hkx AOcuffL2 AOcuffR2 AOchair4 
-b -o AnubsFfmFemdom3_4_0 ..\AnubsDom\ffmPos\AnubsFfmFemdom3\AnubsFfmFemdom3_4_0.hkx AOcuffL2 AOcuffR2 AOchair4 
 b -Tn AnubsFfmReversal_1_1 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_1_1.hkx  
 b -Tn AnubsFfmReversal_2_1 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_2_1.hkx  
 b -Tn AnubsFfmReversal_3_1 ..\AnubsDom\ffmPos\AnubsFfmReversal\AnubsFfmReversal_3_1.hkx  

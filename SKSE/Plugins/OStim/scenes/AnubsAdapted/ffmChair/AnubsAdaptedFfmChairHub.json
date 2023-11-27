@@ -1,0 +1,55 @@
+{
+    "name": "AnubsAdaptedFfmChairHub",
+    "modpack": "AnubsAdapted",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "AnubsAfTw_1"
+        }
+    ],
+    "furniture": "chair",
+    "navigations": [
+        {
+            "origin": "AnubsTmpFFMChair",
+            "description": "AnubsAdaptedFfmChairHub"
+        },
+        {
+            "destination": "AnubsTmpFFMChair",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "noRandomSelection": true
+}

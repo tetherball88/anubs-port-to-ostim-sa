@@ -1,0 +1,49 @@
+{
+    "name": "Anubs  Adult Sofa",
+    "modpack": "AnubsAnimations",
+    "length": 11.2,
+    "destination": "AnubsAfASofa-7",
+    "speeds": [
+        {
+            "animation": "AnubsAfASofa_8"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "missionary",
+        "transition"
+    ],
+    "furniture": "bench"
+}

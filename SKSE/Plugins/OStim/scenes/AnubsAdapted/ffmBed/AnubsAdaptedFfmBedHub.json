@@ -1,0 +1,51 @@
+{
+    "name": "AnubsAdaptedFfmBedHub",
+    "modpack": "AnubsAdapted",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStim3PLyingMFF"
+        }
+    ],
+    "furniture": "bed",
+    "navigations": [
+        {
+            "origin": "OStim3PLyingMFF",
+            "description": "AnubsAdaptedFfmBedHub"
+        },
+        {
+            "destination": "OStim3PLyingMFF",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "noRandomSelection": true
+}

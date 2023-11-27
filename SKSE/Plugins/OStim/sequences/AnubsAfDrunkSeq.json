@@ -1,0 +1,41 @@
+{
+    "scenes": [
+        {
+            "id": "AnubsAfDrunk-1",
+            "duration": 12
+        },
+        {
+            "id": "AnubsAfDrunk-2",
+            "duration": 11
+        },
+        {
+            "id": "AnubsAfDrunk-3",
+            "duration": 10.2
+        },
+        {
+            "id": "AnubsAfDrunk-4",
+            "duration": 10.2
+        },
+        {
+            "id": "AnubsAfDrunk-5",
+            "duration": 10
+        },
+        {
+            "id": "AnubsAfDrunk-6",
+            "duration": 10.4
+        },
+        {
+            "id": "AnubsAfDrunk-7",
+            "duration": 11
+        },
+        {
+            "id": "AnubsAfDrunk-8",
+            "duration": 10
+        },
+        {
+            "id": "AnubsAfDrunk-9",
+            "duration": 9.333333
+        }
+    ],
+    "tags": []
+}

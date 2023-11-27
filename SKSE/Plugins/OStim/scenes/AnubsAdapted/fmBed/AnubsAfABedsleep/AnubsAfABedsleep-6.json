@@ -1,0 +1,50 @@
+{
+    "name": "Anubs Adult Bed Sleep",
+    "modpack": "AnubsAnimations",
+    "length": 12,
+    "destination": "AnubsAfABedsleep-5",
+    "speeds": [
+        {
+            "animation": "AnubsAfABedsleep_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "facial",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "sleeping",
+            "actor": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ],
+    "furniture": "bed"
+}
