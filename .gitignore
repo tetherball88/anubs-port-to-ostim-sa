@@ -2,6 +2,7 @@
 Nemesis_Engine/
 meta.ini
 fomod/*
+!fomod/Interface
 !fomod/fomod
 !fomod/host420Expressions
 *.zip

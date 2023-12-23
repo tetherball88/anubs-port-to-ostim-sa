@@ -6,12 +6,12 @@
         {
             "destination": "AnubsWallfront-5",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsWallfront-3",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsFurnitureFmWallHub",
@@ -58,5 +58,9 @@
     "tags": [
         "anubs"
     ],
-    "furniture": "wall"
+    "furniture": "wall",
+    "offset": {
+        "y": 37,
+        "r": 180
+    }
 }

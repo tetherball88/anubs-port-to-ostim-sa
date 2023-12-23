@@ -6,12 +6,12 @@
         {
             "origin": "AnubsHumanPage1",
             "description": "Anubs Adult Reversecowgirl 2",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/reversecowgirl_alt_mf"
         },
         {
             "destination": "AnubsAdultRcg2-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsHumanPage1",

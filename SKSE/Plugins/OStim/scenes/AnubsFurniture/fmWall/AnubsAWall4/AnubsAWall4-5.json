@@ -41,5 +41,8 @@
         "doggystyle",
         "transition"
     ],
-    "furniture": "wall"
+    "furniture": "wall",
+    "offset": {
+        "y": -19
+    }
 }

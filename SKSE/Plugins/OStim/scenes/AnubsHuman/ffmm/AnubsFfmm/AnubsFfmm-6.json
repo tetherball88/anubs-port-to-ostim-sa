@@ -6,7 +6,7 @@
         {
             "destination": "AnubsFfmm-5",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsHumanFfmmHub",

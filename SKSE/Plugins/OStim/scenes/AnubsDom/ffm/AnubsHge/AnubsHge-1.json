@@ -6,12 +6,12 @@
         {
             "origin": "AnubsDomFfmHub",
             "description": "Anubs  FFM Housecarl Gets Even",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "AnubsHge-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsDomFfmHub",

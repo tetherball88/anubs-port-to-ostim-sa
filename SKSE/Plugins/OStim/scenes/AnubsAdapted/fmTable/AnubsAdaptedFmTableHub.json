@@ -10,11 +10,12 @@
     "furniture": "table",
     "navigations": [
         {
-            "origin": "OStimTable2PStandingLeaningMF",
-            "description": "AnubsAdaptedFmTableHub"
+            "origin": "AnubsFmTablePack",
+            "description": "AnubsAdaptedFmTableHub",
+            "icon": "OStim/anub_pack"
         },
         {
-            "destination": "OStimTable2PStandingLeaningMF",
+            "destination": "AnubsFmTablePack",
             "description": "Return",
             "icon": "OStim/symbols/return",
             "priority": -1000

@@ -6,12 +6,12 @@
         {
             "destination": "AnubsAfAdultRbed2-4",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsAfAdultRbed2-2",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsAdaptedFfmBedHub",
@@ -68,5 +68,10 @@
         "anubs",
         "facesitting"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "y": 7,
+        "z": -38,
+        "r": 180
+    }
 }

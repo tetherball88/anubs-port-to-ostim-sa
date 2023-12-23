@@ -6,12 +6,12 @@
         {
             "origin": "AnubsFurnitureFmTableHub",
             "description": "Anubs Counter Sex (Invisible)",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/table/missionary_mf"
         },
         {
             "destination": "AnubsAnubCounter-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsFurnitureFmTableHub",

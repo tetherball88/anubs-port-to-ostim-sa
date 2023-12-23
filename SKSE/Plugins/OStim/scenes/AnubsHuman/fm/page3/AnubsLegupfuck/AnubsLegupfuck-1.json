@@ -6,12 +6,12 @@
         {
             "origin": "AnubsHumanPage3",
             "description": "Anubs Legup Fuck",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/missionary_mf"
         },
         {
             "destination": "AnubsLegupfuck-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsHumanPage3",

@@ -6,12 +6,12 @@
         {
             "destination": "AnubsTw-6",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "AnubsTw-4",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsSpawnFurnitureFfmHub",
@@ -67,6 +67,7 @@
             "target": 1
         }
     ],
+    "noRandomSelection": true,
     "tags": [
         "anubs",
         "doggystyle"

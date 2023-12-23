@@ -49,5 +49,8 @@
         "reversecowgirl",
         "transition"
     ],
-    "furniture": "chair"
+    "furniture": "chair",
+    "offset": {
+        "y": 15
+    }
 }

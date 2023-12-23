@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "AnubsHumanFmHub",
-            "description": "AnubsHumanPage4"
+            "description": "AnubsHumanPage4",
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "AnubsHumanFmHub",

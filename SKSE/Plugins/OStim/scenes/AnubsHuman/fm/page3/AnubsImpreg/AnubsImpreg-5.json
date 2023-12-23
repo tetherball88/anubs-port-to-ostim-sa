@@ -6,12 +6,12 @@
         {
             "destination": "AnubsImpreg-6",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "AnubsImpreg-4",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsHumanPage3",

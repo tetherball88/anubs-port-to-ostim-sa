@@ -59,5 +59,10 @@
         "anubs",
         "transition"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "x": -20,
+        "z": -44,
+        "r": 180
+    }
 }

@@ -6,12 +6,12 @@
         {
             "destination": "AnubsAWallc-7",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "AnubsAWallc-5",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsFurnitureFmWallHub",
@@ -61,5 +61,9 @@
         "anubs",
         "doggystyle"
     ],
-    "furniture": "wall"
+    "furniture": "wall",
+    "offset": {
+        "y": -20,
+        "r": 180
+    }
 }

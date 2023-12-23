@@ -6,12 +6,12 @@
         {
             "origin": "AnubsHumanFfmmHub",
             "description": "Anubs  FFMM",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "AnubsFfmm-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsHumanFfmmHub",

@@ -6,12 +6,12 @@
         {
             "origin": "AnubsFurnitureFmBedHub",
             "description": "Anubs Adult Bed 2(invisible)",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/reversecowgirl_mf"
         },
         {
             "destination": "AnubsABed2-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsFurnitureFmBedHub",
@@ -58,5 +58,10 @@
     "tags": [
         "anubs"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "x": 16,
+        "y": -64,
+        "z": -43
+    }
 }

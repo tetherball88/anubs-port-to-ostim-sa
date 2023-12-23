@@ -9,11 +9,12 @@
     ],
     "navigations": [
         {
-            "origin": "OStim3PStandingMFF",
-            "description": "AnubsSpawnFurnitureFfmHub"
+            "origin": "AnubsFfmPack",
+            "description": "AnubsSpawnFurnitureFfmHub",
+            "icon": "OStim/anub_pack"
         },
         {
-            "destination": "OStim3PStandingMFF",
+            "destination": "AnubsFfmPack",
             "description": "Return",
             "icon": "OStim/symbols/return",
             "priority": -1000

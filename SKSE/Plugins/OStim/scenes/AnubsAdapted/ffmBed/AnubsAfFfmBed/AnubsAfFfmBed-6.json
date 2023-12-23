@@ -51,5 +51,10 @@
         "missionary",
         "transition"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "y": 9,
+        "z": -38,
+        "r": 180
+    }
 }

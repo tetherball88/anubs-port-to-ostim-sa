@@ -6,12 +6,12 @@
         {
             "origin": "AnubsAdaptedFmBedHub",
             "description": "Anubs Bed Prostitution",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/doggystyle_mm"
         },
         {
             "destination": "AnubsAfBedP-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsAdaptedFmBedHub",
@@ -49,5 +49,9 @@
     "tags": [
         "anubs"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "z": -40,
+        "r": 180
+    }
 }

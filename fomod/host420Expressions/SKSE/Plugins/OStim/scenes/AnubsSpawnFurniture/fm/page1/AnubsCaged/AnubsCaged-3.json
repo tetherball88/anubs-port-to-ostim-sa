@@ -14,7 +14,7 @@
             "icon": "OStim/symbols/arrow_left"
         },
         {
-            "destination": "AnubsSpawnFurniturePage1",
+            "destination": "AnubsAdaptedFurnitureFmHub",
             "description": "Return",
             "icon": "OStim/symbols/return"
         }

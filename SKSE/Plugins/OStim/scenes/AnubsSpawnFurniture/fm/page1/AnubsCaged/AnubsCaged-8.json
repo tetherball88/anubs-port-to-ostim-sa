@@ -6,12 +6,12 @@
         {
             "destination": "AnubsCaged-9",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "AnubsCaged-7",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsSpawnFurniturePage1",

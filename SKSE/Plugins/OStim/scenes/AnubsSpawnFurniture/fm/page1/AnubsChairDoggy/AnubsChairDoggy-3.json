@@ -6,12 +6,12 @@
         {
             "destination": "AnubsChairDoggy-4",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsChairDoggy-2",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsSpawnFurniturePage1",

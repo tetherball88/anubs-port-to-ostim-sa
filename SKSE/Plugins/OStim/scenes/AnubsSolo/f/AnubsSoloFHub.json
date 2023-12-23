@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "OStim1PStandingF",
-            "description": "AnubsSoloFHub"
+            "description": "AnubsSoloFHub",
+            "icon": "OStim/anub_pack"
         },
         {
             "destination": "OStim1PStandingF",

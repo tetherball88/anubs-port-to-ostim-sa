@@ -6,12 +6,12 @@
         {
             "origin": "AnubsBGFmWallHub",
             "description": "Anubs BigGuy Wall(Basescale 1.15)",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/sexual/thighjob_mf"
         },
         {
             "destination": "AnubsBgWall-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsBGFmWallHub",
@@ -56,5 +56,9 @@
         "anubs",
         "bigguy"
     ],
-    "furniture": "wall"
+    "furniture": "wall",
+    "offset": {
+        "y": -15,
+        "r": 180
+    }
 }

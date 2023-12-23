@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "AnubsSpawnFurnitureFmHub",
-            "description": "AnubsSpawnFurniturePage2"
+            "description": "AnubsSpawnFurniturePage2",
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "AnubsSpawnFurnitureFmHub",

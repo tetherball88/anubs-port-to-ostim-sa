@@ -6,12 +6,12 @@
         {
             "origin": "AnubsFurnitureFfWallHub",
             "description": "Anubs Wall Lesbian Cunnilingus",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "AnubsLesbianWc-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsFurnitureFfWallHub",
@@ -55,5 +55,8 @@
     "tags": [
         "anubs"
     ],
-    "furniture": "wall"
+    "furniture": "wall",
+    "offset": {
+        "y": -17
+    }
 }

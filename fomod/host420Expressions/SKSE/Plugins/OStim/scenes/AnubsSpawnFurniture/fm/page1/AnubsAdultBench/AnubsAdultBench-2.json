@@ -14,7 +14,7 @@
             "icon": "OStim/symbols/arrow_left"
         },
         {
-            "destination": "AnubsSpawnFurniturePage1",
+            "destination": "AnubsAdaptedFurnitureFmBenchHub",
             "description": "Return",
             "icon": "OStim/symbols/return"
         }
@@ -56,5 +56,6 @@
     "noRandomSelection": true,
     "tags": [
         "anubs"
-    ]
+    ],
+    "furniture": "bench"
 }

@@ -6,12 +6,12 @@
         {
             "destination": "AnubsAfABedsleep-6",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "AnubsAfABedsleep-4",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsAdaptedFmBedHub",
@@ -61,5 +61,11 @@
         "anubs",
         "missionary"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "x": 15,
+        "y": 17,
+        "z": -40,
+        "r": 180
+    }
 }

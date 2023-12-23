@@ -6,12 +6,12 @@
         {
             "destination": "AnubsAfFfmBed-6",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "AnubsAfFfmBed-4",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsAdaptedFfmBedHub",
@@ -81,5 +81,10 @@
         "anubs",
         "doggystyle"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "y": 9,
+        "z": -38,
+        "r": 180
+    }
 }

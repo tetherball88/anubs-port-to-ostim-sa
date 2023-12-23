@@ -6,12 +6,12 @@
         {
             "destination": "AnubsAfAdultBarTable-4",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsAfAdultBarTable-2",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsAdaptedFmTableHub",
@@ -60,5 +60,10 @@
         "anubs",
         "doggystyle"
     ],
-    "furniture": "table"
+    "furniture": "table",
+    "offset": {
+        "y": 30,
+        "z": 13,
+        "r": 180
+    }
 }

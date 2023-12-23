@@ -11,7 +11,8 @@
     "navigations": [
         {
             "origin": "OStimChair2PSittingStandingMF",
-            "description": "AnubsAdaptedFmChairHub"
+            "description": "AnubsAdaptedFmChairHub",
+            "icon": "OStim/anub_pack"
         },
         {
             "destination": "OStimChair2PSittingStandingMF",

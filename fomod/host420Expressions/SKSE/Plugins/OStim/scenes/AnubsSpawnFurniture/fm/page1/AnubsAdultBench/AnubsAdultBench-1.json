@@ -4,7 +4,7 @@
     "length": 2,
     "navigations": [
         {
-            "origin": "AnubsSpawnFurniturePage1",
+            "origin": "AnubsAdaptedFurnitureFmBenchHub",
             "description": "Anubs  Adult Bench",
             "icon": "OStim/symbols/gender_mf"
         },
@@ -14,7 +14,7 @@
             "icon": "OStim/symbols/arrow_right"
         },
         {
-            "destination": "AnubsSpawnFurniturePage1",
+            "destination": "AnubsAdaptedFurnitureFmBenchHub",
             "description": "Return",
             "icon": "OStim/symbols/return"
         }
@@ -58,5 +58,6 @@
     "noRandomSelection": true,
     "tags": [
         "anubs"
-    ]
+    ],
+    "furniture": "bench"
 }

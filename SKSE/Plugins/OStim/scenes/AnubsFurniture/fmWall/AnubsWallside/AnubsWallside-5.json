@@ -48,5 +48,9 @@
         "anubs",
         "transition"
     ],
-    "furniture": "wall"
+    "furniture": "wall",
+    "offset": {
+        "y": 37,
+        "r": 180
+    }
 }

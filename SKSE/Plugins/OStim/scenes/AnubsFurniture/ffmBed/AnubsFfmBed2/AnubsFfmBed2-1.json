@@ -6,12 +6,12 @@
         {
             "origin": "AnubsFurnitureFfmBedHub",
             "description": "Anubs FFM Bed 2 (Invisible)",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/doggystyle_mff"
         },
         {
             "destination": "AnubsFfmBed2-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsFurnitureFfmBedHub",
@@ -66,5 +66,10 @@
     "tags": [
         "anubs"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "x": -20,
+        "z": -44,
+        "r": 180
+    }
 }

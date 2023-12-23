@@ -6,12 +6,12 @@
         {
             "origin": "AnubsHumanPage4",
             "description": "Anubs  Male Vampire Feeding (remake)",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sensual/vampirebite"
         },
         {
             "destination": "AnubsVamp1-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsHumanPage4",

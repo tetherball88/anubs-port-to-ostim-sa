@@ -6,12 +6,12 @@
         {
             "origin": "AnubsSpawnFurniturePage1",
             "description": "Anubs Caged",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "AnubsCaged-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsSpawnFurniturePage1",

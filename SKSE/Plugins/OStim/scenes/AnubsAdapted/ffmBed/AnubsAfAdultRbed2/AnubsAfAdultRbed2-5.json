@@ -53,5 +53,10 @@
         "cowgirl",
         "transition"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "y": 7,
+        "z": -38,
+        "r": 180
+    }
 }

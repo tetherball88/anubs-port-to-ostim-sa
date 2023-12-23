@@ -6,12 +6,12 @@
         {
             "origin": "AnubsHumanPage2",
             "description": "Anubs Delta Feet Worship",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/cowgirl_feetface_mf"
         },
         {
             "destination": "AnubsDeltafeet-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsHumanPage2",

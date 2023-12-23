@@ -6,12 +6,12 @@
         {
             "destination": "AnubsFfmBed-4",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsFfmBed-2",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsSpawnFurnitureFfmHub",
@@ -70,6 +70,7 @@
             "target": 1
         }
     ],
+    "noRandomSelection": true,
     "tags": [
         "anubs",
         "cowgirl"

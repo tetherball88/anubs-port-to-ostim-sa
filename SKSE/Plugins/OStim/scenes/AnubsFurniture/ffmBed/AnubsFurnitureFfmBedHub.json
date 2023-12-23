@@ -10,11 +10,12 @@
     "furniture": "bed",
     "navigations": [
         {
-            "origin": "OStim3PLyingMFF",
-            "description": "AnubsFurnitureFfmBedHub"
+            "origin": "AnubsFfmBedPack",
+            "description": "AnubsFurnitureFfmBedHub",
+            "icon": "OStim/anub_pack"
         },
         {
-            "destination": "OStim3PLyingMFF",
+            "destination": "AnubsFfmBedPack",
             "description": "Return",
             "icon": "OStim/symbols/return",
             "priority": -1000

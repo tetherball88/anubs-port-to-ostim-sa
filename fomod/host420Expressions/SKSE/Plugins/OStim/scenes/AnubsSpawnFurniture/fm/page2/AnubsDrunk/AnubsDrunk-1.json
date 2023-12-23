@@ -4,7 +4,7 @@
     "length": 2,
     "navigations": [
         {
-            "origin": "AnubsSpawnFurniturePage2",
+            "origin": "AnubsAdaptedFurnitureFmBenchHub",
             "description": "Anubs  Drunk",
             "icon": "OStim/symbols/gender_mf"
         },
@@ -14,7 +14,7 @@
             "icon": "OStim/symbols/arrow_right"
         },
         {
-            "destination": "AnubsSpawnFurniturePage2",
+            "destination": "AnubsAdaptedFurnitureFmBenchHub",
             "description": "Return",
             "icon": "OStim/symbols/return"
         }
@@ -54,5 +54,6 @@
     "noRandomSelection": true,
     "tags": [
         "anubs"
-    ]
+    ],
+    "furniture": "bench"
 }

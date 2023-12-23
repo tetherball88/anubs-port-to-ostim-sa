@@ -10,11 +10,12 @@
     "furniture": "wall",
     "navigations": [
         {
-            "origin": "OStimWall2PStandingLeaningMF",
-            "description": "AnubsBGFmWallHub"
+            "origin": "AnubsFmWallPack",
+            "description": "AnubsBGFmWallHub",
+            "icon": "OStim/anub_pack"
         },
         {
-            "destination": "OStimWall2PStandingLeaningMF",
+            "destination": "AnubsFmWallPack",
             "description": "Return",
             "icon": "OStim/symbols/return",
             "priority": -1000

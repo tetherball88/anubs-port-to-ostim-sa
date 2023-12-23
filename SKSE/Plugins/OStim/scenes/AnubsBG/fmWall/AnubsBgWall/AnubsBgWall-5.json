@@ -6,12 +6,12 @@
         {
             "destination": "AnubsBgWall-6",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "AnubsBgWall-4",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsBGFmWallHub",
@@ -67,5 +67,9 @@
         "anubs",
         "bigguy"
     ],
-    "furniture": "wall"
+    "furniture": "wall",
+    "offset": {
+        "y": -15,
+        "r": 180
+    }
 }

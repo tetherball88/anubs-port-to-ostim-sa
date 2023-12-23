@@ -6,12 +6,12 @@
         {
             "origin": "AnubsHumanFfmHub",
             "description": "Anubs FFM Wakeup Handjob",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/positional/lyingdown_mff"
         },
         {
             "destination": "AnubsFfmSleep-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsHumanFfmHub",

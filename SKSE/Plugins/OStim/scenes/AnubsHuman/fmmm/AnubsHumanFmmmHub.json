@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "OStim4PStandingMMMF",
-            "description": "AnubsHumanFmmmHub"
+            "description": "AnubsHumanFmmmHub",
+            "icon": "OStim/anub_pack"
         },
         {
             "destination": "OStim4PStandingMMMF",

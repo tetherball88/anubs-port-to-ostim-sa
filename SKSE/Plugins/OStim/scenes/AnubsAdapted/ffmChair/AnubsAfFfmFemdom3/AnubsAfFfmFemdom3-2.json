@@ -6,12 +6,12 @@
         {
             "destination": "AnubsAfFfmFemdom3-3",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsAfFfmFemdom3-1",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsAdaptedFfmChairHub",
@@ -72,5 +72,8 @@
     "tags": [
         "anubs"
     ],
-    "furniture": "chair"
+    "furniture": "chair",
+    "offset": {
+        "y": 15
+    }
 }

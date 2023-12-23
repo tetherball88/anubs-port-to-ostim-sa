@@ -14,7 +14,7 @@
             "icon": "OStim/symbols/arrow_left"
         },
         {
-            "destination": "AnubsSpawnFurniturePage2",
+            "destination": "AnubsAdaptedFurnitureFmBenchHub",
             "description": "Return",
             "icon": "OStim/symbols/return"
         }
@@ -61,5 +61,6 @@
         "anubs",
         "femdom",
         "facesitting"
-    ]
+    ],
+    "furniture": "bench"
 }

@@ -22,13 +22,13 @@ b -Tn AnubsAfAChairCg_3_0 ..\AnubsAdapted\fmChairPos\AnubsAfAChairCg\AnubsAfACha
 b -Tn AnubsAfAChairCg_4_0 ..\AnubsAdapted\fmChairPos\AnubsAfAChairCg\AnubsAfAChairCg_4_0.hkx  
 b -Tn AnubsAfAChairCg_5_0 ..\AnubsAdapted\fmChairPos\AnubsAfAChairCg\AnubsAfAChairCg_5_0.hkx  
 b -Tn AnubsAfAChairCg_6_0 ..\AnubsAdapted\fmChairPos\AnubsAfAChairCg\AnubsAfAChairCg_6_0.hkx  
-b -Tn AnubsAfASide_1_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_1_1.hkx  
-b -Tn AnubsAfASide_2_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_2_1.hkx  
-b -Tn AnubsAfASide_3_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_3_1.hkx  
-b -Tn AnubsAfASide_4_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_4_1.hkx  
-b -Tn AnubsAfASide_5_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_5_1.hkx  
-b -Tn AnubsAfASide_6_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_6_1.hkx  
-b -Tn AnubsAfASide_7_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_7_1.hkx  
+b -o AnubsAfASide_1_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_1_1.hkx AnubbuttchairB 
+b -o AnubsAfASide_2_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_2_1.hkx AnubbuttchairB 
+b -o AnubsAfASide_3_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_3_1.hkx AnubbuttchairB 
+b -o AnubsAfASide_4_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_4_1.hkx AnubbuttchairB 
+b -o AnubsAfASide_5_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_5_1.hkx AnubbuttchairB 
+b -o AnubsAfASide_6_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_6_1.hkx AnubbuttchairB 
+b -o AnubsAfASide_7_1 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_7_1.hkx AnubbuttchairB 
 b -Tn AnubsAfASide_1_0 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_1_0.hkx  
 b -Tn AnubsAfASide_2_0 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_2_0.hkx  
 b -Tn AnubsAfASide_3_0 ..\AnubsAdapted\fmPos\AnubsAfASide\AnubsAfASide_3_0.hkx  

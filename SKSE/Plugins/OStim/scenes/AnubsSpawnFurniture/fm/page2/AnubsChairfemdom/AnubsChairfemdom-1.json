@@ -6,12 +6,12 @@
         {
             "origin": "AnubsSpawnFurniturePage2",
             "description": "Anubs  Chair Tied Femdom",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/chair/reversecowgirl_mf"
         },
         {
             "destination": "AnubsChairfemdom-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsSpawnFurniturePage2",

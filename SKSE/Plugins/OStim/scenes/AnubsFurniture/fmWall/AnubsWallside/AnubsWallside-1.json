@@ -6,12 +6,12 @@
         {
             "origin": "AnubsFurnitureFmWallHub",
             "description": "Anubs  Wall Side",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/legup_mf"
         },
         {
             "destination": "AnubsWallside-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsFurnitureFmWallHub",
@@ -58,5 +58,9 @@
     "tags": [
         "anubs"
     ],
-    "furniture": "wall"
+    "furniture": "wall",
+    "offset": {
+        "y": 37,
+        "r": 180
+    }
 }

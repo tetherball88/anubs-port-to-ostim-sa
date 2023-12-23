@@ -11,7 +11,8 @@
     "navigations": [
         {
             "origin": "OStimBench2PBothSittingMF",
-            "description": "AnubsAdaptedFmBenchHub"
+            "description": "AnubsAdaptedFmBenchHub",
+            "icon": "OStim/anub_pack"
         },
         {
             "destination": "OStimBench2PBothSittingMF",

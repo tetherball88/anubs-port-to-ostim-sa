@@ -45,5 +45,10 @@
         "anubs",
         "transition"
     ],
-    "furniture": "table"
+    "furniture": "table",
+    "offset": {
+        "y": 30,
+        "z": 13,
+        "r": 180
+    }
 }

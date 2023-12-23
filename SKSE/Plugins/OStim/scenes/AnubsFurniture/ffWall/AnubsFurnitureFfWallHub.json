@@ -11,7 +11,8 @@
     "navigations": [
         {
             "origin": "OStimWall2PStandingLeaningFF",
-            "description": "AnubsFurnitureFfWallHub"
+            "description": "AnubsFurnitureFfWallHub",
+            "icon": "OStim/anub_pack"
         },
         {
             "destination": "OStimWall2PStandingLeaningFF",

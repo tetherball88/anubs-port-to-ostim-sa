@@ -45,5 +45,8 @@
         "missionary",
         "transition"
     ],
-    "furniture": "table"
+    "furniture": "table",
+    "offset": {
+        "y": 20
+    }
 }

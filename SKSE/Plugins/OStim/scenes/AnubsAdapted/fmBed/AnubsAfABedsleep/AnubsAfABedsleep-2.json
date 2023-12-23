@@ -6,12 +6,12 @@
         {
             "destination": "AnubsAfABedsleep-3",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsAfABedsleep-1",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsAdaptedFmBedHub",
@@ -57,5 +57,11 @@
     "tags": [
         "anubs"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "x": 15,
+        "y": 17,
+        "z": -40,
+        "r": 180
+    }
 }

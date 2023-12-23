@@ -4,17 +4,18 @@
     "length": 2,
     "speeds": [
         {
-            "animation": "AnubsAfTw_1"
+            "animation": "OStimBench3PSittingStandingMFF"
         }
     ],
     "furniture": "chair",
     "navigations": [
         {
-            "origin": "AnubsTmpFFMChair",
-            "description": "AnubsAdaptedFfmChairHub"
+            "origin": "OStimChair3PSittingStandingMFF",
+            "description": "AnubsAdaptedFfmChairHub",
+            "icon": "OStim/anub_pack"
         },
         {
-            "destination": "AnubsTmpFFMChair",
+            "destination": "OStimChair3PSittingStandingMFF",
             "description": "Return",
             "icon": "OStim/symbols/return",
             "priority": -1000
@@ -27,28 +28,25 @@
     "actors": [
         {
             "intendedSex": "male",
-            "sosBend": 2,
-            "scale": 1,
-            "feetOnGround": true,
+            "scale": 1.03,
             "tags": [
                 "sitting"
-            ]
+            ],
+            "feetOnGround": false
         },
         {
             "intendedSex": "female",
-            "scale": 1,
-            "feetOnGround": true,
             "tags": [
-                "sitting"
-            ]
+                "standing"
+            ],
+            "feetOnGround": true
         },
         {
             "intendedSex": "female",
-            "scale": 1,
-            "feetOnGround": false,
             "tags": [
-                "kneeling"
-            ]
+                "standing"
+            ],
+            "feetOnGround": true
         }
     ],
     "noRandomSelection": true

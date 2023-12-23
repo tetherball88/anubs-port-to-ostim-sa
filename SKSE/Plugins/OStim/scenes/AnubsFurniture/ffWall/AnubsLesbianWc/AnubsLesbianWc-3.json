@@ -6,12 +6,12 @@
         {
             "destination": "AnubsLesbianWc-4",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "AnubsLesbianWc-2",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsFurnitureFfWallHub",
@@ -61,5 +61,8 @@
     "tags": [
         "anubs"
     ],
-    "furniture": "wall"
+    "furniture": "wall",
+    "offset": {
+        "y": -17
+    }
 }

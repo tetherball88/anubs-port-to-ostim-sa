@@ -6,12 +6,12 @@
         {
             "origin": "AnubsDomFmHub",
             "description": "Anubs  Femdom",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "AnubsAnubfemdom-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsDomFmHub",

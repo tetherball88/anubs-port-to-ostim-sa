@@ -6,12 +6,12 @@
         {
             "origin": "AnubsAdaptedFmBedHub",
             "description": "Anubs Adult Bed Sleep",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/missionary_mf"
         },
         {
             "destination": "AnubsAfABedsleep-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsAdaptedFmBedHub",
@@ -61,5 +61,11 @@
     "tags": [
         "anubs"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "x": 15,
+        "y": 17,
+        "z": -40,
+        "r": 180
+    }
 }

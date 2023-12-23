@@ -41,5 +41,9 @@
         "bigguy",
         "transition"
     ],
-    "furniture": "wall"
+    "furniture": "wall",
+    "offset": {
+        "y": -15,
+        "r": 180
+    }
 }

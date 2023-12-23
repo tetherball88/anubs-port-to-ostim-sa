@@ -46,6 +46,7 @@
             "actor": 1
         }
     ],
+    "noRandomSelection": true,
     "tags": [
         "anubs",
         "missionary",

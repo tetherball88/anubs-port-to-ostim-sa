@@ -6,12 +6,12 @@
         {
             "origin": "AnubsBGFmHub",
             "description": "Anubs BigGuy Doggystyle(Basescale 1.15)",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/doggystyle_mf"
         },
         {
             "destination": "AnubsBigguyDoggy-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsBGFmHub",

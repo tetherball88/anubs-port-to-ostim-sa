@@ -6,12 +6,12 @@
         {
             "origin": "AnubsSpawnFurnitureFfmHub",
             "description": "Anubs  FFM Throne Worship",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "AnubsTw-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsSpawnFurnitureFfmHub",
@@ -63,6 +63,7 @@
             "target": 0
         }
     ],
+    "noRandomSelection": true,
     "tags": [
         "anubs"
     ]

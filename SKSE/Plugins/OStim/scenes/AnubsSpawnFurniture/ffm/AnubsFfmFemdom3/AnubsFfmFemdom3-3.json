@@ -6,12 +6,12 @@
         {
             "destination": "AnubsFfmFemdom3-4",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "AnubsFfmFemdom3-2",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsSpawnFurnitureFfmHub",
@@ -66,6 +66,7 @@
             "actor": 1
         }
     ],
+    "noRandomSelection": true,
     "tags": [
         "anubs"
     ]

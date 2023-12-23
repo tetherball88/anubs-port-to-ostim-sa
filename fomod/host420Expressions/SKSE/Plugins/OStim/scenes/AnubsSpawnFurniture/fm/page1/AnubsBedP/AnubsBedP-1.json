@@ -4,7 +4,7 @@
     "length": 2,
     "navigations": [
         {
-            "origin": "AnubsSpawnFurniturePage1",
+            "origin": "AnubsAdaptedFurnitureFmBedHub",
             "description": "Anubs Bed Prostitution",
             "icon": "OStim/symbols/gender_mf"
         },
@@ -14,7 +14,7 @@
             "icon": "OStim/symbols/arrow_right"
         },
         {
-            "destination": "AnubsSpawnFurniturePage1",
+            "destination": "AnubsAdaptedFurnitureFmBedHub",
             "description": "Return",
             "icon": "OStim/symbols/return"
         }
@@ -48,5 +48,6 @@
     "noRandomSelection": true,
     "tags": [
         "anubs"
-    ]
+    ],
+    "furniture": "bed"
 }

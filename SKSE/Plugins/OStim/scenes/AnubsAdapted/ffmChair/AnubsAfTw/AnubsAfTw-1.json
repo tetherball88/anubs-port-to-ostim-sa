@@ -6,12 +6,12 @@
         {
             "origin": "AnubsAdaptedFfmChairHub",
             "description": "Anubs  FFM Throne Worship",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "AnubsAfTw-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsAdaptedFfmChairHub",

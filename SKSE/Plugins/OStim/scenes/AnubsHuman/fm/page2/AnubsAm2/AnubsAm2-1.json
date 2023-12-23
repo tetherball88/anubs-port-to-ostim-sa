@@ -6,12 +6,12 @@
         {
             "origin": "AnubsHumanPage2",
             "description": "Anubs Adult Missionary 2",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/missionary_mf"
         },
         {
             "destination": "AnubsAm2-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsHumanPage2",

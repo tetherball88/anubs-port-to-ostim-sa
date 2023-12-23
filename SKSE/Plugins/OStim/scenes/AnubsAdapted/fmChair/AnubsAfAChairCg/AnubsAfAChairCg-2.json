@@ -6,12 +6,12 @@
         {
             "destination": "AnubsAfAChairCg-3",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsAfAChairCg-1",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsAdaptedFmChairHub",
@@ -60,5 +60,8 @@
     "tags": [
         "anubs"
     ],
-    "furniture": "chair"
+    "furniture": "chair",
+    "offset": {
+        "y": 15
+    }
 }

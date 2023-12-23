@@ -6,12 +6,12 @@
         {
             "origin": "AnubsAdaptedFmHub",
             "description": "Anubs Adult Chair Side",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/sideways_mf"
         },
         {
             "destination": "AnubsAfASide-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsAdaptedFmHub",

@@ -6,7 +6,7 @@
         {
             "destination": "AnubsAfCaged-8",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsAdaptedFmHub",

@@ -6,7 +6,7 @@
         {
             "destination": "AnubsDrunk-7",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "AnubsSpawnFurniturePage2",

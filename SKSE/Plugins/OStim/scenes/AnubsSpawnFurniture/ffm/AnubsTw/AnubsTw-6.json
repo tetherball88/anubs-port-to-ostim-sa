@@ -51,6 +51,7 @@
             "target": 2
         }
     ],
+    "noRandomSelection": true,
     "tags": [
         "anubs",
         "transition"

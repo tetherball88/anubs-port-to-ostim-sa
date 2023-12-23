@@ -14,7 +14,7 @@
             "icon": "OStim/symbols/arrow_left"
         },
         {
-            "destination": "AnubsSpawnFurniturePage1",
+            "destination": "AnubsAdaptedFurnitureFmChairHub",
             "description": "Return",
             "icon": "OStim/symbols/return"
         }
@@ -57,5 +57,6 @@
     "tags": [
         "anubs",
         "cowgirl"
-    ]
+    ],
+    "furniture": "chair"
 }

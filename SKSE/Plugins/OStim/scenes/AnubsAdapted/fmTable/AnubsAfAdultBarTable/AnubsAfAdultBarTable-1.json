@@ -6,12 +6,12 @@
         {
             "origin": "AnubsAdaptedFmTableHub",
             "description": "Anubs Adult Bar Table",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/table/blowjob_lyingback_mf"
         },
         {
             "destination": "AnubsAfAdultBarTable-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsAdaptedFmTableHub",
@@ -58,5 +58,10 @@
     "tags": [
         "anubs"
     ],
-    "furniture": "table"
+    "furniture": "table",
+    "offset": {
+        "y": 30,
+        "z": 13,
+        "r": 180
+    }
 }

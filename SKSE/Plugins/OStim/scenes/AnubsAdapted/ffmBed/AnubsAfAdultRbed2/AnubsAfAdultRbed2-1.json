@@ -6,12 +6,12 @@
         {
             "origin": "AnubsAdaptedFfmBedHub",
             "description": "Anubs Male Female Female Royal Bed 2",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "AnubsAfAdultRbed2-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "AnubsAdaptedFfmBedHub",
@@ -85,5 +85,10 @@
     "tags": [
         "anubs"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "y": 7,
+        "z": -38,
+        "r": 180
+    }
 }

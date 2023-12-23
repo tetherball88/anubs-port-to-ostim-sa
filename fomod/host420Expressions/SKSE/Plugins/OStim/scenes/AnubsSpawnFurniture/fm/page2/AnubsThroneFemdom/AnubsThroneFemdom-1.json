@@ -4,7 +4,7 @@
     "length": 2,
     "navigations": [
         {
-            "origin": "AnubsSpawnFurniturePage2",
+            "origin": "AnubsAdaptedFurnitureFmBenchHub",
             "description": "Anubs Throne Femdom",
             "icon": "OStim/symbols/gender_mf"
         },
@@ -14,7 +14,7 @@
             "icon": "OStim/symbols/arrow_right"
         },
         {
-            "destination": "AnubsSpawnFurniturePage2",
+            "destination": "AnubsAdaptedFurnitureFmBenchHub",
             "description": "Return",
             "icon": "OStim/symbols/return"
         }
@@ -55,5 +55,6 @@
     "tags": [
         "anubs",
         "femdom"
-    ]
+    ],
+    "furniture": "bench"
 }
