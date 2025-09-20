@@ -1,0 +1,65 @@
+{
+    "name": "Anubs  FFM Femdom Reversal",
+    "modpack": "AnubsAnimations",
+    "length": 12,
+    "destination": "AnubsFfmReversal-5SwappedM0-F1",
+    "speeds": [
+        {
+            "animation": "AnubsFfmReversal_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "ontop",
+                "facingaway",
+                "lyingfront"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "onbottom",
+                "facingaway",
+                "lyingfront"
+            ],
+            "animationIndex": 1
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "cumonbutt",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "cumonbutt",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

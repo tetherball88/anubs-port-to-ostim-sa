@@ -1,0 +1,87 @@
+{
+    "name": "Anubs  MMMF Gangbang",
+    "modpack": "AnubsAnimations",
+    "length": 6,
+    "destination": "AnubsGangbang-3SwappedM1-F0",
+    "speeds": [
+        {
+            "animation": "AnubsGangbang_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -4,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "kneeling"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "climaxing",
+                "kneeling"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": -5,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "standing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 1
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 2
+        },
+        {
+            "type": "facial",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "cumonchest",
+            "actor": 1,
+            "target": 3
+        },
+        {
+            "type": "facial",
+            "actor": 2,
+            "target": 3
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

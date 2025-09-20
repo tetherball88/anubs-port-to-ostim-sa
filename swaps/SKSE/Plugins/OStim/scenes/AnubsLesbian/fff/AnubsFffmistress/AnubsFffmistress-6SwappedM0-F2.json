@@ -1,0 +1,68 @@
+{
+    "name": "Anubs  FFF Mistress",
+    "modpack": "AnubsAnimations",
+    "length": 5.333333,
+    "destination": "AnubsFffmistress-5SwappedM0-F2",
+    "speeds": [
+        {
+            "animation": "AnubsFffmistress_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "kneeling"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        }
+    ],
+    "actions": [
+        {
+            "type": "frenchkissing",
+            "actor": 2,
+            "target": 0
+        },
+        {
+            "type": "holdinghand",
+            "actor": 2,
+            "target": 0
+        },
+        {
+            "type": "vaginalfisting",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "gropingbutt",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

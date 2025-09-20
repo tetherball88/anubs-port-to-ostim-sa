@@ -1,0 +1,64 @@
+{
+    "name": "Anubs FFM Femdom",
+    "modpack": "AnubsAnimations",
+    "length": 6,
+    "destination": "AnubsFfmfemdom-3",
+    "speeds": [
+        {
+            "animation": "AnubsFfmfemdom_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "climaxing",
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "kneeling"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "cumonchest",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "cunnilingus",
+            "actor": 0,
+            "target": 2,
+            "performer": 2
+        },
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs",
+        "femdom",
+        "facesitting",
+        "transition"
+    ]
+}

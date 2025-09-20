@@ -1,0 +1,59 @@
+{
+    "name": "Anubs  FFM Throne Worship",
+    "modpack": "AnubsAnimations",
+    "length": 8,
+    "destination": "AnubsTw-5",
+    "speeds": [
+        {
+            "animation": "AnubsTw_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "facial",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "facial",
+            "actor": 0,
+            "target": 2
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

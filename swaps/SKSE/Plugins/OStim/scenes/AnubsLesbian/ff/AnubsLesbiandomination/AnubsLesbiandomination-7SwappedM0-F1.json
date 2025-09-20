@@ -1,0 +1,51 @@
+{
+    "name": "Anubs Lesbian Domination",
+    "modpack": "AnubsAnimations",
+    "length": 6,
+    "destination": "AnubsLesbiandomination-6SwappedM0-F1",
+    "speeds": [
+        {
+            "animation": "AnubsLesbiandomination_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "facingaway"
+            ],
+            "animationIndex": 0
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        },
+        {
+            "type": "holdingarm",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "anubs",
+        "facesitting",
+        "femdom",
+        "transition"
+    ]
+}
